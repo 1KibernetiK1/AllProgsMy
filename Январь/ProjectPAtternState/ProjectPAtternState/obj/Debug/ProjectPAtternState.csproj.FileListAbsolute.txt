@@ -1,0 +1,14 @@
+C:\Users\12345\Desktop\ \Studies\SergPAv\Программирование\Декабрь(WPF)\ProjectPAtternState\ProjectPAtternState\bin\Debug\ProjectPAtternState.exe.config
+C:\Users\12345\Desktop\ \Studies\SergPAv\Программирование\Декабрь(WPF)\ProjectPAtternState\ProjectPAtternState\bin\Debug\ProjectPAtternState.exe
+C:\Users\12345\Desktop\ \Studies\SergPAv\Программирование\Декабрь(WPF)\ProjectPAtternState\ProjectPAtternState\bin\Debug\ProjectPAtternState.pdb
+C:\Users\12345\Desktop\ \Studies\SergPAv\Программирование\Декабрь(WPF)\ProjectPAtternState\ProjectPAtternState\obj\Debug\ProjectPAtternState.csprojAssemblyReference.cache
+C:\Users\12345\Desktop\ \Studies\SergPAv\Программирование\Декабрь(WPF)\ProjectPAtternState\ProjectPAtternState\obj\Debug\ProjectPAtternState.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\ \Studies\SergPAv\Программирование\Декабрь(WPF)\ProjectPAtternState\ProjectPAtternState\obj\Debug\ProjectPAtternState.exe
+C:\Users\12345\Desktop\ \Studies\SergPAv\Программирование\Декабрь(WPF)\ProjectPAtternState\ProjectPAtternState\obj\Debug\ProjectPAtternState.pdb
+E:\SergPAv\Программирование\Январь\ProjectPAtternState\ProjectPAtternState\bin\Debug\ProjectPAtternState.exe.config
+E:\SergPAv\Программирование\Январь\ProjectPAtternState\ProjectPAtternState\bin\Debug\ProjectPAtternState.exe
+E:\SergPAv\Программирование\Январь\ProjectPAtternState\ProjectPAtternState\bin\Debug\ProjectPAtternState.pdb
+E:\SergPAv\Программирование\Январь\ProjectPAtternState\ProjectPAtternState\obj\Debug\ProjectPAtternState.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Январь\ProjectPAtternState\ProjectPAtternState\obj\Debug\ProjectPAtternState.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Январь\ProjectPAtternState\ProjectPAtternState\obj\Debug\ProjectPAtternState.exe
+E:\SergPAv\Программирование\Январь\ProjectPAtternState\ProjectPAtternState\obj\Debug\ProjectPAtternState.pdb

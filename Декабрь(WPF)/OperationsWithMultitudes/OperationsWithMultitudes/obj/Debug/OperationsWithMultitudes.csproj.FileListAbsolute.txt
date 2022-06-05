@@ -1,0 +1,7 @@
+D:\visual studio 2010\Никулин ПИ-225\OperationsWithMultitudes\OperationsWithMultitudes\bin\Debug\OperationsWithMultitudes.exe.config
+D:\visual studio 2010\Никулин ПИ-225\OperationsWithMultitudes\OperationsWithMultitudes\bin\Debug\OperationsWithMultitudes.exe
+D:\visual studio 2010\Никулин ПИ-225\OperationsWithMultitudes\OperationsWithMultitudes\bin\Debug\OperationsWithMultitudes.pdb
+D:\visual studio 2010\Никулин ПИ-225\OperationsWithMultitudes\OperationsWithMultitudes\obj\Debug\OperationsWithMultitudes.csprojAssemblyReference.cache
+D:\visual studio 2010\Никулин ПИ-225\OperationsWithMultitudes\OperationsWithMultitudes\obj\Debug\OperationsWithMultitudes.csproj.CoreCompileInputs.cache
+D:\visual studio 2010\Никулин ПИ-225\OperationsWithMultitudes\OperationsWithMultitudes\obj\Debug\OperationsWithMultitudes.exe
+D:\visual studio 2010\Никулин ПИ-225\OperationsWithMultitudes\OperationsWithMultitudes\obj\Debug\OperationsWithMultitudes.pdb

@@ -1,0 +1,52 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v5.0,Profile=windows": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v5.0,Profile=windows": []
+  },
+  "packageFolders": {
+    "C:\\Users\\12345\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\SergPAv\\Программирование\\Ноябрь(WPF)\\WpfApp7\\WpfApp7\\WpfApp7.csproj",
+      "projectName": "WpfApp7",
+      "projectPath": "G:\\SergPAv\\Программирование\\Ноябрь(WPF)\\WpfApp7\\WpfApp7\\WpfApp7.csproj",
+      "packagesPath": "C:\\Users\\12345\\.nuget\\packages\\",
+      "outputPath": "G:\\SergPAv\\Программирование\\Ноябрь(WPF)\\WpfApp7\\WpfApp7\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\12345\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net50-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net50-windows": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net50-windows": {}
+    }
+  }
+}

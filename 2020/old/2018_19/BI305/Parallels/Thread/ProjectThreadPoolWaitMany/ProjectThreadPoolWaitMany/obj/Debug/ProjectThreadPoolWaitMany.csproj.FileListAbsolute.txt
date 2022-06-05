@@ -1,0 +1,5 @@
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadPoolWaitMany\ProjectThreadPoolWaitMany\bin\Debug\ProjectThreadPoolWaitMany.exe.config
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadPoolWaitMany\ProjectThreadPoolWaitMany\bin\Debug\ProjectThreadPoolWaitMany.exe
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadPoolWaitMany\ProjectThreadPoolWaitMany\bin\Debug\ProjectThreadPoolWaitMany.pdb
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadPoolWaitMany\ProjectThreadPoolWaitMany\obj\Debug\ProjectThreadPoolWaitMany.exe
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadPoolWaitMany\ProjectThreadPoolWaitMany\obj\Debug\ProjectThreadPoolWaitMany.pdb

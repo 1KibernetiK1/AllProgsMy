@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\2018\ProjectCheckers\ProjectCheckers\bin\Debug\ProjectCheckers.exe.config
+D:\Visual Studio 2010\2018\ProjectCheckers\ProjectCheckers\bin\Debug\ProjectCheckers.exe
+D:\Visual Studio 2010\2018\ProjectCheckers\ProjectCheckers\bin\Debug\ProjectCheckers.pdb
+D:\Visual Studio 2010\2018\ProjectCheckers\ProjectCheckers\obj\Debug\ProjectCheckers.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\ProjectCheckers\ProjectCheckers\obj\Debug\ProjectCheckers.exe
+D:\Visual Studio 2010\2018\ProjectCheckers\ProjectCheckers\obj\Debug\ProjectCheckers.pdb

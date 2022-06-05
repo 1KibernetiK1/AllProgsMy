@@ -1,0 +1,10 @@
+﻿@model List<AspAjaxMaterialDesign.Models.Student>
+
+@foreach (var s in Model)
+{
+    <tr>
+        <td>@s.Lastname</td>
+        <td>@s.Name</td>
+        <td>@s.Group</td>
+    </tr>
+}

@@ -1,0 +1,6 @@
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq01\ProjectLinq01\bin\Debug\ProjectLinq01.exe.config
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq01\ProjectLinq01\bin\Debug\ProjectLinq01.exe
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq01\ProjectLinq01\bin\Debug\ProjectLinq01.pdb
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq01\ProjectLinq01\obj\Debug\ProjectLinq01.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq01\ProjectLinq01\obj\Debug\ProjectLinq01.exe
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq01\ProjectLinq01\obj\Debug\ProjectLinq01.pdb

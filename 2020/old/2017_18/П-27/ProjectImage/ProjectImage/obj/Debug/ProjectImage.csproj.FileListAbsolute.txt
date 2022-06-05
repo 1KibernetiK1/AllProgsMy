@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\2018\P27\ProjectImage\ProjectImage\bin\Debug\ProjectImage.exe.config
+D:\Visual Studio 2010\2018\P27\ProjectImage\ProjectImage\bin\Debug\ProjectImage.exe
+D:\Visual Studio 2010\2018\P27\ProjectImage\ProjectImage\bin\Debug\ProjectImage.pdb
+D:\Visual Studio 2010\2018\P27\ProjectImage\ProjectImage\obj\Debug\ProjectImage.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\P27\ProjectImage\ProjectImage\obj\Debug\ProjectImage.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\P27\ProjectImage\ProjectImage\obj\Debug\ProjectImage.exe
+D:\Visual Studio 2010\2018\P27\ProjectImage\ProjectImage\obj\Debug\ProjectImage.pdb

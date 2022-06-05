@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\2019\Parallel\DemoParallelCheckSpelling\DemoParallelCheckSpelling\bin\Debug\allwords.txt
+D:\Visual Studio 2010\2019\Parallel\DemoParallelCheckSpelling\DemoParallelCheckSpelling\bin\Debug\DemoParallelCheckSpelling.exe.config
+D:\Visual Studio 2010\2019\Parallel\DemoParallelCheckSpelling\DemoParallelCheckSpelling\bin\Debug\DemoParallelCheckSpelling.exe
+D:\Visual Studio 2010\2019\Parallel\DemoParallelCheckSpelling\DemoParallelCheckSpelling\bin\Debug\DemoParallelCheckSpelling.pdb
+D:\Visual Studio 2010\2019\Parallel\DemoParallelCheckSpelling\DemoParallelCheckSpelling\obj\Debug\DemoParallelCheckSpelling.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2019\Parallel\DemoParallelCheckSpelling\DemoParallelCheckSpelling\obj\Debug\DemoParallelCheckSpelling.exe
+D:\Visual Studio 2010\2019\Parallel\DemoParallelCheckSpelling\DemoParallelCheckSpelling\obj\Debug\DemoParallelCheckSpelling.pdb

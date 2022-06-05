@@ -1,0 +1,14 @@
+G:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq_DZ\ProjectLinq_DZ\bin\Debug\ProjectLinq_DZ.exe.config
+G:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq_DZ\ProjectLinq_DZ\bin\Debug\ProjectLinq_DZ.exe
+G:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq_DZ\ProjectLinq_DZ\bin\Debug\ProjectLinq_DZ.pdb
+G:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq_DZ\ProjectLinq_DZ\obj\Debug\ProjectLinq_DZ.csprojAssemblyReference.cache
+G:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq_DZ\ProjectLinq_DZ\obj\Debug\ProjectLinq_DZ.csproj.CoreCompileInputs.cache
+G:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq_DZ\ProjectLinq_DZ\obj\Debug\ProjectLinq_DZ.exe
+G:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq_DZ\ProjectLinq_DZ\obj\Debug\ProjectLinq_DZ.pdb
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq_DZ(where and select)\ProjectLinq_DZ\bin\Debug\ProjectLinq_DZ.exe.config
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq_DZ(where and select)\ProjectLinq_DZ\bin\Debug\ProjectLinq_DZ.exe
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq_DZ(where and select)\ProjectLinq_DZ\bin\Debug\ProjectLinq_DZ.pdb
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq_DZ(where and select)\ProjectLinq_DZ\obj\Debug\ProjectLinq_DZ.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq_DZ(where and select)\ProjectLinq_DZ\obj\Debug\ProjectLinq_DZ.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq_DZ(where and select)\ProjectLinq_DZ\obj\Debug\ProjectLinq_DZ.exe
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq_DZ(where and select)\ProjectLinq_DZ\obj\Debug\ProjectLinq_DZ.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\Pi121\ProjectDemo02Delegates\ProjectDemo02Delegates\bin\Debug\ProjectDemo02Delegates.exe.config
+D:\Visual Studio 2010\Pi121\ProjectDemo02Delegates\ProjectDemo02Delegates\bin\Debug\ProjectDemo02Delegates.exe
+D:\Visual Studio 2010\Pi121\ProjectDemo02Delegates\ProjectDemo02Delegates\bin\Debug\ProjectDemo02Delegates.pdb
+D:\Visual Studio 2010\Pi121\ProjectDemo02Delegates\ProjectDemo02Delegates\obj\Debug\ProjectDemo02Delegates.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Pi121\ProjectDemo02Delegates\ProjectDemo02Delegates\obj\Debug\ProjectDemo02Delegates.exe
+D:\Visual Studio 2010\Pi121\ProjectDemo02Delegates\ProjectDemo02Delegates\obj\Debug\ProjectDemo02Delegates.pdb

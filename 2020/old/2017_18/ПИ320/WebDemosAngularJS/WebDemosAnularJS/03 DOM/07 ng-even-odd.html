@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<!-- Привязываем точку входа
+    angularJS к HTML -->
+<html ng-app="mainApp">
+<head>
+
+    <script src="../Libs/angular.js"></script>
+    <meta charset="utf-8" />
+    <title>ng-hide</title>
+
+    <script>
+        var mainApp = angular.module("mainApp", []);
+        mainApp.controller("mainCtrl", function ($scope) {
+            $scope.items =
+                [
+                    "Челябинск", "Чебаркуль",
+                    "Миасс", "Златоуст", "Касли"
+                ];
+            $scope.class1 = "green";
+            $scope.class2 = "red";
+
+        });
+    </script>
+    <style>
+        .green{background-color:lawngreen;}
+        .red {background-color: lightcoral;}
+    </style>
+
+</head>
+
+<!-- Привязка html и контроллера -->
+<body ng-controller="mainCtrl">
+    <h2>ng-evev-odd demo</h2>
+
+
+    <ul>
+       <li ng-repeat="city in items"
+           ng-class-even="class1"
+           ng-class-odd="class2">
+           {{city}}
+       </li> 
+    </ul>
+</body>
+</html>

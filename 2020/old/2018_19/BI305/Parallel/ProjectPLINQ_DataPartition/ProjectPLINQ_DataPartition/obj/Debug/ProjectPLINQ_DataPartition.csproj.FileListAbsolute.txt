@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\2019\Parallel\ProjectPLINQ_DataPartition\ProjectPLINQ_DataPartition\bin\Debug\ProjectPLINQ_DataPartition.exe.config
+D:\Visual Studio 2010\2019\Parallel\ProjectPLINQ_DataPartition\ProjectPLINQ_DataPartition\bin\Debug\ProjectPLINQ_DataPartition.exe
+D:\Visual Studio 2010\2019\Parallel\ProjectPLINQ_DataPartition\ProjectPLINQ_DataPartition\bin\Debug\ProjectPLINQ_DataPartition.pdb
+D:\Visual Studio 2010\2019\Parallel\ProjectPLINQ_DataPartition\ProjectPLINQ_DataPartition\obj\Debug\ProjectPLINQ_DataPartition.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2019\Parallel\ProjectPLINQ_DataPartition\ProjectPLINQ_DataPartition\obj\Debug\ProjectPLINQ_DataPartition.exe
+D:\Visual Studio 2010\2019\Parallel\ProjectPLINQ_DataPartition\ProjectPLINQ_DataPartition\obj\Debug\ProjectPLINQ_DataPartition.pdb

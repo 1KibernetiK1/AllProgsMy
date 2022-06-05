@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\БИ-205\ProjectWaveSearch\ProjectWaveSearch\bin\Debug\ProjectWaveSearch.exe.config
+D:\Visual Studio 2010\БИ-205\ProjectWaveSearch\ProjectWaveSearch\bin\Debug\ProjectWaveSearch.exe
+D:\Visual Studio 2010\БИ-205\ProjectWaveSearch\ProjectWaveSearch\bin\Debug\ProjectWaveSearch.pdb
+D:\Visual Studio 2010\БИ-205\ProjectWaveSearch\ProjectWaveSearch\obj\Debug\ProjectWaveSearch.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\БИ-205\ProjectWaveSearch\ProjectWaveSearch\obj\Debug\ProjectWaveSearch.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\БИ-205\ProjectWaveSearch\ProjectWaveSearch\obj\Debug\ProjectWaveSearch.exe
+D:\Visual Studio 2010\БИ-205\ProjectWaveSearch\ProjectWaveSearch\obj\Debug\ProjectWaveSearch.pdb

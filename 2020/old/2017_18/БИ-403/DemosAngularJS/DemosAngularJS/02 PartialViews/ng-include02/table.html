@@ -1,0 +1,16 @@
+﻿<table class="table">
+    <thead>
+        <tr>
+            <th>№</th>
+            <th>Name</th>
+            <th>Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="s in studs">
+            <td> {{$index}} </td>
+            <td> {{s.name}} </td>
+            <td> {{s.age}} </td>
+        </tr>
+    </tbody>
+</table>

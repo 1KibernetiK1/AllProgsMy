@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectSideScrollGame", "ProjectSideScrollGame\ProjectSideScrollGame.csproj", "{16159BB3-21E5-4C47-8742-BC01967B8E2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16159BB3-21E5-4C47-8742-BC01967B8E2F}.Debug|x86.ActiveCfg = Debug|x86
+		{16159BB3-21E5-4C47-8742-BC01967B8E2F}.Debug|x86.Build.0 = Debug|x86
+		{16159BB3-21E5-4C47-8742-BC01967B8E2F}.Release|x86.ActiveCfg = Release|x86
+		{16159BB3-21E5-4C47-8742-BC01967B8E2F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDAB56B7-10A5-4864-B406-D002069A3090}
+	EndGlobalSection
+EndGlobal

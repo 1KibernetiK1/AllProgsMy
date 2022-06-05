@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\2018\P18\ProjectSorting\ProjectSorting\bin\Debug\ProjectSorting.exe.config
+D:\Visual Studio 2010\2018\P18\ProjectSorting\ProjectSorting\bin\Debug\ProjectSorting.exe
+D:\Visual Studio 2010\2018\P18\ProjectSorting\ProjectSorting\bin\Debug\ProjectSorting.pdb
+D:\Visual Studio 2010\2018\P18\ProjectSorting\ProjectSorting\obj\Debug\ProjectSorting.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\P18\ProjectSorting\ProjectSorting\obj\Debug\ProjectSorting.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\P18\ProjectSorting\ProjectSorting\obj\Debug\ProjectSorting.exe
+D:\Visual Studio 2010\2018\P18\ProjectSorting\ProjectSorting\obj\Debug\ProjectSorting.pdb

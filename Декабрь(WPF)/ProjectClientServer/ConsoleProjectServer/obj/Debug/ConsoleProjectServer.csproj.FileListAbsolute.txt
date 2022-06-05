@@ -1,0 +1,10 @@
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectClientServer\ConsoleProjectServer\bin\Debug\ConsoleProjectServer.exe.config
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectClientServer\ConsoleProjectServer\bin\Debug\ConsoleProjectServer.exe
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectClientServer\ConsoleProjectServer\bin\Debug\ConsoleProjectServer.pdb
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectClientServer\ConsoleProjectServer\obj\Debug\ConsoleProjectServer.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectClientServer\ConsoleProjectServer\obj\Debug\ConsoleProjectServer.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectClientServer\ConsoleProjectServer\obj\Debug\ConsoleProjectServer.exe
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectClientServer\ConsoleProjectServer\obj\Debug\ConsoleProjectServer.pdb
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectClientServer\ConsoleProjectServer\bin\Debug\ClassLibrary1.dll
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectClientServer\ConsoleProjectServer\bin\Debug\ClassLibrary1.pdb
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectClientServer\ConsoleProjectServer\obj\Debug\ConsoleProjectServer.csproj.CopyComplete

@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+
+<!-- Привязываем точку входа
+    angularJS к HTML -->
+<html ng-app="mainApp">
+<head>
+
+    <script src="../../Libs/angular.js"></script>
+    <link href="../../Libs/bootstrap-theme.css" rel="stylesheet" />
+    <link href="../../Libs/bootstrap.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    
+    <script src="app.js"></script>
+
+    <title>Demo Ng-include</title>
+
+</head>
+
+<!-- Привязка html и контроллера -->
+<body ng-controller="mainCtrl"
+      style="margin:20px;">
+    <div class="form-group">
+        <select ng-model="current"
+                ng-options="item.display for item in options 
+                            track by item.value"></select>
+    </div>
+
+    <div ng-switch on="current.value">
+        <div ng-switch-when="table">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Name</th>
+                        <th>Age</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="item in items">
+                        <td>{{$index+1}}</td>
+                        <td>{{item.name}}</td>
+                        <td>{{item.age}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div ng-switch-when="list">
+            <ul>
+                <li ng-repeat="item in items">
+                    Name: {{item.name}}, age: {{item.age}}
+                </li>
+            </ul>
+        </div>
+        <div ng-switch-when="budges">
+            <ul>
+                <li ng-repeat="item in items">
+                    Name: {{item.name}}
+                    <span class="badge">
+                        {{item.age}}
+                    </span>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

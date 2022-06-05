@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+
+<!-- Привязываем точку входа
+    angularJS к HTML -->
+<html ng-app="mainApp">
+<head>
+
+    <script src="../../Libs/angular.js"></script>
+    <link href="../../Libs/bootstrap-theme.css" rel="stylesheet" />
+    <link href="../../Libs/bootstrap.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    
+    <script src="app.js"></script>
+
+    <title>Demo Ng-include</title>
+
+</head>
+
+<!-- Привязка html и контроллера -->
+<body ng-controller="mainCtrl"
+      style="margin:10px;">
+    <div class="btn-group">
+        <button class="btn btn-default" 
+                ng-click="showList()">
+        List
+        </button>
+        <button class="btn btn-default"
+                ng-click="showTable()">
+        Table
+        </button>
+    </div>
+
+    <p>I. Html-элемент</p>
+    <ng-include src="url"></ng-include>
+    <br>
+</body>
+</html>

@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\2019\Parallel\ProjectDemoPLINQ\ProjectDemoPLINQ\bin\Debug\ProjectDemoPLINQ.exe.config
+D:\Visual Studio 2010\2019\Parallel\ProjectDemoPLINQ\ProjectDemoPLINQ\bin\Debug\ProjectDemoPLINQ.exe
+D:\Visual Studio 2010\2019\Parallel\ProjectDemoPLINQ\ProjectDemoPLINQ\bin\Debug\ProjectDemoPLINQ.pdb
+D:\Visual Studio 2010\2019\Parallel\ProjectDemoPLINQ\ProjectDemoPLINQ\obj\Debug\ProjectDemoPLINQ.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2019\Parallel\ProjectDemoPLINQ\ProjectDemoPLINQ\obj\Debug\ProjectDemoPLINQ.exe
+D:\Visual Studio 2010\2019\Parallel\ProjectDemoPLINQ\ProjectDemoPLINQ\obj\Debug\ProjectDemoPLINQ.pdb

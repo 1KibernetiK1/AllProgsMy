@@ -1,0 +1,7 @@
+G:\SergPAv\Программирование\Сентябрь\interface\DZ sorting via icomparable(Student)\DZ sort\DZ sort\bin\Debug\DZ sort.exe.config
+G:\SergPAv\Программирование\Сентябрь\interface\DZ sorting via icomparable(Student)\DZ sort\DZ sort\bin\Debug\DZ sort.exe
+G:\SergPAv\Программирование\Сентябрь\interface\DZ sorting via icomparable(Student)\DZ sort\DZ sort\bin\Debug\DZ sort.pdb
+G:\SergPAv\Программирование\Сентябрь\interface\DZ sorting via icomparable(Student)\DZ sort\DZ sort\obj\Debug\DZ sort.csprojAssemblyReference.cache
+G:\SergPAv\Программирование\Сентябрь\interface\DZ sorting via icomparable(Student)\DZ sort\DZ sort\obj\Debug\DZ sort.csproj.CoreCompileInputs.cache
+G:\SergPAv\Программирование\Сентябрь\interface\DZ sorting via icomparable(Student)\DZ sort\DZ sort\obj\Debug\DZ sort.exe
+G:\SergPAv\Программирование\Сентябрь\interface\DZ sorting via icomparable(Student)\DZ sort\DZ sort\obj\Debug\DZ sort.pdb

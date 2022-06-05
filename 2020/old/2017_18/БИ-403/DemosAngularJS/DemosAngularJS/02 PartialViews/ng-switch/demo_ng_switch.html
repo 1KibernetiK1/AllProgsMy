@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html ng-app="mainApp">
+<head>
+
+    <link href="../../Libs/bootstrap.css" rel="stylesheet" />
+    <link href="../../Libs/bootstrap-theme.css" rel="stylesheet" />
+    <script src="../../Libs/angular.js"></script>
+
+    <script src="app.js"></script>
+
+    <meta charset="utf-8" />
+    <title>AngularJS Tutorial</title>
+
+</head>
+
+<body ng-controller="mainController">
+    <p>
+        Директива ng-include
+        позволяет загружать часть страницы
+        после загрузки основной с сервера
+        ajax-запросом
+    </p>
+    <select ng-model="variant"
+            ng-options="item.display for item in options track by item.value"
+            >
+    </select>
+
+    <br>
+    <div ng-switch on="variant.value">
+        <div ng-switch-when="table">
+            <h3> 1) Просто таблица </h3>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>№</th>
+                        <th>Name</th>
+                        <th>Age</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="s in studs">
+                        <td> {{$index}} </td>
+                        <td> {{s.name}} </td>
+                        <td> {{s.age}} </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <br>
+        <div ng-switch-when="list">
+            <h3> 2) Просто Список </h3>
+            <ul>
+                <li ng-repeat="s in studs">
+                    name:{{s.name}} age: {{s.age}}
+                </li>
+            </ul>
+        </div>
+        <br>
+        <div ng-switch-when="badge">
+            <h3> 3) Список с бейджами</h3>
+            <ul>
+                <li ng-repeat="s in studs">
+                    name:{{s.name}} 
+                    <span class="badge">{{s.age}}</span>
+                </li>
+            </ul>
+        </div>
+   </div>
+</body>
+</html>

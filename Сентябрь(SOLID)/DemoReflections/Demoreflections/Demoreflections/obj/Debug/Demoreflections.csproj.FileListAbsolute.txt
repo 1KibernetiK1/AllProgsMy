@@ -1,0 +1,7 @@
+E:\SergPAv\Программирование\Сентябрь\DemoReflections\Demoreflections\Demoreflections\bin\Debug\Demoreflections.exe.config
+E:\SergPAv\Программирование\Сентябрь\DemoReflections\Demoreflections\Demoreflections\bin\Debug\Demoreflections.exe
+E:\SergPAv\Программирование\Сентябрь\DemoReflections\Demoreflections\Demoreflections\bin\Debug\Demoreflections.pdb
+E:\SergPAv\Программирование\Сентябрь\DemoReflections\Demoreflections\Demoreflections\obj\Debug\Demoreflections.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Сентябрь\DemoReflections\Demoreflections\Demoreflections\obj\Debug\Demoreflections.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Сентябрь\DemoReflections\Demoreflections\Demoreflections\obj\Debug\Demoreflections.exe
+E:\SergPAv\Программирование\Сентябрь\DemoReflections\Demoreflections\Demoreflections\obj\Debug\Demoreflections.pdb

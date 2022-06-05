@@ -1,0 +1,7 @@
+E:\SergPAv\Программирование\Апрель\ProjectConsoleCommand\ProjectConsoleCommand\bin\Debug\ProjectConsoleCommand.exe.config
+E:\SergPAv\Программирование\Апрель\ProjectConsoleCommand\ProjectConsoleCommand\bin\Debug\ProjectConsoleCommand.exe
+E:\SergPAv\Программирование\Апрель\ProjectConsoleCommand\ProjectConsoleCommand\bin\Debug\ProjectConsoleCommand.pdb
+E:\SergPAv\Программирование\Апрель\ProjectConsoleCommand\ProjectConsoleCommand\obj\Debug\ProjectConsoleCommand.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Апрель\ProjectConsoleCommand\ProjectConsoleCommand\obj\Debug\ProjectConsoleCommand.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Апрель\ProjectConsoleCommand\ProjectConsoleCommand\obj\Debug\ProjectConsoleCommand.exe
+E:\SergPAv\Программирование\Апрель\ProjectConsoleCommand\ProjectConsoleCommand\obj\Debug\ProjectConsoleCommand.pdb

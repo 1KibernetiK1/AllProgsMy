@@ -1,0 +1,7 @@
+E:\SergPAv\Программирование\Январь\ProjectStrategyClassic\ProjectStrategyClassic\bin\Debug\ProjectStrategyClassic.exe.config
+E:\SergPAv\Программирование\Январь\ProjectStrategyClassic\ProjectStrategyClassic\bin\Debug\ProjectStrategyClassic.exe
+E:\SergPAv\Программирование\Январь\ProjectStrategyClassic\ProjectStrategyClassic\bin\Debug\ProjectStrategyClassic.pdb
+E:\SergPAv\Программирование\Январь\ProjectStrategyClassic\ProjectStrategyClassic\obj\Debug\ProjectStrategyClassic.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Январь\ProjectStrategyClassic\ProjectStrategyClassic\obj\Debug\ProjectStrategyClassic.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Январь\ProjectStrategyClassic\ProjectStrategyClassic\obj\Debug\ProjectStrategyClassic.exe
+E:\SergPAv\Программирование\Январь\ProjectStrategyClassic\ProjectStrategyClassic\obj\Debug\ProjectStrategyClassic.pdb

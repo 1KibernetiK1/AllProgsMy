@@ -1,0 +1,14 @@
+D:\Visual Studio 2010\ProjectAngularJS\WpfDemo01\WpfDemo01\bin\Debug\WpfDemo01.exe.config
+D:\Visual Studio 2010\ProjectAngularJS\WpfDemo01\WpfDemo01\bin\Debug\WpfDemo01.exe
+D:\Visual Studio 2010\ProjectAngularJS\WpfDemo01\WpfDemo01\bin\Debug\WpfDemo01.pdb
+D:\Visual Studio 2010\ProjectAngularJS\WpfDemo01\WpfDemo01\obj\Debug\WpfDemo01.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\ProjectAngularJS\WpfDemo01\WpfDemo01\obj\Debug\MainWindow.g.cs
+D:\Visual Studio 2010\ProjectAngularJS\WpfDemo01\WpfDemo01\obj\Debug\App.g.cs
+D:\Visual Studio 2010\ProjectAngularJS\WpfDemo01\WpfDemo01\obj\Debug\WpfDemo01_MarkupCompile.cache
+D:\Visual Studio 2010\ProjectAngularJS\WpfDemo01\WpfDemo01\obj\Debug\WpfDemo01_MarkupCompile.lref
+D:\Visual Studio 2010\ProjectAngularJS\WpfDemo01\WpfDemo01\obj\Debug\MainWindow.baml
+D:\Visual Studio 2010\ProjectAngularJS\WpfDemo01\WpfDemo01\obj\Debug\WpfDemo01.g.resources
+D:\Visual Studio 2010\ProjectAngularJS\WpfDemo01\WpfDemo01\obj\Debug\WpfDemo01.Properties.Resources.resources
+D:\Visual Studio 2010\ProjectAngularJS\WpfDemo01\WpfDemo01\obj\Debug\WpfDemo01.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\ProjectAngularJS\WpfDemo01\WpfDemo01\obj\Debug\WpfDemo01.exe
+D:\Visual Studio 2010\ProjectAngularJS\WpfDemo01\WpfDemo01\obj\Debug\WpfDemo01.pdb

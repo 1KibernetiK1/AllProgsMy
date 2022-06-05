@@ -1,0 +1,21 @@
+C:\Users\12345\Desktop\Программирование(2 курс)\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\obj\Debug\DZ v2.csprojAssemblyReference.cache
+C:\Users\12345\Desktop\Программирование(2 курс)\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\obj\Debug\DZ v2.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Программирование(2 курс)\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\bin\Debug\DZ v2.exe.config
+C:\Users\12345\Desktop\Программирование(2 курс)\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\bin\Debug\DZ v2.exe
+C:\Users\12345\Desktop\Программирование(2 курс)\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\bin\Debug\DZ v2.pdb
+C:\Users\12345\Desktop\Программирование(2 курс)\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\obj\Debug\DZ v2.exe
+C:\Users\12345\Desktop\Программирование(2 курс)\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\obj\Debug\DZ v2.pdb
+G:\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\bin\Debug\DZ v2.exe.config
+G:\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\bin\Debug\DZ v2.exe
+G:\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\bin\Debug\DZ v2.pdb
+G:\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\obj\Debug\DZ v2.csprojAssemblyReference.cache
+G:\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\obj\Debug\DZ v2.csproj.CoreCompileInputs.cache
+G:\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\obj\Debug\DZ v2.exe
+G:\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\obj\Debug\DZ v2.pdb
+E:\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\bin\Debug\DZ v2.exe.config
+E:\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\bin\Debug\DZ v2.exe
+E:\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\bin\Debug\DZ v2.pdb
+E:\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\obj\Debug\DZ v2.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\obj\Debug\DZ v2.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\obj\Debug\DZ v2.exe
+E:\SergPAv\Программирование\Сентябрь\interface\DZ v2\DZ v2\obj\Debug\DZ v2.pdb

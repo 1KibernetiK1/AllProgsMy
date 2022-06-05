@@ -1,0 +1,1 @@
+﻿INSERT INTO AcademicGroup ([Name], [year]) VALUES ('ПИ-225', 2020)

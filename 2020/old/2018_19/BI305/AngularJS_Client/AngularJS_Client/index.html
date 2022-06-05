@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html ng-app="mainApp">
+
+<head>
+    <meta charset="utf-8" />
+    <title>AngularJS App</title>
+    <link href="Content/bootstrap.min.css" 
+          rel="stylesheet" />
+    <script src="Scripts/angular.min.js"></script>
+    
+    <script>
+        var mainApp = angular.module("mainApp", []);
+
+        mainApp.controller("mainCtrl", function ($scope, ngApiService) {
+            $scope.header = "WebAPI + AngularJS";
+            $scope.serviceName =
+                ngApiService.getName();
+        });
+    </script>
+
+    <script src="AppJS/ngApiService.js"></script>
+    
+</head>
+
+<body ng-controller="mainCtrl">
+
+    <h2>{{header}}</h2>
+    <h4>подключен сервис: {{serviceName}}</h4>
+
+</body>
+
+</html>

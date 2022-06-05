@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadConcurency\ProjectThreadConcurency\bin\Debug\ProjectThreadConcurency.exe.config
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadConcurency\ProjectThreadConcurency\bin\Debug\ProjectThreadConcurency.exe
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadConcurency\ProjectThreadConcurency\bin\Debug\ProjectThreadConcurency.pdb
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadConcurency\ProjectThreadConcurency\obj\Debug\ProjectThreadConcurency.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadConcurency\ProjectThreadConcurency\obj\Debug\ProjectThreadConcurency.exe
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadConcurency\ProjectThreadConcurency\obj\Debug\ProjectThreadConcurency.pdb

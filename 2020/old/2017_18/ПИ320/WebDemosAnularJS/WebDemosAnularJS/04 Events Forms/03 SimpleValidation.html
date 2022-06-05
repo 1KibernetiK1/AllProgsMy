@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+
+<!-- Привязываем точку входа
+    angularJS к HTML -->
+<html ng-app="mainApp">
+<head>
+
+    <script src="../Libs/angular.js"></script>
+    <link href="../Libs/bootstrap-theme.css" rel="stylesheet" />
+    <link href="../Libs/bootstrap.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <title>AngularJS Demo</title>
+
+    <script>
+
+        // AngularJS => MVC
+
+        // 1) создадим модель данных
+        var model = "Hello world!";
+
+        // 2) создание точки входа - Main
+        // наличие параметров - указание что модуль создаётся
+        //  а не загружается
+        var mainApp = angular.module("mainApp", []);
+
+        // 3) Создание контроллера
+        mainApp.controller("mainCtrl", function ($scope) {
+            // специальная переменная для в/д
+            // м/у контроллером и вьюхой и моделью
+            $scope.registerUser = function (user) {
+                $scope.message =
+                    "new user to server, name "
+                    + user.Name
+                    + " email "
+                    + user.Email;
+            }
+        });
+
+
+    </script>
+
+</head>
+
+<!-- Привязка html и контроллера -->
+<body ng-controller="mainCtrl" 
+      style="width:300px; margin:50px;">
+    <h2>AngularJS Simple Form Validation</h2>
+    <h4>{{data}}</h4>
+
+    <form name="registerUserForm"
+          novalidate
+          ng-submit="registerUser(user)"> 
+        <div class="well">
+            <div class="form-group">
+                <label>Name:</label>
+                <input type="text"
+                       class="form-control"
+                       name="userName"
+                       ng-model="user.Name"
+                       required
+                       />
+            </div>
+            <div class="form-group">
+                <label>Email:</label>
+                <input type="email"
+                       class="form-control"
+                       name="userEmail"
+                       ng-model="user.Email"
+                       required />
+            </div>
+
+            <div class="form-group">
+                <label>Согласие на обработку:</label>
+                <input type="checkbox"
+                       class="form-control"
+                       name="agreed"
+                       ng-model="user.Agreed"
+                       required />
+            </div>
+
+            <button type="submit" 
+                    class="btn btn-primary"
+                    ng-disabled="!registerUserForm.$valid">
+                Регистрация
+
+            </button>
+
+            <div class="well">
+                Сообщение: {{message}}
+                <div>
+                    Valid: {{registerUserForm.$valid}}
+                </div>
+            </div>
+        </div>
+    </form>
+
+</body>
+</html>

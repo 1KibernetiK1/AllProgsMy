@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html ng-app="mainApp">
+<head>
+    <script src="Libs/angular.js"></script>
+    <link href="Libs/bootstrap-theme.css" rel="stylesheet" />
+    <link href="Libs/bootstrap.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <title>AngularJS Demo</title>
+    <script>
+            // 1) модель данных
+            var model = {
+                group: "БИ-403",
+                students: [
+                    { name: "Поляков В.Е.", present: false },
+                    { name: "Горбонос Ю.С.", present: false },
+                    { name: "Имамова М.А.", present: false },
+                    { name: "Козлов А.С.", present: false },
+                ]
+            };
+            // ТОЧКА ВХОДА... - главный модуль
+            var mainApp = angular.module("mainApp", []);
+            // 2) контроллер - бизнес логика
+            mainApp.controller("mainController", function ($scope) {
+                // код контроллера
+                // $scope - встроенная переменная
+                // для обращения к ВЬЮШКЕ
+                $scope.data = model;
+                $scope.text = "";
+                $scope.btnAddStudent = function () {
+                    var student = {
+                        name: $scope.text,
+                        present: true
+                    };
+                    $scope.data.students.push(student);
+                }
+            })
+    </script>
+</head>
+
+<body ng-controller="mainController">
+    <div class="container well">
+        <div class="page-header" style="text-align:center;">
+            <h1>Журнал группы</h1>
+            <h2>{{data.group}} группа, 
+                {{data.students.length}} чел</h2>
+        </div>
+        <div class="panel panel-primary">
+            <div class="input-group">
+                <input ng-model="text" 
+                       placeholder="введите Ф.И.О." 
+                       class="form-control" />
+                <span class="input-group-btn">
+                    <button ng-click="btnAddStudent()"
+                            class="btn btn-primary">
+                        Добавить в список
+                    </button>
+                </span>
+            </div>
+            <table class="table table-bordered table-hover">
+                <thead>
+                    <tr>
+                        <th>ФИО</th>
+                        <th>присутствие</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="stud in data.students">
+                        <td>{{stud.name}}</td>
+                        <td>{{stud.present}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

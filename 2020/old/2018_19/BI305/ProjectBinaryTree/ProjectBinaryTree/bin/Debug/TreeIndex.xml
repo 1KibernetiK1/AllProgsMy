@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<TreeNodeOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item>Петров</Item>
+  <Indexes>
+    <long>0</long>
+  </Indexes>
+  <Left>
+    <Item>Иванов</Item>
+    <Indexes>
+      <long>33</long>
+    </Indexes>
+    <Right>
+      <Item>Наум</Item>
+      <Indexes>
+        <long>105</long>
+      </Indexes>
+      <Left>
+        <Item>Коршун</Item>
+        <Indexes>
+          <long>177</long>
+        </Indexes>
+      </Left>
+    </Right>
+  </Left>
+  <Right>
+    <Item>Романова</Item>
+    <Indexes>
+      <long>66</long>
+    </Indexes>
+    <Left>
+      <Item>Петрова</Item>
+      <Indexes>
+        <long>140</long>
+      </Indexes>
+    </Left>
+  </Right>
+</TreeNodeOfString>

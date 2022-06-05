@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameLight", "MonoGameLight\MonoGameLight.csproj", "{D2BA5CD1-1F76-430E-AEB0-7CF9856D37D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2BA5CD1-1F76-430E-AEB0-7CF9856D37D3}.Debug|x86.ActiveCfg = Debug|x86
+		{D2BA5CD1-1F76-430E-AEB0-7CF9856D37D3}.Debug|x86.Build.0 = Debug|x86
+		{D2BA5CD1-1F76-430E-AEB0-7CF9856D37D3}.Release|x86.ActiveCfg = Release|x86
+		{D2BA5CD1-1F76-430E-AEB0-7CF9856D37D3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {763C2D5C-AD17-4B0A-8DCB-DC3A42DF0EE5}
+	EndGlobalSection
+EndGlobal

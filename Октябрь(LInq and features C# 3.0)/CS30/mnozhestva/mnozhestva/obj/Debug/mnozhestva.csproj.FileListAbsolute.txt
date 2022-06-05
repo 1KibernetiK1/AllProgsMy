@@ -1,0 +1,7 @@
+E:\SergPAv\Программирование\Октябрь\CS30\mnozhestva\mnozhestva\bin\Debug\mnozhestva.exe.config
+E:\SergPAv\Программирование\Октябрь\CS30\mnozhestva\mnozhestva\bin\Debug\mnozhestva.exe
+E:\SergPAv\Программирование\Октябрь\CS30\mnozhestva\mnozhestva\bin\Debug\mnozhestva.pdb
+E:\SergPAv\Программирование\Октябрь\CS30\mnozhestva\mnozhestva\obj\Debug\mnozhestva.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Октябрь\CS30\mnozhestva\mnozhestva\obj\Debug\mnozhestva.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Октябрь\CS30\mnozhestva\mnozhestva\obj\Debug\mnozhestva.exe
+E:\SergPAv\Программирование\Октябрь\CS30\mnozhestva\mnozhestva\obj\Debug\mnozhestva.pdb

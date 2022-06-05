@@ -1,0 +1,6 @@
+D:\visual studio 2010\Никулин ПИ-225\CastingAndTypeOperations\CastingAndTypeOperations\bin\Debug\CastingAndTypeOperations.exe.config
+D:\visual studio 2010\Никулин ПИ-225\CastingAndTypeOperations\CastingAndTypeOperations\bin\Debug\CastingAndTypeOperations.exe
+D:\visual studio 2010\Никулин ПИ-225\CastingAndTypeOperations\CastingAndTypeOperations\bin\Debug\CastingAndTypeOperations.pdb
+D:\visual studio 2010\Никулин ПИ-225\CastingAndTypeOperations\CastingAndTypeOperations\obj\Debug\CastingAndTypeOperations.csproj.CoreCompileInputs.cache
+D:\visual studio 2010\Никулин ПИ-225\CastingAndTypeOperations\CastingAndTypeOperations\obj\Debug\CastingAndTypeOperations.exe
+D:\visual studio 2010\Никулин ПИ-225\CastingAndTypeOperations\CastingAndTypeOperations\obj\Debug\CastingAndTypeOperations.pdb

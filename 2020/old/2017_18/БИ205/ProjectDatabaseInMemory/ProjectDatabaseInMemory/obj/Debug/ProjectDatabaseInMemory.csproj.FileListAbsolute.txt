@@ -1,0 +1,10 @@
+D:\Visual Studio 2010\2018\БИ-205\ProjectDatabaseInMemory\ProjectDatabaseInMemory\bin\Debug\ProjectDatabaseInMemory.exe.config
+D:\Visual Studio 2010\2018\БИ-205\ProjectDatabaseInMemory\ProjectDatabaseInMemory\bin\Debug\ProjectDatabaseInMemory.exe
+D:\Visual Studio 2010\2018\БИ-205\ProjectDatabaseInMemory\ProjectDatabaseInMemory\bin\Debug\ProjectDatabaseInMemory.pdb
+D:\Visual Studio 2010\2018\БИ-205\ProjectDatabaseInMemory\ProjectDatabaseInMemory\obj\Debug\ProjectDatabaseInMemory.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\БИ-205\ProjectDatabaseInMemory\ProjectDatabaseInMemory\obj\Debug\ProjectDatabaseInMemory.Form1.resources
+D:\Visual Studio 2010\2018\БИ-205\ProjectDatabaseInMemory\ProjectDatabaseInMemory\obj\Debug\ProjectDatabaseInMemory.Properties.Resources.resources
+D:\Visual Studio 2010\2018\БИ-205\ProjectDatabaseInMemory\ProjectDatabaseInMemory\obj\Debug\ProjectDatabaseInMemory.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\2018\БИ-205\ProjectDatabaseInMemory\ProjectDatabaseInMemory\obj\Debug\ProjectDatabaseInMemory.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\БИ-205\ProjectDatabaseInMemory\ProjectDatabaseInMemory\obj\Debug\ProjectDatabaseInMemory.exe
+D:\Visual Studio 2010\2018\БИ-205\ProjectDatabaseInMemory\ProjectDatabaseInMemory\obj\Debug\ProjectDatabaseInMemory.pdb

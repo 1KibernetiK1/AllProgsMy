@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Visual Studio 2010/2018/п36/ProjectGUI/ProjectGUI/Content/F14.spritefont</SourceFile>
+  <SourceTime>2015-04-24T08:40:58+05:00</SourceTime>
+  <DestFile>D:/Visual Studio 2010/2018/п36/ProjectGUI/ProjectGUI/Content/bin/Windows/F14.xnb</DestFile>
+  <DestTime>2018-03-20T08:51:46.2041739+05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T20:05:36+05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T20:05:36+05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,14 @@
+D:\SergPAv\Solid\DemoSolid\DemoSolid\bin\Debug\DemoSolid.exe.config
+D:\SergPAv\Solid\DemoSolid\DemoSolid\bin\Debug\DemoSolid.exe
+D:\SergPAv\Solid\DemoSolid\DemoSolid\bin\Debug\DemoSolid.pdb
+D:\SergPAv\Solid\DemoSolid\DemoSolid\obj\Debug\DemoSolid.csprojAssemblyReference.cache
+D:\SergPAv\Solid\DemoSolid\DemoSolid\obj\Debug\DemoSolid.csproj.CoreCompileInputs.cache
+D:\SergPAv\Solid\DemoSolid\DemoSolid\obj\Debug\DemoSolid.exe
+D:\SergPAv\Solid\DemoSolid\DemoSolid\obj\Debug\DemoSolid.pdb
+D:\Visual Studio 2010\SergPAv\Solid\DemoSolid\DemoSolid\bin\Debug\DemoSolid.exe.config
+D:\Visual Studio 2010\SergPAv\Solid\DemoSolid\DemoSolid\bin\Debug\DemoSolid.exe
+D:\Visual Studio 2010\SergPAv\Solid\DemoSolid\DemoSolid\bin\Debug\DemoSolid.pdb
+D:\Visual Studio 2010\SergPAv\Solid\DemoSolid\DemoSolid\obj\Debug\DemoSolid.csprojAssemblyReference.cache
+D:\Visual Studio 2010\SergPAv\Solid\DemoSolid\DemoSolid\obj\Debug\DemoSolid.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\SergPAv\Solid\DemoSolid\DemoSolid\obj\Debug\DemoSolid.exe
+D:\Visual Studio 2010\SergPAv\Solid\DemoSolid\DemoSolid\obj\Debug\DemoSolid.pdb

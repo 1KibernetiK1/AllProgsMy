@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\2018\П-27\ProjectCanteen\ProjectCanteen\bin\Debug\ProjectCanteen.exe.config
+D:\Visual Studio 2010\2018\П-27\ProjectCanteen\ProjectCanteen\bin\Debug\ProjectCanteen.exe
+D:\Visual Studio 2010\2018\П-27\ProjectCanteen\ProjectCanteen\bin\Debug\ProjectCanteen.pdb
+D:\Visual Studio 2010\2018\П-27\ProjectCanteen\ProjectCanteen\obj\Debug\ProjectCanteen.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\П-27\ProjectCanteen\ProjectCanteen\obj\Debug\ProjectCanteen.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\П-27\ProjectCanteen\ProjectCanteen\obj\Debug\ProjectCanteen.exe
+D:\Visual Studio 2010\2018\П-27\ProjectCanteen\ProjectCanteen\obj\Debug\ProjectCanteen.pdb

@@ -1,0 +1,18 @@
+D:\Visual Studio 2010\BI205\ProjectDBServer\ProjectDBServer\bin\Debug\ProjectDBServer.exe.config
+D:\Visual Studio 2010\BI205\ProjectDBServer\ProjectDBServer\bin\Debug\ProjectDBServer.exe
+D:\Visual Studio 2010\BI205\ProjectDBServer\ProjectDBServer\bin\Debug\ProjectDBServer.pdb
+D:\Visual Studio 2010\BI205\ProjectDBServer\ProjectDBServer\obj\Debug\ProjectDBServer.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\BI205\ProjectDBServer\ProjectDBServer\obj\Debug\ProjectDBServer.Properties.Resources.resources
+D:\Visual Studio 2010\BI205\ProjectDBServer\ProjectDBServer\obj\Debug\ProjectDBServer.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\BI205\ProjectDBServer\ProjectDBServer\obj\Debug\ProjectDBServer.exe
+D:\Visual Studio 2010\BI205\ProjectDBServer\ProjectDBServer\obj\Debug\ProjectDBServer.pdb
+D:\Visual Studio 2010\BI205\ProjectDBServer\ProjectDBServer\obj\Debug\ProjectDBServer.Form1.resources
+E:\Alymov(2курс)\ProjectDBServer\ProjectDBServer\bin\Debug\ProjectDBServer.exe.config
+E:\Alymov(2курс)\ProjectDBServer\ProjectDBServer\bin\Debug\ProjectDBServer.exe
+E:\Alymov(2курс)\ProjectDBServer\ProjectDBServer\bin\Debug\ProjectDBServer.pdb
+E:\Alymov(2курс)\ProjectDBServer\ProjectDBServer\obj\Debug\ProjectDBServer.csprojResolveAssemblyReference.cache
+E:\Alymov(2курс)\ProjectDBServer\ProjectDBServer\obj\Debug\ProjectDBServer.Form1.resources
+E:\Alymov(2курс)\ProjectDBServer\ProjectDBServer\obj\Debug\ProjectDBServer.Properties.Resources.resources
+E:\Alymov(2курс)\ProjectDBServer\ProjectDBServer\obj\Debug\ProjectDBServer.csproj.GenerateResource.Cache
+E:\Alymov(2курс)\ProjectDBServer\ProjectDBServer\obj\Debug\ProjectDBServer.exe
+E:\Alymov(2курс)\ProjectDBServer\ProjectDBServer\obj\Debug\ProjectDBServer.pdb

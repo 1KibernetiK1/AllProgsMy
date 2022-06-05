@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\ProjectTetrisGame\ProjectTetrisGame\obj\Debug\ProjectTetrisGame.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\ProjectTetrisGame\ProjectTetrisGame\bin\Debug\ProjectTetrisGame.exe.config
+D:\Visual Studio 2010\ProjectTetrisGame\ProjectTetrisGame\bin\Debug\ProjectTetrisGame.exe
+D:\Visual Studio 2010\ProjectTetrisGame\ProjectTetrisGame\bin\Debug\ProjectTetrisGame.pdb
+D:\Visual Studio 2010\ProjectTetrisGame\ProjectTetrisGame\obj\Debug\ProjectTetrisGame.exe
+D:\Visual Studio 2010\ProjectTetrisGame\ProjectTetrisGame\obj\Debug\ProjectTetrisGame.pdb

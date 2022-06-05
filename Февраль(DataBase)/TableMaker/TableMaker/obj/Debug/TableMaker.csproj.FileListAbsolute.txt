@@ -1,0 +1,10 @@
+E:\SergPAv\Программирование\Февраль\TableMaker\TableMaker\bin\Debug\TableMaker.exe.config
+E:\SergPAv\Программирование\Февраль\TableMaker\TableMaker\bin\Debug\TableMaker.exe
+E:\SergPAv\Программирование\Февраль\TableMaker\TableMaker\bin\Debug\TableMaker.pdb
+E:\SergPAv\Программирование\Февраль\TableMaker\TableMaker\obj\Debug\TableMaker.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Февраль\TableMaker\TableMaker\obj\Debug\TableMaker.Form1.resources
+E:\SergPAv\Программирование\Февраль\TableMaker\TableMaker\obj\Debug\TableMaker.Properties.Resources.resources
+E:\SergPAv\Программирование\Февраль\TableMaker\TableMaker\obj\Debug\TableMaker.csproj.GenerateResource.cache
+E:\SergPAv\Программирование\Февраль\TableMaker\TableMaker\obj\Debug\TableMaker.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Февраль\TableMaker\TableMaker\obj\Debug\TableMaker.exe
+E:\SergPAv\Программирование\Февраль\TableMaker\TableMaker\obj\Debug\TableMaker.pdb

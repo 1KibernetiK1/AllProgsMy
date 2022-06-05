@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\2018\п27 (2)\Project2DArray\Project2DArray\bin\Debug\Project2DArray.exe.config
+D:\Visual Studio 2010\2018\п27 (2)\Project2DArray\Project2DArray\bin\Debug\Project2DArray.exe
+D:\Visual Studio 2010\2018\п27 (2)\Project2DArray\Project2DArray\bin\Debug\Project2DArray.pdb
+D:\Visual Studio 2010\2018\п27 (2)\Project2DArray\Project2DArray\obj\Debug\Project2DArray.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\п27 (2)\Project2DArray\Project2DArray\obj\Debug\Project2DArray.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\п27 (2)\Project2DArray\Project2DArray\obj\Debug\Project2DArray.exe
+D:\Visual Studio 2010\2018\п27 (2)\Project2DArray\Project2DArray\obj\Debug\Project2DArray.pdb

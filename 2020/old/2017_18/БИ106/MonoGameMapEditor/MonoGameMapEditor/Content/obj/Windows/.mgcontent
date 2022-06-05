@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Visual Studio 2010/0/MonoGameMapEditor/MonoGameMapEditor/Content/Empty.png</File>
+    <File>D:/Visual Studio 2010/0/MonoGameMapEditor/MonoGameMapEditor/Content/Forest.png</File>
+    <File>D:/Visual Studio 2010/0/MonoGameMapEditor/MonoGameMapEditor/Content/Wall.png</File>
+    <File>D:/Visual Studio 2010/0/MonoGameMapEditor/MonoGameMapEditor/Content/Water.png</File>
+  </SourceFiles>
+</SourceFileCollection>

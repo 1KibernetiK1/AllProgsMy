@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+
+<!-- 1) 
+    привязка главного модуля
+    ангуляр к странице (точка входа)
+    -->
+<html ng-app="mainApp">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Skeleton AngularJS Page</title>
+    <script src="Libs/angular.min.js"></script>
+
+    <script>
+        // 2) Модель (архитектура MVC)
+        var model = "Привет, ангуляр работает!";
+
+        // 3) Объявление и создание главного модуля 
+        var mainApp = angular.module("mainApp", []);
+
+        // 4) создаём контроллер в главном модуле
+        mainApp.controller("mainController", function ($scope) {
+            // $scope - встроенная переменная ангуляр
+            // - она связана с областью видимости (ViewBag в ASP)
+            $scope.message = model; // для вьюшки
+        });
+
+    </script>
+
+</head>
+
+<!--
+    body - это вьюшка (по аналог с ASP)
+    5) привязываем контроллер к представлению
+    -->
+<body ng-controller="mainController">
+    <h1>Скелет страницы с Ангуляр</h1>
+
+    <!-- в ASP мы использ @message -->
+
+    <h2>{{message}}</h2>
+</body>
+
+</html>

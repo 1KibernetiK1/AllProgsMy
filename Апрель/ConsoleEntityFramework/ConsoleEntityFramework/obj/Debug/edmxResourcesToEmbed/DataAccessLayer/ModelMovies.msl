@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelMoviesStoreContainer" CdmEntityContainer="ModelMoviesContainer">
+    <EntitySetMapping Name="Movies">
+      <EntityTypeMapping TypeName="IsTypeOf(ModelMovies.Movie)">
+        <MappingFragment StoreEntitySet="Movies">
+          <ScalarProperty Name="MovieId" ColumnName="MovieId" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonSet">
+      <EntityTypeMapping TypeName="IsTypeOf(ModelMovies.Person)">
+        <MappingFragment StoreEntitySet="PersonSet">
+          <ScalarProperty Name="PersonId" ColumnName="PersonId" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="PhotoUrl" ColumnName="PhotoUrl" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Genres">
+      <EntityTypeMapping TypeName="IsTypeOf(ModelMovies.Genre)">
+        <MappingFragment StoreEntitySet="Genres">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="MovieGenre" TypeName="ModelMovies.MovieGenre" StoreEntitySet="MovieGenre">
+      <EndProperty Name="Movie">
+        <ScalarProperty Name="MovieId" ColumnName="MovieOfGenres_MovieId" />
+      </EndProperty>
+      <EndProperty Name="Genre">
+        <ScalarProperty Name="Id" ColumnName="GenreofMovies_Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="MovieActor" TypeName="ModelMovies.MovieActor" StoreEntitySet="MovieActor">
+      <EndProperty Name="Movie">
+        <ScalarProperty Name="MovieId" ColumnName="ActorofMovies_MovieId" />
+      </EndProperty>
+      <EndProperty Name="Person">
+        <ScalarProperty Name="PersonId" ColumnName="Actors_PersonId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="MovieDirector" TypeName="ModelMovies.MovieDirector" StoreEntitySet="MovieDirector">
+      <EndProperty Name="Movie">
+        <ScalarProperty Name="MovieId" ColumnName="DirectorofMovies_MovieId" />
+      </EndProperty>
+      <EndProperty Name="Person">
+        <ScalarProperty Name="PersonId" ColumnName="Directors_PersonId" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,14 @@
+G:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq02\ProjectLinq02\bin\Debug\ProjectLinq02.exe.config
+G:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq02\ProjectLinq02\bin\Debug\ProjectLinq02.exe
+G:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq02\ProjectLinq02\bin\Debug\ProjectLinq02.pdb
+G:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq02\ProjectLinq02\obj\Debug\ProjectLinq02.csprojAssemblyReference.cache
+G:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq02\ProjectLinq02\obj\Debug\ProjectLinq02.csproj.CoreCompileInputs.cache
+G:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq02\ProjectLinq02\obj\Debug\ProjectLinq02.exe
+G:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq02\ProjectLinq02\obj\Debug\ProjectLinq02.pdb
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq03(.Any(), .All())\ProjectLinq02\bin\Debug\ProjectLinq02.exe.config
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq03(.Any(), .All())\ProjectLinq02\bin\Debug\ProjectLinq02.exe
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq03(.Any(), .All())\ProjectLinq02\bin\Debug\ProjectLinq02.pdb
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq03(.Any(), .All())\ProjectLinq02\obj\Debug\ProjectLinq02.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq03(.Any(), .All())\ProjectLinq02\obj\Debug\ProjectLinq02.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq03(.Any(), .All())\ProjectLinq02\obj\Debug\ProjectLinq02.exe
+E:\SergPAv\Программирование\Октябрь\CS30\ProjectLinq03(.Any(), .All())\ProjectLinq02\obj\Debug\ProjectLinq02.pdb

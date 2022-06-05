@@ -1,0 +1,11 @@
+D:\Visual Studio 2010\2018\PatternCommand\ProjectWinFormsCommands\ProjectWinFormsCommands\bin\Debug\ProjectWinFormsCommands.exe.config
+D:\Visual Studio 2010\2018\PatternCommand\ProjectWinFormsCommands\ProjectWinFormsCommands\bin\Debug\ProjectWinFormsCommands.exe
+D:\Visual Studio 2010\2018\PatternCommand\ProjectWinFormsCommands\ProjectWinFormsCommands\bin\Debug\ProjectWinFormsCommands.pdb
+D:\Visual Studio 2010\2018\PatternCommand\ProjectWinFormsCommands\ProjectWinFormsCommands\bin\Debug\LibraryCommand.dll
+D:\Visual Studio 2010\2018\PatternCommand\ProjectWinFormsCommands\ProjectWinFormsCommands\bin\Debug\LibraryCommand.pdb
+D:\Visual Studio 2010\2018\PatternCommand\ProjectWinFormsCommands\ProjectWinFormsCommands\obj\Debug\ProjectWinFormsCommands.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\PatternCommand\ProjectWinFormsCommands\ProjectWinFormsCommands\obj\Debug\ProjectWinFormsCommands.Form1.resources
+D:\Visual Studio 2010\2018\PatternCommand\ProjectWinFormsCommands\ProjectWinFormsCommands\obj\Debug\ProjectWinFormsCommands.Properties.Resources.resources
+D:\Visual Studio 2010\2018\PatternCommand\ProjectWinFormsCommands\ProjectWinFormsCommands\obj\Debug\ProjectWinFormsCommands.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\2018\PatternCommand\ProjectWinFormsCommands\ProjectWinFormsCommands\obj\Debug\ProjectWinFormsCommands.exe
+D:\Visual Studio 2010\2018\PatternCommand\ProjectWinFormsCommands\ProjectWinFormsCommands\obj\Debug\ProjectWinFormsCommands.pdb

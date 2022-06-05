@@ -1,0 +1,15 @@
+E:\SergPAv\Программирование\Декабрь(WPF)\WpfAppClient\WpfAppClient\bin\Debug\WpfAppClient.exe.config
+E:\SergPAv\Программирование\Декабрь(WPF)\WpfAppClient\WpfAppClient\bin\Debug\WpfAppClient.exe
+E:\SergPAv\Программирование\Декабрь(WPF)\WpfAppClient\WpfAppClient\bin\Debug\WpfAppClient.pdb
+E:\SergPAv\Программирование\Декабрь(WPF)\WpfAppClient\WpfAppClient\obj\Debug\WpfAppClient.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Декабрь(WPF)\WpfAppClient\WpfAppClient\obj\Debug\MainWindow.g.cs
+E:\SergPAv\Программирование\Декабрь(WPF)\WpfAppClient\WpfAppClient\obj\Debug\App.g.cs
+E:\SergPAv\Программирование\Декабрь(WPF)\WpfAppClient\WpfAppClient\obj\Debug\WpfAppClient_MarkupCompile.cache
+E:\SergPAv\Программирование\Декабрь(WPF)\WpfAppClient\WpfAppClient\obj\Debug\WpfAppClient_MarkupCompile.lref
+E:\SergPAv\Программирование\Декабрь(WPF)\WpfAppClient\WpfAppClient\obj\Debug\MainWindow.baml
+E:\SergPAv\Программирование\Декабрь(WPF)\WpfAppClient\WpfAppClient\obj\Debug\WpfAppClient.g.resources
+E:\SergPAv\Программирование\Декабрь(WPF)\WpfAppClient\WpfAppClient\obj\Debug\WpfAppClient.Properties.Resources.resources
+E:\SergPAv\Программирование\Декабрь(WPF)\WpfAppClient\WpfAppClient\obj\Debug\WpfAppClient.csproj.GenerateResource.cache
+E:\SergPAv\Программирование\Декабрь(WPF)\WpfAppClient\WpfAppClient\obj\Debug\WpfAppClient.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Декабрь(WPF)\WpfAppClient\WpfAppClient\obj\Debug\WpfAppClient.exe
+E:\SergPAv\Программирование\Декабрь(WPF)\WpfAppClient\WpfAppClient\obj\Debug\WpfAppClient.pdb

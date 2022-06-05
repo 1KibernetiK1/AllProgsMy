@@ -1,0 +1,7 @@
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\Singleton\ProjectConsoleLogger\ProjectConsoleLogger\bin\Debug\ProjectConsoleLogger.exe.config
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\Singleton\ProjectConsoleLogger\ProjectConsoleLogger\bin\Debug\ProjectConsoleLogger.exe
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\Singleton\ProjectConsoleLogger\ProjectConsoleLogger\bin\Debug\ProjectConsoleLogger.pdb
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\Singleton\ProjectConsoleLogger\ProjectConsoleLogger\obj\Debug\ProjectConsoleLogger.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\Singleton\ProjectConsoleLogger\ProjectConsoleLogger\obj\Debug\ProjectConsoleLogger.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\Singleton\ProjectConsoleLogger\ProjectConsoleLogger\obj\Debug\ProjectConsoleLogger.exe
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\Singleton\ProjectConsoleLogger\ProjectConsoleLogger\obj\Debug\ProjectConsoleLogger.pdb

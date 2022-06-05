@@ -1,0 +1,10 @@
+D:\Visual Studio 2010\2018\ПИ-121\ProjectSelections\ProjectSelections\bin\Debug\ProjectSelections.exe.config
+D:\Visual Studio 2010\2018\ПИ-121\ProjectSelections\ProjectSelections\bin\Debug\ProjectSelections.exe
+D:\Visual Studio 2010\2018\ПИ-121\ProjectSelections\ProjectSelections\bin\Debug\ProjectSelections.pdb
+D:\Visual Studio 2010\2018\ПИ-121\ProjectSelections\ProjectSelections\obj\Debug\ProjectSelections.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\ПИ-121\ProjectSelections\ProjectSelections\obj\Debug\ProjectSelections.Form1.resources
+D:\Visual Studio 2010\2018\ПИ-121\ProjectSelections\ProjectSelections\obj\Debug\ProjectSelections.Properties.Resources.resources
+D:\Visual Studio 2010\2018\ПИ-121\ProjectSelections\ProjectSelections\obj\Debug\ProjectSelections.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\2018\ПИ-121\ProjectSelections\ProjectSelections\obj\Debug\ProjectSelections.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\ПИ-121\ProjectSelections\ProjectSelections\obj\Debug\ProjectSelections.exe
+D:\Visual Studio 2010\2018\ПИ-121\ProjectSelections\ProjectSelections\obj\Debug\ProjectSelections.pdb

@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\2018\ПИ-320\ConsoleClientProductService\ConsoleClientProductService\bin\Debug\ConsoleClientProductService.exe.config
+D:\Visual Studio 2010\2018\ПИ-320\ConsoleClientProductService\ConsoleClientProductService\bin\Debug\ConsoleClientProductService.exe
+D:\Visual Studio 2010\2018\ПИ-320\ConsoleClientProductService\ConsoleClientProductService\bin\Debug\ConsoleClientProductService.pdb
+D:\Visual Studio 2010\2018\ПИ-320\ConsoleClientProductService\ConsoleClientProductService\obj\Debug\ConsoleClientProductService.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\ПИ-320\ConsoleClientProductService\ConsoleClientProductService\obj\Debug\ConsoleClientProductService.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\ПИ-320\ConsoleClientProductService\ConsoleClientProductService\obj\Debug\ConsoleClientProductService.exe
+D:\Visual Studio 2010\2018\ПИ-320\ConsoleClientProductService\ConsoleClientProductService\obj\Debug\ConsoleClientProductService.pdb

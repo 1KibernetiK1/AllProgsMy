@@ -1,0 +1,6 @@
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\LoggerLybrari\Logger\bin\Debug\Logger.dll
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\LoggerLybrari\Logger\bin\Debug\Logger.pdb
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\LoggerLybrari\Logger\obj\Debug\LoggerLybrari.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\LoggerLybrari\Logger\obj\Debug\LoggerLybrari.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\LoggerLybrari\Logger\obj\Debug\Logger.dll
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\LoggerLybrari\Logger\obj\Debug\Logger.pdb

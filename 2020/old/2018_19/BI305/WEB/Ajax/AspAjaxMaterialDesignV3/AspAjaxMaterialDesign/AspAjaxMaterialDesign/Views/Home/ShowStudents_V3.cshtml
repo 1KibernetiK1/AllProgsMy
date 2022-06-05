@@ -1,0 +1,144 @@
+﻿@using AspAjaxMaterialDesign.Models
+
+@{
+    ViewBag.Title = "Запрос версия III";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{ 
+    
+}
+
+<h2>@ViewBag.Title</h2>
+
+
+<div class="row">
+    <div class="input-field col s12">
+        <input placeholder="Placeholder"
+               id="text" type="text"
+               class="validate">
+        <label for="first_name">
+            Просто ввод данных
+        </label>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col s12 m6">
+        <div class="input-field col s12">
+            @Html.DropDownList(
+                "selectedGroup", // параметр для метода
+                new SelectList(
+                    new[] { "All" }
+                     .Concat(Enum.GetNames(typeof(AcGroup)))
+                ))
+        </div>
+    </div>
+</div>
+
+<br/>
+
+<table class="highlight">
+    <thead>
+        <tr>
+            <th>Фамилия</th>
+            <th>Имя</th>
+            <th>Группа</th>
+        </tr>
+    </thead>
+    <tbody id="tableBody"></tbody>
+</table>
+
+<div id="loadingDiv"
+     class="preloader-wrapper big active">
+    <div class="spinner-layer spinner-blue">
+        <div class="circle-clipper left">
+            <div class="circle"></div>
+        </div><div class="gap-patch">
+            <div class="circle"></div>
+        </div><div class="circle-clipper right">
+            <div class="circle"></div>
+        </div>
+    </div>
+
+    <div class="spinner-layer spinner-red">
+        <div class="circle-clipper left">
+            <div class="circle"></div>
+        </div><div class="gap-patch">
+            <div class="circle"></div>
+        </div><div class="circle-clipper right">
+            <div class="circle"></div>
+        </div>
+    </div>
+
+    <div class="spinner-layer spinner-yellow">
+        <div class="circle-clipper left">
+            <div class="circle"></div>
+        </div><div class="gap-patch">
+            <div class="circle"></div>
+        </div><div class="circle-clipper right">
+            <div class="circle"></div>
+        </div>
+    </div>
+
+    <div class="spinner-layer spinner-green">
+        <div class="circle-clipper left">
+            <div class="circle"></div>
+        </div><div class="gap-patch">
+            <div class="circle"></div>
+        </div><div class="circle-clipper right">
+            <div class="circle"></div>
+        </div>
+    </div>
+</div>
+
+
+
+
+@section scripts
+{
+        <script>
+        $(document).ready(function () {
+            $('#loadingDiv').hide();
+            $('select').formSelect();
+
+            json = @ViewBag.JsonGroup;
+            arrayGroups = jQuery.parseJSON(json);
+
+            $('#selectedGroup').change(function () {
+                $('#loadingDiv').show();
+                $('#tableBody').empty();
+
+                 // 1) берём из Выпадающего списка выбранную группу
+                var group = $('#selectedGroup').val();
+                // alert(group);
+
+                // 2) ajax запрос на сервер (для группы - студентов)
+                $.post('@Url.Action("GetStudents_V3", "Home")',
+                       { "selectedGroup": group },
+                       function (jsonResult) {
+        // alert("Data loaded!");
+        // console.log(jsonResult);
+        var students = jQuery.parseJSON(jsonResult);
+        html = "";
+        $.each(students, function (i, student) {
+            html += "<tr>"
+                 +  "<td>" + student.Lastname + "</td>"
+                 +  "<td>" + student.Name + "</td>"
+                 +  "<td>" + student.Group + "</td>"
+                 + "</tr>"
+        });
+        $('#tableBody').html(html);
+        $('#loadingDiv').hide();
+
+     });
+
+            $('#btnSubmit').click(function () {
+
+            });
+
+     });
+     });
+        </script>
+    }

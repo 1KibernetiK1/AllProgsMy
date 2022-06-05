@@ -1,0 +1,5 @@
+D:\Visual Studio 2010\PatternCommand\LibraryCommand\LibraryCommand\bin\Debug\LibraryCommand.dll
+D:\Visual Studio 2010\PatternCommand\LibraryCommand\LibraryCommand\bin\Debug\LibraryCommand.pdb
+D:\Visual Studio 2010\PatternCommand\LibraryCommand\LibraryCommand\obj\Debug\LibraryCommand.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\PatternCommand\LibraryCommand\LibraryCommand\obj\Debug\LibraryCommand.dll
+D:\Visual Studio 2010\PatternCommand\LibraryCommand\LibraryCommand\obj\Debug\LibraryCommand.pdb

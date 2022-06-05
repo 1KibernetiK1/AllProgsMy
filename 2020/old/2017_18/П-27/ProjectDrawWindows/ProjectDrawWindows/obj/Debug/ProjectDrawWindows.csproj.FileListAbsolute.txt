@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\2018\P27\ProjectDrawWindows\ProjectDrawWindows\bin\Debug\ProjectDrawWindows.exe.config
+D:\Visual Studio 2010\2018\P27\ProjectDrawWindows\ProjectDrawWindows\bin\Debug\ProjectDrawWindows.exe
+D:\Visual Studio 2010\2018\P27\ProjectDrawWindows\ProjectDrawWindows\bin\Debug\ProjectDrawWindows.pdb
+D:\Visual Studio 2010\2018\P27\ProjectDrawWindows\ProjectDrawWindows\obj\Debug\ProjectDrawWindows.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\P27\ProjectDrawWindows\ProjectDrawWindows\obj\Debug\ProjectDrawWindows.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\P27\ProjectDrawWindows\ProjectDrawWindows\obj\Debug\ProjectDrawWindows.exe
+D:\Visual Studio 2010\2018\P27\ProjectDrawWindows\ProjectDrawWindows\obj\Debug\ProjectDrawWindows.pdb

@@ -1,0 +1,10 @@
+E:\SergPAv\Программирование\Февраль\Sql2TableRelation\Sql2TableRelation\bin\Debug\Sql2TableRelation.exe.config
+E:\SergPAv\Программирование\Февраль\Sql2TableRelation\Sql2TableRelation\bin\Debug\Sql2TableRelation.exe
+E:\SergPAv\Программирование\Февраль\Sql2TableRelation\Sql2TableRelation\bin\Debug\Sql2TableRelation.pdb
+E:\SergPAv\Программирование\Февраль\Sql2TableRelation\Sql2TableRelation\obj\Debug\Sql2TableRelation.Form1.resources
+E:\SergPAv\Программирование\Февраль\Sql2TableRelation\Sql2TableRelation\obj\Debug\Sql2TableRelation.Properties.Resources.resources
+E:\SergPAv\Программирование\Февраль\Sql2TableRelation\Sql2TableRelation\obj\Debug\Sql2TableRelation.csproj.GenerateResource.cache
+E:\SergPAv\Программирование\Февраль\Sql2TableRelation\Sql2TableRelation\obj\Debug\Sql2TableRelation.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Февраль\Sql2TableRelation\Sql2TableRelation\obj\Debug\Sql2TableRelation.exe
+E:\SergPAv\Программирование\Февраль\Sql2TableRelation\Sql2TableRelation\obj\Debug\Sql2TableRelation.pdb
+E:\SergPAv\Программирование\Февраль\Sql2TableRelation\Sql2TableRelation\obj\Debug\Sql2TableRelation.csprojAssemblyReference.cache

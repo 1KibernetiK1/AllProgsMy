@@ -1,0 +1,9 @@
+D:\Visual Studio 2010\Bi106\ProjectRegions\ProjectRegions\bin\Debug\ProjectRegions.exe.config
+D:\Visual Studio 2010\Bi106\ProjectRegions\ProjectRegions\bin\Debug\ProjectRegions.exe
+D:\Visual Studio 2010\Bi106\ProjectRegions\ProjectRegions\bin\Debug\ProjectRegions.pdb
+D:\Visual Studio 2010\Bi106\ProjectRegions\ProjectRegions\obj\Debug\ProjectRegions.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Bi106\ProjectRegions\ProjectRegions\obj\Debug\ProjectRegions.Form1.resources
+D:\Visual Studio 2010\Bi106\ProjectRegions\ProjectRegions\obj\Debug\ProjectRegions.Properties.Resources.resources
+D:\Visual Studio 2010\Bi106\ProjectRegions\ProjectRegions\obj\Debug\ProjectRegions.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Bi106\ProjectRegions\ProjectRegions\obj\Debug\ProjectRegions.exe
+D:\Visual Studio 2010\Bi106\ProjectRegions\ProjectRegions\obj\Debug\ProjectRegions.pdb

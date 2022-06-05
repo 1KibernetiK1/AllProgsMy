@@ -1,0 +1,7 @@
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\DIP\Project01Classic\Project01Classic\bin\Debug\Project01Classic.exe.config
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\DIP\Project01Classic\Project01Classic\bin\Debug\Project01Classic.exe
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\DIP\Project01Classic\Project01Classic\bin\Debug\Project01Classic.pdb
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\DIP\Project01Classic\Project01Classic\obj\Debug\Project01Classic.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\DIP\Project01Classic\Project01Classic\obj\Debug\Project01Classic.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\DIP\Project01Classic\Project01Classic\obj\Debug\Project01Classic.exe
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\DIP\Project01Classic\Project01Classic\obj\Debug\Project01Classic.pdb

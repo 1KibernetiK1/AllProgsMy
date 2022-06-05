@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\ПИ-121\OOP\ProjectDemo01Generic\ProjectDemo01Generic\bin\Debug\ProjectDemo01Generic.exe.config
+D:\Visual Studio 2010\ПИ-121\OOP\ProjectDemo01Generic\ProjectDemo01Generic\bin\Debug\ProjectDemo01Generic.exe
+D:\Visual Studio 2010\ПИ-121\OOP\ProjectDemo01Generic\ProjectDemo01Generic\bin\Debug\ProjectDemo01Generic.pdb
+D:\Visual Studio 2010\ПИ-121\OOP\ProjectDemo01Generic\ProjectDemo01Generic\obj\Debug\ProjectDemo01Generic.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\ПИ-121\OOP\ProjectDemo01Generic\ProjectDemo01Generic\obj\Debug\ProjectDemo01Generic.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\ПИ-121\OOP\ProjectDemo01Generic\ProjectDemo01Generic\obj\Debug\ProjectDemo01Generic.exe
+D:\Visual Studio 2010\ПИ-121\OOP\ProjectDemo01Generic\ProjectDemo01Generic\obj\Debug\ProjectDemo01Generic.pdb

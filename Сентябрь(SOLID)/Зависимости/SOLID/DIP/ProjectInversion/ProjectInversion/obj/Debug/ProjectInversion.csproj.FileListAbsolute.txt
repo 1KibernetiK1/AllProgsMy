@@ -1,0 +1,7 @@
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\DIP\ProjectInversion\ProjectInversion\bin\Debug\ProjectInversion.exe.config
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\DIP\ProjectInversion\ProjectInversion\bin\Debug\ProjectInversion.exe
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\DIP\ProjectInversion\ProjectInversion\bin\Debug\ProjectInversion.pdb
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\DIP\ProjectInversion\ProjectInversion\obj\Debug\ProjectInversion.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\DIP\ProjectInversion\ProjectInversion\obj\Debug\ProjectInversion.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\DIP\ProjectInversion\ProjectInversion\obj\Debug\ProjectInversion.exe
+E:\SergPAv\Программирование\Сентябрь\Зависимости\SOLID\DIP\ProjectInversion\ProjectInversion\obj\Debug\ProjectInversion.pdb

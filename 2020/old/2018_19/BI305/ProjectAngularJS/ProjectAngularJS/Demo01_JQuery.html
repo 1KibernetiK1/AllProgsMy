@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+
+<html >
+
+<head>
+    <meta charset="utf-8" />
+    <title>Demo01 тоже самое через jQuery</title>
+
+    <script src="Libs/jquery-1.8.0.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#btnReady').click(function () {
+                var username = $('#textbox').val();
+                $('#labelName').text("Ваше имя: "+username);
+            });
+        });
+
+    </script>
+
+</head>
+
+<body >
+    <h1>Demo01 тоже самое через jQuery</h1>
+
+    <h2></h2>
+
+    <input id="textbox"
+           type="text" 
+           placeholder="введите имя"
+           
+           />
+    
+    <button id="btnReady">
+        Готово
+    </button>
+
+    <br/>
+    <label id="labelName"> Ваше имя:  </label>
+
+</body>
+
+</html>

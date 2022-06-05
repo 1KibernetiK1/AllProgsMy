@@ -1,0 +1,11 @@
+E:\SergPAv\Программирование\Сентябрь\DynamicLibraryes\COM object\WinFormsWordAuto\WinFormsWordAuto\bin\Debug\WinFormsWordAuto.exe.config
+E:\SergPAv\Программирование\Сентябрь\DynamicLibraryes\COM object\WinFormsWordAuto\WinFormsWordAuto\bin\Debug\WinFormsWordAuto.exe
+E:\SergPAv\Программирование\Сентябрь\DynamicLibraryes\COM object\WinFormsWordAuto\WinFormsWordAuto\bin\Debug\WinFormsWordAuto.pdb
+E:\SergPAv\Программирование\Сентябрь\DynamicLibraryes\COM object\WinFormsWordAuto\WinFormsWordAuto\obj\Debug\WinFormsWordAuto.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Сентябрь\DynamicLibraryes\COM object\WinFormsWordAuto\WinFormsWordAuto\obj\Debug\WinFormsWordAuto.csproj.ResolveComReference.cache
+E:\SergPAv\Программирование\Сентябрь\DynamicLibraryes\COM object\WinFormsWordAuto\WinFormsWordAuto\obj\Debug\WinFormsWordAuto.Form1.resources
+E:\SergPAv\Программирование\Сентябрь\DynamicLibraryes\COM object\WinFormsWordAuto\WinFormsWordAuto\obj\Debug\WinFormsWordAuto.Properties.Resources.resources
+E:\SergPAv\Программирование\Сентябрь\DynamicLibraryes\COM object\WinFormsWordAuto\WinFormsWordAuto\obj\Debug\WinFormsWordAuto.csproj.GenerateResource.cache
+E:\SergPAv\Программирование\Сентябрь\DynamicLibraryes\COM object\WinFormsWordAuto\WinFormsWordAuto\obj\Debug\WinFormsWordAuto.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Сентябрь\DynamicLibraryes\COM object\WinFormsWordAuto\WinFormsWordAuto\obj\Debug\WinFormsWordAuto.exe
+E:\SergPAv\Программирование\Сентябрь\DynamicLibraryes\COM object\WinFormsWordAuto\WinFormsWordAuto\obj\Debug\WinFormsWordAuto.pdb

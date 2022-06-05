@@ -1,0 +1,7 @@
+D:\visual studio 2010\Никулин ПИ-225\ProjectXmlSerialization\ProjectXmlSerialization\bin\Debug\ProjectXmlSerialization.exe.config
+D:\visual studio 2010\Никулин ПИ-225\ProjectXmlSerialization\ProjectXmlSerialization\bin\Debug\ProjectXmlSerialization.exe
+D:\visual studio 2010\Никулин ПИ-225\ProjectXmlSerialization\ProjectXmlSerialization\bin\Debug\ProjectXmlSerialization.pdb
+D:\visual studio 2010\Никулин ПИ-225\ProjectXmlSerialization\ProjectXmlSerialization\obj\Debug\ProjectXmlSerialization.csprojAssemblyReference.cache
+D:\visual studio 2010\Никулин ПИ-225\ProjectXmlSerialization\ProjectXmlSerialization\obj\Debug\ProjectXmlSerialization.csproj.CoreCompileInputs.cache
+D:\visual studio 2010\Никулин ПИ-225\ProjectXmlSerialization\ProjectXmlSerialization\obj\Debug\ProjectXmlSerialization.exe
+D:\visual studio 2010\Никулин ПИ-225\ProjectXmlSerialization\ProjectXmlSerialization\obj\Debug\ProjectXmlSerialization.pdb

@@ -1,0 +1,14 @@
+C:\Users\12345\Desktop\SortingStudentsByCourse\SortingStudentsByCourse\obj\Debug\SortingStudentsByCourse.csprojAssemblyReference.cache
+C:\Users\12345\Desktop\SortingStudentsByCourse\SortingStudentsByCourse\obj\Debug\SortingStudentsByCourse.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\SortingStudentsByCourse\SortingStudentsByCourse\bin\Debug\SortingStudentsByCourse.exe.config
+C:\Users\12345\Desktop\SortingStudentsByCourse\SortingStudentsByCourse\bin\Debug\SortingStudentsByCourse.exe
+C:\Users\12345\Desktop\SortingStudentsByCourse\SortingStudentsByCourse\bin\Debug\SortingStudentsByCourse.pdb
+C:\Users\12345\Desktop\SortingStudentsByCourse\SortingStudentsByCourse\obj\Debug\SortingStudentsByCourse.exe
+C:\Users\12345\Desktop\SortingStudentsByCourse\SortingStudentsByCourse\obj\Debug\SortingStudentsByCourse.pdb
+G:\SergPAv\Программирование\Октябрь\CS30\SortingStudentsByCourse\SortingStudentsByCourse\bin\Debug\SortingStudentsByCourse.exe.config
+G:\SergPAv\Программирование\Октябрь\CS30\SortingStudentsByCourse\SortingStudentsByCourse\bin\Debug\SortingStudentsByCourse.exe
+G:\SergPAv\Программирование\Октябрь\CS30\SortingStudentsByCourse\SortingStudentsByCourse\bin\Debug\SortingStudentsByCourse.pdb
+G:\SergPAv\Программирование\Октябрь\CS30\SortingStudentsByCourse\SortingStudentsByCourse\obj\Debug\SortingStudentsByCourse.csprojAssemblyReference.cache
+G:\SergPAv\Программирование\Октябрь\CS30\SortingStudentsByCourse\SortingStudentsByCourse\obj\Debug\SortingStudentsByCourse.csproj.CoreCompileInputs.cache
+G:\SergPAv\Программирование\Октябрь\CS30\SortingStudentsByCourse\SortingStudentsByCourse\obj\Debug\SortingStudentsByCourse.exe
+G:\SergPAv\Программирование\Октябрь\CS30\SortingStudentsByCourse\SortingStudentsByCourse\obj\Debug\SortingStudentsByCourse.pdb

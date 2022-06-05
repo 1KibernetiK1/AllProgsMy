@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+
+<!-- Привязываем точку входа
+    angularJS к HTML -->
+<html ng-app="mainApp">
+<head>
+
+    <script src="../Libs/angular.js"></script>
+    <meta charset="utf-8" />
+    <title>Одностронние привязки</title>
+
+    <script>
+
+        // AngularJS => MVC
+
+        // 1) создадим модель данных
+        var model =
+            [
+                { name: "Vasya", age: 17 },
+                { name: "Fedya", age: 18 },
+                { name: "Kolya", age: 19 }
+            ];
+
+        // 2) создание точки входа - Main
+        // наличие параметров - указание что модуль создаётся
+        //  а не загружается
+        var mainApp = angular.module("mainApp", []);
+
+        // 3) Создание контроллера
+        mainApp.controller("mainCtrl", function ($scope) {
+            // специальная переменная для в/д
+            // м/у контроллером и вьюхой и моделью
+            $scope.data = model;
+        });
+
+
+    </script>
+
+</head>
+
+<!-- Привязка html и контроллера -->
+<body ng-controller="mainCtrl">
+    <p> список элементов
+        - односторонняя привязка:
+        </p>
+    <ul>
+        <li ng-repeat="item in data">
+            имя = {{item.name}}, 
+            возраст {{item.age}}
+        </li>
+    </ul>
+    <div>
+        <p>текствое поле с односторонней</p>
+        <input type="text" 
+               value="{{data[0].name}}"/>
+    </div>
+    <div>
+        <p>текствое поле с двусторонней
+        привязкой <strong>ng-model</strong>
+        </p>
+        <input 
+               ng-model="data[1].name" />
+    </div>
+
+</body>
+</html>

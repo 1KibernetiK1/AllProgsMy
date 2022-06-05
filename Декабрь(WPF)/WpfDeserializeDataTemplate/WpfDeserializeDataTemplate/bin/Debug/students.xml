@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Age>18</Age>
+    <Name>Алексей</Name>
+    <Group>ПИ-124</Group>
+    <Id>1</Id>
+  </Student>
+  <Student>
+    <Age>19</Age>
+    <Name>Максим</Name>
+    <Group>ПИ-225</Group>
+    <Id>2</Id>
+  </Student>
+</ArrayOfStudent>

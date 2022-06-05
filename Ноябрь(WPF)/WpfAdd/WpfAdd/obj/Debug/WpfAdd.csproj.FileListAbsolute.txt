@@ -1,0 +1,15 @@
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfAdd\WpfAdd\obj\Debug\WpfAdd.csprojAssemblyReference.cache
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfAdd\WpfAdd\obj\Debug\MainWindow.g.cs
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfAdd\WpfAdd\obj\Debug\App.g.cs
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfAdd\WpfAdd\obj\Debug\WpfAdd_MarkupCompile.cache
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfAdd\WpfAdd\obj\Debug\WpfAdd_MarkupCompile.lref
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfAdd\WpfAdd\bin\Debug\WpfAdd.exe.config
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfAdd\WpfAdd\bin\Debug\WpfAdd.exe
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfAdd\WpfAdd\bin\Debug\WpfAdd.pdb
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfAdd\WpfAdd\obj\Debug\MainWindow.baml
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfAdd\WpfAdd\obj\Debug\WpfAdd.g.resources
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfAdd\WpfAdd\obj\Debug\WpfAdd.Properties.Resources.resources
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfAdd\WpfAdd\obj\Debug\WpfAdd.csproj.GenerateResource.cache
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfAdd\WpfAdd\obj\Debug\WpfAdd.csproj.CoreCompileInputs.cache
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfAdd\WpfAdd\obj\Debug\WpfAdd.exe
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfAdd\WpfAdd\obj\Debug\WpfAdd.pdb

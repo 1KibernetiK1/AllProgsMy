@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\2019\Parallels\TPL\ProjectDemoAggregateValue\ProjectDemoAggregateValue\bin\Debug\ProjectDemoAggregateValue.exe.config
+D:\Visual Studio 2010\2019\Parallels\TPL\ProjectDemoAggregateValue\ProjectDemoAggregateValue\bin\Debug\ProjectDemoAggregateValue.exe
+D:\Visual Studio 2010\2019\Parallels\TPL\ProjectDemoAggregateValue\ProjectDemoAggregateValue\bin\Debug\ProjectDemoAggregateValue.pdb
+D:\Visual Studio 2010\2019\Parallels\TPL\ProjectDemoAggregateValue\ProjectDemoAggregateValue\obj\Debug\ProjectDemoAggregateValue.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2019\Parallels\TPL\ProjectDemoAggregateValue\ProjectDemoAggregateValue\obj\Debug\ProjectDemoAggregateValue.exe
+D:\Visual Studio 2010\2019\Parallels\TPL\ProjectDemoAggregateValue\ProjectDemoAggregateValue\obj\Debug\ProjectDemoAggregateValue.pdb

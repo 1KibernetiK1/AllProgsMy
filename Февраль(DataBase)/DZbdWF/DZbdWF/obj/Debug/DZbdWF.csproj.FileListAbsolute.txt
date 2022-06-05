@@ -1,0 +1,12 @@
+E:\SergPAv\Программирование\Февраль\DZbdWF\DZbdWF\bin\Debug\TestDB.mdf
+E:\SergPAv\Программирование\Февраль\DZbdWF\DZbdWF\bin\Debug\TestDB_log.ldf
+E:\SergPAv\Программирование\Февраль\DZbdWF\DZbdWF\bin\Debug\DZbdWF.exe.config
+E:\SergPAv\Программирование\Февраль\DZbdWF\DZbdWF\bin\Debug\DZbdWF.exe
+E:\SergPAv\Программирование\Февраль\DZbdWF\DZbdWF\bin\Debug\DZbdWF.pdb
+E:\SergPAv\Программирование\Февраль\DZbdWF\DZbdWF\obj\Debug\DZbdWF.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Февраль\DZbdWF\DZbdWF\obj\Debug\DZbdWF.Form1.resources
+E:\SergPAv\Программирование\Февраль\DZbdWF\DZbdWF\obj\Debug\DZbdWF.Properties.Resources.resources
+E:\SergPAv\Программирование\Февраль\DZbdWF\DZbdWF\obj\Debug\DZbdWF.csproj.GenerateResource.cache
+E:\SergPAv\Программирование\Февраль\DZbdWF\DZbdWF\obj\Debug\DZbdWF.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Февраль\DZbdWF\DZbdWF\obj\Debug\DZbdWF.exe
+E:\SergPAv\Программирование\Февраль\DZbdWF\DZbdWF\obj\Debug\DZbdWF.pdb

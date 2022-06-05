@@ -1,0 +1,15 @@
+E:\SergPAv\Программирование\Январь\Wpf_Canvas_and_ellipse\Wpf_Canvas_and_ellipse\bin\Debug\Wpf_Canvas_and_ellipse.exe.config
+E:\SergPAv\Программирование\Январь\Wpf_Canvas_and_ellipse\Wpf_Canvas_and_ellipse\bin\Debug\Wpf_Canvas_and_ellipse.exe
+E:\SergPAv\Программирование\Январь\Wpf_Canvas_and_ellipse\Wpf_Canvas_and_ellipse\bin\Debug\Wpf_Canvas_and_ellipse.pdb
+E:\SergPAv\Программирование\Январь\Wpf_Canvas_and_ellipse\Wpf_Canvas_and_ellipse\obj\Debug\Wpf_Canvas_and_ellipse.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Январь\Wpf_Canvas_and_ellipse\Wpf_Canvas_and_ellipse\obj\Debug\MainWindow.g.cs
+E:\SergPAv\Программирование\Январь\Wpf_Canvas_and_ellipse\Wpf_Canvas_and_ellipse\obj\Debug\App.g.cs
+E:\SergPAv\Программирование\Январь\Wpf_Canvas_and_ellipse\Wpf_Canvas_and_ellipse\obj\Debug\Wpf_Canvas_and_ellipse_MarkupCompile.cache
+E:\SergPAv\Программирование\Январь\Wpf_Canvas_and_ellipse\Wpf_Canvas_and_ellipse\obj\Debug\Wpf_Canvas_and_ellipse_MarkupCompile.lref
+E:\SergPAv\Программирование\Январь\Wpf_Canvas_and_ellipse\Wpf_Canvas_and_ellipse\obj\Debug\MainWindow.baml
+E:\SergPAv\Программирование\Январь\Wpf_Canvas_and_ellipse\Wpf_Canvas_and_ellipse\obj\Debug\Wpf_Canvas_and_ellipse.g.resources
+E:\SergPAv\Программирование\Январь\Wpf_Canvas_and_ellipse\Wpf_Canvas_and_ellipse\obj\Debug\Wpf_Canvas_and_ellipse.Properties.Resources.resources
+E:\SergPAv\Программирование\Январь\Wpf_Canvas_and_ellipse\Wpf_Canvas_and_ellipse\obj\Debug\Wpf_Canvas_and_ellipse.csproj.GenerateResource.cache
+E:\SergPAv\Программирование\Январь\Wpf_Canvas_and_ellipse\Wpf_Canvas_and_ellipse\obj\Debug\Wpf_Canvas_and_ellipse.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Январь\Wpf_Canvas_and_ellipse\Wpf_Canvas_and_ellipse\obj\Debug\Wpf_Canvas_and_ellipse.exe
+E:\SergPAv\Программирование\Январь\Wpf_Canvas_and_ellipse\Wpf_Canvas_and_ellipse\obj\Debug\Wpf_Canvas_and_ellipse.pdb

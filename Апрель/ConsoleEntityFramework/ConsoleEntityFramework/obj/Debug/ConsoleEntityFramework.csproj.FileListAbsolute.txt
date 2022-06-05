@@ -1,0 +1,13 @@
+E:\SergPAv\Программирование\Апрель\ConsoleEntityFramework\ConsoleEntityFramework\bin\Debug\ConsoleEntityFramework.exe.config
+E:\SergPAv\Программирование\Апрель\ConsoleEntityFramework\ConsoleEntityFramework\bin\Debug\ConsoleEntityFramework.exe
+E:\SergPAv\Программирование\Апрель\ConsoleEntityFramework\ConsoleEntityFramework\bin\Debug\ConsoleEntityFramework.pdb
+E:\SergPAv\Программирование\Апрель\ConsoleEntityFramework\ConsoleEntityFramework\bin\Debug\EntityFramework.dll
+E:\SergPAv\Программирование\Апрель\ConsoleEntityFramework\ConsoleEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\SergPAv\Программирование\Апрель\ConsoleEntityFramework\ConsoleEntityFramework\bin\Debug\EntityFramework.xml
+E:\SergPAv\Программирование\Апрель\ConsoleEntityFramework\ConsoleEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\SergPAv\Программирование\Апрель\ConsoleEntityFramework\ConsoleEntityFramework\bin\Debug\ru\EntityFramework.resources.dll
+E:\SergPAv\Программирование\Апрель\ConsoleEntityFramework\ConsoleEntityFramework\obj\Debug\ConsoleEntityFramework.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Апрель\ConsoleEntityFramework\ConsoleEntityFramework\obj\Debug\ConsoleEntityFramework.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Апрель\ConsoleEntityFramework\ConsoleEntityFramework\obj\Debug\ConsoleEntityFramework.csproj.CopyComplete
+E:\SergPAv\Программирование\Апрель\ConsoleEntityFramework\ConsoleEntityFramework\obj\Debug\ConsoleEntityFramework.exe
+E:\SergPAv\Программирование\Апрель\ConsoleEntityFramework\ConsoleEntityFramework\obj\Debug\ConsoleEntityFramework.pdb

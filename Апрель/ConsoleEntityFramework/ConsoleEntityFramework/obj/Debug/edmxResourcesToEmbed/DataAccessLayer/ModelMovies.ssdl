@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ModelMovies.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ModelMoviesStoreContainer">
+    <EntitySet Name="Movies" EntityType="ModelMovies.Store.Movies" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PersonSet" EntityType="ModelMovies.Store.PersonSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Genres" EntityType="ModelMovies.Store.Genres" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="MovieGenre" EntityType="ModelMovies.Store.MovieGenre" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="MovieActor" EntityType="ModelMovies.Store.MovieActor" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="MovieDirector" EntityType="ModelMovies.Store.MovieDirector" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_MovieGenre_Movie" Association="ModelMovies.Store.FK_MovieGenre_Movie">
+      <End Role="Movie" EntitySet="Movies" />
+      <End Role="MovieGenre" EntitySet="MovieGenre" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MovieGenre_Genre" Association="ModelMovies.Store.FK_MovieGenre_Genre">
+      <End Role="Genre" EntitySet="Genres" />
+      <End Role="MovieGenre" EntitySet="MovieGenre" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MovieActor_Movie" Association="ModelMovies.Store.FK_MovieActor_Movie">
+      <End Role="Movie" EntitySet="Movies" />
+      <End Role="MovieActor" EntitySet="MovieActor" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MovieActor_Person" Association="ModelMovies.Store.FK_MovieActor_Person">
+      <End Role="Person" EntitySet="PersonSet" />
+      <End Role="MovieActor" EntitySet="MovieActor" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MovieDirector_Movie" Association="ModelMovies.Store.FK_MovieDirector_Movie">
+      <End Role="Movie" EntitySet="Movies" />
+      <End Role="MovieDirector" EntitySet="MovieDirector" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MovieDirector_Person" Association="ModelMovies.Store.FK_MovieDirector_Person">
+      <End Role="Person" EntitySet="PersonSet" />
+      <End Role="MovieDirector" EntitySet="MovieDirector" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Movies">
+    <Key>
+      <PropertyRef Name="MovieId" />
+    </Key>
+    <Property Name="MovieId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Year" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PersonSet">
+    <Key>
+      <PropertyRef Name="PersonId" />
+    </Key>
+    <Property Name="PersonId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="PhotoUrl" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Genres">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MovieGenre">
+    <Key>
+      <PropertyRef Name="MovieOfGenres_MovieId" />
+      <PropertyRef Name="GenreofMovies_Id" />
+    </Key>
+    <Property Name="MovieOfGenres_MovieId" Type="int" Nullable="false" />
+    <Property Name="GenreofMovies_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MovieActor">
+    <Key>
+      <PropertyRef Name="ActorofMovies_MovieId" />
+      <PropertyRef Name="Actors_PersonId" />
+    </Key>
+    <Property Name="ActorofMovies_MovieId" Type="int" Nullable="false" />
+    <Property Name="Actors_PersonId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MovieDirector">
+    <Key>
+      <PropertyRef Name="DirectorofMovies_MovieId" />
+      <PropertyRef Name="Directors_PersonId" />
+    </Key>
+    <Property Name="DirectorofMovies_MovieId" Type="int" Nullable="false" />
+    <Property Name="Directors_PersonId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_MovieGenre_Movie">
+    <End Role="Movie" Type="ModelMovies.Store.Movies" Multiplicity="1" />
+    <End Role="MovieGenre" Type="ModelMovies.Store.MovieGenre" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Movie">
+        <PropertyRef Name="MovieId" />
+      </Principal>
+      <Dependent Role="MovieGenre">
+        <PropertyRef Name="MovieOfGenres_MovieId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MovieGenre_Genre">
+    <End Role="MovieGenre" Type="ModelMovies.Store.MovieGenre" Multiplicity="*" />
+    <End Role="Genre" Type="ModelMovies.Store.Genres" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Genre">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="MovieGenre">
+        <PropertyRef Name="GenreofMovies_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MovieActor_Movie">
+    <End Role="Movie" Type="ModelMovies.Store.Movies" Multiplicity="1" />
+    <End Role="MovieActor" Type="ModelMovies.Store.MovieActor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Movie">
+        <PropertyRef Name="MovieId" />
+      </Principal>
+      <Dependent Role="MovieActor">
+        <PropertyRef Name="ActorofMovies_MovieId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MovieActor_Person">
+    <End Role="MovieActor" Type="ModelMovies.Store.MovieActor" Multiplicity="*" />
+    <End Role="Person" Type="ModelMovies.Store.PersonSet" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="PersonId" />
+      </Principal>
+      <Dependent Role="MovieActor">
+        <PropertyRef Name="Actors_PersonId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MovieDirector_Movie">
+    <End Role="Movie" Type="ModelMovies.Store.Movies" Multiplicity="1" />
+    <End Role="MovieDirector" Type="ModelMovies.Store.MovieDirector" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Movie">
+        <PropertyRef Name="MovieId" />
+      </Principal>
+      <Dependent Role="MovieDirector">
+        <PropertyRef Name="DirectorofMovies_MovieId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MovieDirector_Person">
+    <End Role="MovieDirector" Type="ModelMovies.Store.MovieDirector" Multiplicity="*" />
+    <End Role="Person" Type="ModelMovies.Store.PersonSet" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="PersonId" />
+      </Principal>
+      <Dependent Role="MovieDirector">
+        <PropertyRef Name="Directors_PersonId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

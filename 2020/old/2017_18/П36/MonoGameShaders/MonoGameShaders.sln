@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameShaders", "MonoGameShaders\MonoGameShaders.csproj", "{59F31925-A0B5-4070-9FCC-772D4370473B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F31925-A0B5-4070-9FCC-772D4370473B}.Debug|x86.ActiveCfg = Debug|x86
+		{59F31925-A0B5-4070-9FCC-772D4370473B}.Debug|x86.Build.0 = Debug|x86
+		{59F31925-A0B5-4070-9FCC-772D4370473B}.Release|x86.ActiveCfg = Release|x86
+		{59F31925-A0B5-4070-9FCC-772D4370473B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC21E374-26EF-4921-B815-58C3DB3FFC5D}
+	EndGlobalSection
+EndGlobal

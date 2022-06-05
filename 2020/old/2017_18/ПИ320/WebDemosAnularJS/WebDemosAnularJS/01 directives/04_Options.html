@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+
+<!-- Привязываем точку входа
+    angularJS к HTML -->
+<html ng-app="mainApp">
+<head>
+
+    <script src="../Libs/angular.js"></script>
+    <meta charset="utf-8" />
+    <title>Одностронние привязки</title>
+
+    <script>
+
+        // AngularJS => MVC
+
+        // 1) создадим модель данных
+        var model =
+            [
+                { name: "Vasya", age: 17, lastname:"Vasiliev" },
+                { name: "Fedya", age: 18, lastname: "Fedorov" },
+                { name: "Kolya", age: 19, lastname:"Nikolaev" }
+            ];
+
+        // 2) создание точки входа - Main
+        // наличие параметров - указание что модуль создаётся
+        //  а не загружается
+        var mainApp = angular.module("mainApp", []);
+
+        // 3) Создание контроллера
+        mainApp.controller("mainCtrl", function ($scope) {
+            // специальная переменная для в/д
+            // м/у контроллером и вьюхой и моделью
+            $scope.data = model;
+            $scope.selected = model[0];
+            $scope.choice = "не выбрано";
+        });
+
+
+    </script>
+
+</head>
+
+<!-- Привязка html и контроллера -->
+<body ng-controller="mainCtrl">
+    <p>
+        Выпадающий список!
+    </p>
+    <select ng-model="selected"
+            ng-options="item for item in data">
+
+    </select>
+    <p>
+        Вы выбрали: {{selected}}
+    </p>
+
+    <hr><br>
+    <p>
+        Выпадающий список!
+    </p>
+    <select ng-model="choice"
+            ng-options="s.name for s in data track by s.lastname">
+
+    </select>
+    <p>
+        Вы выбрали: {{choice.lastname}}
+    </p>
+</body>
+</html>

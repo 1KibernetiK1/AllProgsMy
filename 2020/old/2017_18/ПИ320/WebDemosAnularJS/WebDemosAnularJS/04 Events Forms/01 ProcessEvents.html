@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+
+<!-- Привязываем точку входа
+    angularJS к HTML -->
+<html ng-app="mainApp">
+<head>
+    <script src="../Libs/angular.js"></script>
+    <meta charset="utf-8" />
+    <title>AngularJS Events</title>
+
+    <script>
+
+        // AngularJS => MVC
+
+        // 1) создадим модель данных
+        var model = ["red", "green", "blue"];
+
+        // 2) создание точки входа - Main
+        // наличие параметров - указание что модуль создаётся
+        //  а не загружается
+        var mainApp = angular.module("mainApp", []);
+
+        // 3) Создание контроллера
+        mainApp.controller("mainCtrl", function ($scope) {
+            // специальная переменная для в/д
+            // м/у контроллером и вьюхой и моделью
+            $scope.data = model;
+
+            $scope.styleObj = {
+                width: "200px",
+                height: "100px",
+                color: "white",
+                background_color: "green"
+            };
+            
+            $scope.eventHandler = function (event) {
+                // .type - тип события
+                $scope.info = event.type;
+            }
+
+            $scope.itemClick = function (e) {
+                // .type - тип события
+                // alert(e);
+                $scope.styleObj.background_color = e;
+            }
+        });
+
+
+    </script>
+</head>
+
+<!-- Привязка html и контроллера -->
+<body ng-controller="mainCtrl">
+    <h2>AngularJS Demo Evens</h2>
+    <div ng-style="styleObj"
+         ng-mousedown="eventHandler($event)"
+         ng-mouseup="eventHandler($event)"
+         ng-mouseleave="eventHandler($event)"
+         ng-mouseenter="eventHandler($event)">
+        тип события => {{info}}
+    </div>
+    <ul>
+        <li ng-repeat="item in data"
+            ng-click="itemClick(item)">
+            {{item}}
+        </li>
+    </ul>
+</body>
+</html>

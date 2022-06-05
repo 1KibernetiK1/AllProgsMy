@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\2018\П-27\ProjectTasksArrays01\ProjectTasksArrays01\bin\Debug\ProjectTasksArrays01.exe.config
+D:\Visual Studio 2010\2018\П-27\ProjectTasksArrays01\ProjectTasksArrays01\bin\Debug\ProjectTasksArrays01.exe
+D:\Visual Studio 2010\2018\П-27\ProjectTasksArrays01\ProjectTasksArrays01\bin\Debug\ProjectTasksArrays01.pdb
+D:\Visual Studio 2010\2018\П-27\ProjectTasksArrays01\ProjectTasksArrays01\obj\Debug\ProjectTasksArrays01.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\П-27\ProjectTasksArrays01\ProjectTasksArrays01\obj\Debug\ProjectTasksArrays01.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\П-27\ProjectTasksArrays01\ProjectTasksArrays01\obj\Debug\ProjectTasksArrays01.exe
+D:\Visual Studio 2010\2018\П-27\ProjectTasksArrays01\ProjectTasksArrays01\obj\Debug\ProjectTasksArrays01.pdb

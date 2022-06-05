@@ -1,0 +1,7 @@
+E:\SergPAv\Программирование\Сентябрь\interface\ProjectYield\ProjectYield\bin\Debug\ProjectYield.exe.config
+E:\SergPAv\Программирование\Сентябрь\interface\ProjectYield\ProjectYield\bin\Debug\ProjectYield.exe
+E:\SergPAv\Программирование\Сентябрь\interface\ProjectYield\ProjectYield\bin\Debug\ProjectYield.pdb
+E:\SergPAv\Программирование\Сентябрь\interface\ProjectYield\ProjectYield\obj\Debug\ProjectYield.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Сентябрь\interface\ProjectYield\ProjectYield\obj\Debug\ProjectYield.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Сентябрь\interface\ProjectYield\ProjectYield\obj\Debug\ProjectYield.exe
+E:\SergPAv\Программирование\Сентябрь\interface\ProjectYield\ProjectYield\obj\Debug\ProjectYield.pdb

@@ -1,0 +1,20 @@
+﻿@using WebShopHardware.Helpers;
+@model List<WebShopHardware.Domains.Product>
+
+@{
+    ViewBag.Title = "Товары";
+}
+
+<h2>@ViewBag.Title</h2>
+@foreach (var item in Model)
+{
+    <div class="container-fluid">
+        <h4>@item.Title</h4>
+        <h6>@item.Price.ToString("C")</h6>
+    </div>
+}
+
+<p>страницы:</p>
+<ul class="pagination">
+    @Html.PagesLinksBootstrap((int)ViewBag.Active, (int)ViewBag.Pages)
+</ul>

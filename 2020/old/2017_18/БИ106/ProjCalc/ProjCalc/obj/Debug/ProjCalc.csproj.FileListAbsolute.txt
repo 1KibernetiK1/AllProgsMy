@@ -1,0 +1,10 @@
+D:\Visual Studio 2010\2018\ProjCalc\ProjCalc\bin\Debug\ProjCalc.exe.config
+D:\Visual Studio 2010\2018\ProjCalc\ProjCalc\bin\Debug\ProjCalc.exe
+D:\Visual Studio 2010\2018\ProjCalc\ProjCalc\bin\Debug\ProjCalc.pdb
+D:\Visual Studio 2010\2018\ProjCalc\ProjCalc\obj\Debug\ProjCalc.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\ProjCalc\ProjCalc\obj\Debug\ProjCalc.Form1.resources
+D:\Visual Studio 2010\2018\ProjCalc\ProjCalc\obj\Debug\ProjCalc.Properties.Resources.resources
+D:\Visual Studio 2010\2018\ProjCalc\ProjCalc\obj\Debug\ProjCalc.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\2018\ProjCalc\ProjCalc\obj\Debug\ProjCalc.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\ProjCalc\ProjCalc\obj\Debug\ProjCalc.exe
+D:\Visual Studio 2010\2018\ProjCalc\ProjCalc\obj\Debug\ProjCalc.pdb

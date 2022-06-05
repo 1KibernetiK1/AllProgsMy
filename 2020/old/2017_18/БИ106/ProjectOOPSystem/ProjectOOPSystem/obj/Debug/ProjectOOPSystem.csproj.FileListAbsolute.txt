@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\ПИ-121\ProjectOOPSystem\ProjectOOPSystem\bin\Debug\ProjectOOPSystem.exe.config
+D:\Visual Studio 2010\ПИ-121\ProjectOOPSystem\ProjectOOPSystem\bin\Debug\ProjectOOPSystem.exe
+D:\Visual Studio 2010\ПИ-121\ProjectOOPSystem\ProjectOOPSystem\bin\Debug\ProjectOOPSystem.pdb
+D:\Visual Studio 2010\ПИ-121\ProjectOOPSystem\ProjectOOPSystem\obj\Debug\ProjectOOPSystem.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\ПИ-121\ProjectOOPSystem\ProjectOOPSystem\obj\Debug\ProjectOOPSystem.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\ПИ-121\ProjectOOPSystem\ProjectOOPSystem\obj\Debug\ProjectOOPSystem.exe
+D:\Visual Studio 2010\ПИ-121\ProjectOOPSystem\ProjectOOPSystem\obj\Debug\ProjectOOPSystem.pdb

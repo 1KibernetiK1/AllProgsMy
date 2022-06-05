@@ -1,0 +1,10 @@
+D:\Visual Studio 2010\2018\ProjectDemoRegularExp\ProjectDemoRegularExp\bin\Debug\ProjectDemoRegularExp.exe.config
+D:\Visual Studio 2010\2018\ProjectDemoRegularExp\ProjectDemoRegularExp\bin\Debug\ProjectDemoRegularExp.exe
+D:\Visual Studio 2010\2018\ProjectDemoRegularExp\ProjectDemoRegularExp\bin\Debug\ProjectDemoRegularExp.pdb
+D:\Visual Studio 2010\2018\ProjectDemoRegularExp\ProjectDemoRegularExp\obj\Debug\ProjectDemoRegularExp.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\ProjectDemoRegularExp\ProjectDemoRegularExp\obj\Debug\ProjectDemoRegularExp.Form1.resources
+D:\Visual Studio 2010\2018\ProjectDemoRegularExp\ProjectDemoRegularExp\obj\Debug\ProjectDemoRegularExp.Properties.Resources.resources
+D:\Visual Studio 2010\2018\ProjectDemoRegularExp\ProjectDemoRegularExp\obj\Debug\ProjectDemoRegularExp.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\2018\ProjectDemoRegularExp\ProjectDemoRegularExp\obj\Debug\ProjectDemoRegularExp.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\ProjectDemoRegularExp\ProjectDemoRegularExp\obj\Debug\ProjectDemoRegularExp.exe
+D:\Visual Studio 2010\2018\ProjectDemoRegularExp\ProjectDemoRegularExp\obj\Debug\ProjectDemoRegularExp.pdb

@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\2018\п27 (2)\ProjectFileInfo\ProjectFileInfo\bin\Debug\ProjectFileInfo.exe.config
+D:\Visual Studio 2010\2018\п27 (2)\ProjectFileInfo\ProjectFileInfo\bin\Debug\ProjectFileInfo.exe
+D:\Visual Studio 2010\2018\п27 (2)\ProjectFileInfo\ProjectFileInfo\bin\Debug\ProjectFileInfo.pdb
+D:\Visual Studio 2010\2018\п27 (2)\ProjectFileInfo\ProjectFileInfo\obj\Debug\ProjectFileInfo.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\п27 (2)\ProjectFileInfo\ProjectFileInfo\obj\Debug\ProjectFileInfo.exe
+D:\Visual Studio 2010\2018\п27 (2)\ProjectFileInfo\ProjectFileInfo\obj\Debug\ProjectFileInfo.pdb
+D:\Visual Studio 2010\2018\п27 (2)\ProjectFileInfo\ProjectFileInfo\obj\Debug\ProjectFileInfo.csprojResolveAssemblyReference.cache

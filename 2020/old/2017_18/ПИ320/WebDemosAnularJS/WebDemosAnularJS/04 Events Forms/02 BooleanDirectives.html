@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+
+<!-- Привязываем точку входа
+    angularJS к HTML -->
+<html ng-app="mainApp">
+<head>
+    <script src="../Libs/angular.js"></script>
+    <link href="../Libs/bootstrap-theme.css" rel="stylesheet" />
+    <link href="../Libs/bootstrap.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <title>AngularJS Demo</title>
+
+    <script>
+
+        // 2) создание точки входа - Main
+        // наличие параметров - указание что модуль создаётся
+        //  а не загружается
+        var mainApp = angular.module("mainApp", []);
+
+        // 3) Создание контроллера
+        mainApp.controller("mainCtrl", function ($scope) {
+            // специальная переменная для в/д
+            // м/у контроллером и вьюхой и моделью
+            $scope.boolValue = false;
+        });
+
+
+    </script>
+
+</head>
+
+<!-- Привязка html и контроллера -->
+<body ng-controller="mainCtrl" style="margin:50px;">
+    <h2>AngularJS Boolean Атрибуты</h2>
+    <p>
+        - изменять состояния html-элементов
+        независимо от их значений:
+        ng-checked (radio, checkbox)
+        ng-disabled (button, input)
+        ng-readonly (input)
+        ng-selected (option)
+    </p>
+    <h3 class="panel-heading">Boolean attr</h3>
+    
+    <div class="checkbox">
+        <label>
+            <input type="checkbox" 
+                   ng-model="boolValue" />
+            Переключаем все ЭЛЕМЕНТЫ!
+        </label>
+    </div>
+
+    <div class="form-group">
+        <button class="btn btn-success"
+                ng-disabled="boolValue">
+            ng-disabled
+        </button>
+    </div>
+
+    <div class="form-group">
+        <input class="form-control" 
+               ng-readonly="boolValue"
+               value="ng-readonly"/>
+    </div>
+
+    <div class="form-group">
+        <label>
+            <input type="checkbox"
+                   ng-checked="boolValue"
+                   />
+            ng-checked
+        </label>
+    </div>
+
+    <div class="form-group">
+        <label>
+            <select class="form-control">
+                <option>item_default</option>
+                <option ng-selected="boolValue"
+                        > ng-selected</option>
+            </select>
+            ng-selected
+        </label>
+    </div>
+</body>
+</html>

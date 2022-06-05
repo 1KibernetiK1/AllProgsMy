@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+
+<!-- Привязываем точку входа
+    angularJS к HTML -->
+<html ng-app="mainApp">
+<head>
+
+    <script src="../Libs/angular.js"></script>
+    <meta charset="utf-8" />
+    <title>ng-hide</title>
+
+    <script>
+        var mainApp = angular.module("mainApp", []);
+        mainApp.controller("mainCtrl", function ($scope) {
+            $scope.styleObj =
+                {
+                    color: "red",
+                    border: "1px solid gray",
+                    width: "100px",
+                    height: "100px",
+                    margin: "20px"
+                };
+
+        });
+    </script>
+    <style>
+    </style>
+
+</head>
+
+<!-- Привязка html и контроллера -->
+<body ng-controller="mainCtrl">
+    <h2>ng-style demo</h2>
+
+
+    <div ng-style="styleObj">
+        Element 1
+        {{styleObj}}
+    </div>
+</body>
+</html>

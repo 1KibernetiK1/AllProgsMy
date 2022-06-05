@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+
+<!-- Привязываем точку входа
+    angularJS к HTML -->
+<html ng-app="mainApp">
+<head>
+
+    <script src="../Libs/angular.js"></script>
+    <meta charset="utf-8" />
+    <title>Одностронние привязки</title>
+
+    <script>
+
+        // AngularJS => MVC
+
+        // 1) создадим модель данных
+        var model =
+            [
+                { name: "Vasya", age: 17 },
+                { name: "Fedya", age: 18 },
+                { name: "Kolya", age: 19 }
+            ];
+
+        // 2) создание точки входа - Main
+        // наличие параметров - указание что модуль создаётся
+        //  а не загружается
+        var mainApp = angular.module("mainApp", []);
+
+        // 3) Создание контроллера
+        mainApp.controller("mainCtrl", function ($scope) {
+            // специальная переменная для в/д
+            // м/у контроллером и вьюхой и моделью
+            $scope.data = model;
+        });
+
+
+    </script>
+
+</head>
+
+<!-- Привязка html и контроллера -->
+<body ng-controller="mainCtrl">
+    <h2>Одностронние привязки</h2>
+    <p> 1) простая однонаправленная
+        привязка от модели 
+        к представлению </p>
+    <h4>В массиве объектов {{data.length}}</h4>
+
+    <p> 2) ng-bind заменить html содержимое 
+    элемента данными из привязки</p>
+    <div>
+        в массиве 
+        <span ng-bind="data.length"></span> элемента
+    </div>
+
+    <br>
+    <p>3) ng-bind-template
+    привязка с шаблонами примерно (string.Format("")) 
+    </p>
+    <div ng-bind-template=
+        "Первый {{data[0].name}}, Третий {{data[2].name}}">
+
+    </div>
+
+    <br>
+    <p> 4) ng-non-bindable 
+    отключает использользование {{}}
+    </p>
+    <div ng-non-bindable>
+        Здесь мы отключили привязки {{data.length}}
+    </div>
+</body>
+</html>

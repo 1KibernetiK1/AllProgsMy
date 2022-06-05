@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\2019\Parallel\ProjectDemoPLINQ_Effective\ProjectDemoPLINQ_Effective\bin\Debug\ProjectDemoPLINQ_Effective.exe.config
+D:\Visual Studio 2010\2019\Parallel\ProjectDemoPLINQ_Effective\ProjectDemoPLINQ_Effective\bin\Debug\ProjectDemoPLINQ_Effective.exe
+D:\Visual Studio 2010\2019\Parallel\ProjectDemoPLINQ_Effective\ProjectDemoPLINQ_Effective\bin\Debug\ProjectDemoPLINQ_Effective.pdb
+D:\Visual Studio 2010\2019\Parallel\ProjectDemoPLINQ_Effective\ProjectDemoPLINQ_Effective\obj\Debug\ProjectDemoPLINQ_Effective.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2019\Parallel\ProjectDemoPLINQ_Effective\ProjectDemoPLINQ_Effective\obj\Debug\ProjectDemoPLINQ_Effective.exe
+D:\Visual Studio 2010\2019\Parallel\ProjectDemoPLINQ_Effective\ProjectDemoPLINQ_Effective\obj\Debug\ProjectDemoPLINQ_Effective.pdb

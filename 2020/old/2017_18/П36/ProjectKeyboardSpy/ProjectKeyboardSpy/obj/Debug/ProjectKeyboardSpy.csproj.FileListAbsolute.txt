@@ -1,0 +1,10 @@
+D:\Visual Studio 2010\pi320\2018\ProjectKeyboardSpy\ProjectKeyboardSpy\bin\Debug\ProjectKeyboardSpy.exe.config
+D:\Visual Studio 2010\pi320\2018\ProjectKeyboardSpy\ProjectKeyboardSpy\bin\Debug\ProjectKeyboardSpy.exe
+D:\Visual Studio 2010\pi320\2018\ProjectKeyboardSpy\ProjectKeyboardSpy\bin\Debug\ProjectKeyboardSpy.pdb
+D:\Visual Studio 2010\pi320\2018\ProjectKeyboardSpy\ProjectKeyboardSpy\obj\Debug\ProjectKeyboardSpy.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\pi320\2018\ProjectKeyboardSpy\ProjectKeyboardSpy\obj\Debug\ProjectKeyboardSpy.Form1.resources
+D:\Visual Studio 2010\pi320\2018\ProjectKeyboardSpy\ProjectKeyboardSpy\obj\Debug\ProjectKeyboardSpy.Properties.Resources.resources
+D:\Visual Studio 2010\pi320\2018\ProjectKeyboardSpy\ProjectKeyboardSpy\obj\Debug\ProjectKeyboardSpy.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\pi320\2018\ProjectKeyboardSpy\ProjectKeyboardSpy\obj\Debug\ProjectKeyboardSpy.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\pi320\2018\ProjectKeyboardSpy\ProjectKeyboardSpy\obj\Debug\ProjectKeyboardSpy.exe
+D:\Visual Studio 2010\pi320\2018\ProjectKeyboardSpy\ProjectKeyboardSpy\obj\Debug\ProjectKeyboardSpy.pdb

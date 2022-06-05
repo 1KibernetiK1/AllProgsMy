@@ -1,0 +1,98 @@
+﻿@model WebShopHardware.BusinessLogic.ProductFilterInfo
+
+@{
+    ViewBag.Title = "Настройка фильтров";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div class="panel panel-info">
+    <div class="panel-heading">
+        Фильтрация товаров:
+    </div>
+    <div class="panel-body">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.Label("Включить/Выключить")
+                <div class="col-md-10">
+                    <div class="checkbox">
+                        @Html.EditorFor(model => model.IsEnabled)
+                        @Html.ValidationMessageFor(model => model.IsEnabled, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+
+            <div class="btn-group">
+                <button type="button" class="btn btn-default">Страницы</button>
+                <button type="button" 
+                        class="btn btn-default dropdown-toggle" 
+                        data-toggle="dropdown" 
+                        aria-haspopup="true" 
+                        aria-expanded="false">
+                    <span class="caret"></span>
+                    <span class="sr-only">Toggle Dropdown</span>
+                </button>
+                <ul class="dropdown-menu">
+                    @for (int i = 1; i < 10; i++)
+                    {
+                        <li><a href="#">@(i*5)</a></li>
+                    }
+                </ul>
+            </div>
+
+            <div class="btn-group">
+                <button type="button" class="btn btn-success">Производители</button>
+                <button type="button"
+                        class="btn btn-success dropdown-toggle"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false">
+                    <span class="caret"></span>
+                    <span class="sr-only">Toggle Dropdown</span>
+                </button>
+                <ul class="dropdown-menu">
+                    @foreach (var item in Model.ManufactureList)
+                    {
+                        <li><a href="#">@item</a></li>
+                    }
+                </ul>
+            </div>
+
+            <!--
+            <div class="form-group">
+                Html.LabelFor(model => model.PageSize, htmlAttributes: new { class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    Html.EditorFor(model => model.PageSize, new { htmlAttributes = new { class = "form-control" } })
+                    Html.ValidationMessageFor(model => model.PageSize, "", new { class = "text-danger" })
+                </div>
+            </div>
+                -->
+            <!--
+            <div class="form-group">
+                Html.LabelFor(model => model.Manufacture, htmlAttributes: new { class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    Html.EditorFor(model => model.Manufacture, new { htmlAttributes = new { class = "form-control" } })
+                    Html.ValidationMessageFor(model => model.Manufacture, "", new { class = "text-danger" })
+                </div>
+            </div>
+                -->
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Save" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+    </div>
+</div>
+
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>

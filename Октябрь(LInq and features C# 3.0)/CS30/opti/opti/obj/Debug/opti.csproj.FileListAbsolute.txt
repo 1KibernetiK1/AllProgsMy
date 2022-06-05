@@ -1,0 +1,7 @@
+E:\SergPAv\Программирование\Октябрь\CS30\opti\opti\bin\Debug\opti.exe.config
+E:\SergPAv\Программирование\Октябрь\CS30\opti\opti\bin\Debug\opti.exe
+E:\SergPAv\Программирование\Октябрь\CS30\opti\opti\bin\Debug\opti.pdb
+E:\SergPAv\Программирование\Октябрь\CS30\opti\opti\obj\Debug\opti.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Октябрь\CS30\opti\opti\obj\Debug\opti.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Октябрь\CS30\opti\opti\obj\Debug\opti.exe
+E:\SergPAv\Программирование\Октябрь\CS30\opti\opti\obj\Debug\opti.pdb

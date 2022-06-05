@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+
+<!-- Привязываем точку входа
+    angularJS к HTML -->
+<html ng-app="mainApp">
+<head>
+
+    <script src="../Libs/angular.js"></script>
+    <meta charset="utf-8" />
+    <title>ng-hide</title>
+
+    <script>
+
+        var mainApp = angular.module("mainApp", []);
+        mainApp.controller("mainCtrl", function ($scope) {
+            $scope.classNames = [
+                { name: "Light Green", value: "d1" },
+                { name: "Light Blue", value: "d3" },
+                { name: "Light Coral", value: "d2" }
+            ];
+            $scope.selectedClass = "d1";
+        });
+
+
+    </script>
+    <style>
+        div {
+            padding: 30px;
+            margin: 15px;
+            border: 1px solid gray;
+            display: inline-block;
+            border-radius: 3px;
+        }
+
+        .d1 {
+            background-color: lightgreen;
+        }
+
+        .d2 {
+            background-color: lightcoral;
+        }
+
+        .d3 {
+            background-color: lightblue;
+        }
+    </style>
+
+</head>
+
+<!-- Привязка html и контроллера -->
+<body ng-controller="mainCtrl">
+    <h2>ng-class demo</h2>
+    <div class="row well">
+        <div class="radio" ng-repeat="item in classNames"> 
+            <label>
+                <input type="radio" 
+                       ng-model="$parent.selectedClass"
+                       value="{{item.value}}"/>
+                {{item.name}}
+            </label>
+        </div>
+     </div>
+
+    <div id="d1" 
+         ng-class="selectedClass">
+        Element 1
+        style={{selectedClass}}
+    </div>
+</body>
+</html>

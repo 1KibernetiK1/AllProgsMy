@@ -1,0 +1,10 @@
+D:\Visual Studio 2010\2018\п36\ProjectWebGrabber\ProjectWebGrabber\bin\Debug\ProjectWebGrabber.exe.config
+D:\Visual Studio 2010\2018\п36\ProjectWebGrabber\ProjectWebGrabber\bin\Debug\ProjectWebGrabber.exe
+D:\Visual Studio 2010\2018\п36\ProjectWebGrabber\ProjectWebGrabber\bin\Debug\ProjectWebGrabber.pdb
+D:\Visual Studio 2010\2018\п36\ProjectWebGrabber\ProjectWebGrabber\obj\Debug\ProjectWebGrabber.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\п36\ProjectWebGrabber\ProjectWebGrabber\obj\Debug\ProjectWebGrabber.Form1.resources
+D:\Visual Studio 2010\2018\п36\ProjectWebGrabber\ProjectWebGrabber\obj\Debug\ProjectWebGrabber.Properties.Resources.resources
+D:\Visual Studio 2010\2018\п36\ProjectWebGrabber\ProjectWebGrabber\obj\Debug\ProjectWebGrabber.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\2018\п36\ProjectWebGrabber\ProjectWebGrabber\obj\Debug\ProjectWebGrabber.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\п36\ProjectWebGrabber\ProjectWebGrabber\obj\Debug\ProjectWebGrabber.exe
+D:\Visual Studio 2010\2018\п36\ProjectWebGrabber\ProjectWebGrabber\obj\Debug\ProjectWebGrabber.pdb

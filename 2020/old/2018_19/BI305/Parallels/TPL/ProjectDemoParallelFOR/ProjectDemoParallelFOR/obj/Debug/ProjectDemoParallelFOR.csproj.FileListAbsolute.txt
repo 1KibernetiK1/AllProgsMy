@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\2019\Parallels\TPL\ProjectDemoParallelFOR\ProjectDemoParallelFOR\bin\Debug\ProjectDemoParallelFOR.exe.config
+D:\Visual Studio 2010\2019\Parallels\TPL\ProjectDemoParallelFOR\ProjectDemoParallelFOR\bin\Debug\ProjectDemoParallelFOR.exe
+D:\Visual Studio 2010\2019\Parallels\TPL\ProjectDemoParallelFOR\ProjectDemoParallelFOR\bin\Debug\ProjectDemoParallelFOR.pdb
+D:\Visual Studio 2010\2019\Parallels\TPL\ProjectDemoParallelFOR\ProjectDemoParallelFOR\obj\Debug\ProjectDemoParallelFOR.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2019\Parallels\TPL\ProjectDemoParallelFOR\ProjectDemoParallelFOR\obj\Debug\ProjectDemoParallelFOR.exe
+D:\Visual Studio 2010\2019\Parallels\TPL\ProjectDemoParallelFOR\ProjectDemoParallelFOR\obj\Debug\ProjectDemoParallelFOR.pdb

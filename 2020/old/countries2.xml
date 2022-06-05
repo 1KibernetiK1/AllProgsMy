@@ -1,0 +1,2786 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ArrayOfCountry>
+	<header>
+		<Name>Наименование</Name>
+		<Fullname>Полное наименование</Fullname>
+		<English>На английском</English>
+		<Alpha2>Alpha2</Alpha2>
+		<Alpha3>Alpha3</Alpha3>
+		<ISO>ISO</ISO>
+		<Location>Часть света</Location>
+		<LocationPrecise>Расположение</LocationPrecise>
+	</header>
+  
+	<Country>
+		<Name>Абхазия</Name>
+		<Fullname>Республика Абхазия</Fullname>
+		<English>Abkhazia</English>
+		<Alpha2>AB</Alpha2>
+		<Alpha3>ABH</Alpha3>
+		<ISO>895</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Закавказье</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Австралия</Name>
+		<Fullname> </Fullname>
+		<English>Australia</English>
+		<Alpha2>AU</Alpha2>
+		<Alpha3>AUS</Alpha3>
+		<ISO>036</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Австралия и&#160;Новая Зеландия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Австрия</Name>
+		<Fullname>Австрийская Республика</Fullname>
+		<English>Austria</English>
+		<Alpha2>AT</Alpha2>
+		<Alpha3>AUT</Alpha3>
+		<ISO>040</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Западная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Азербайджан</Name>
+		<Fullname>Республика Азербайджан</Fullname>
+		<English>Azerbaijan</English>
+		<Alpha2>AZ</Alpha2>
+		<Alpha3>AZE</Alpha3>
+		<ISO>031</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Албания</Name>
+		<Fullname>Республика Албания</Fullname>
+		<English>Albania</English>
+		<Alpha2>AL</Alpha2>
+		<Alpha3>ALB</Alpha3>
+		<ISO>008</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Алжир</Name>
+		<Fullname>Алжирская Народная Демократическая Республика</Fullname>
+		<English>Algeria</English>
+		<Alpha2>DZ</Alpha2>
+		<Alpha3>DZA</Alpha3>
+		<ISO>012</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Северная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Американское Самоа</Name>
+		<Fullname> </Fullname>
+		<English>American Samoa</English>
+		<Alpha2>AS</Alpha2>
+		<Alpha3>ASM</Alpha3>
+		<ISO>016</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Полинезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Ангилья</Name>
+		<Fullname> </Fullname>
+		<English>Anguilla</English>
+		<Alpha2>AI</Alpha2>
+		<Alpha3>AIA</Alpha3>
+		<ISO>660</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Ангола</Name>
+		<Fullname>Республика Ангола</Fullname>
+		<English>Angola</English>
+		<Alpha2>AO</Alpha2>
+		<Alpha3>AGO</Alpha3>
+		<ISO>024</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Центральная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Андорра</Name>
+		<Fullname>Княжество Андорра</Fullname>
+		<English>Andorra</English>
+		<Alpha2>AD</Alpha2>
+		<Alpha3>AND</Alpha3>
+		<ISO>020</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Антарктида</Name>
+		<Fullname> </Fullname>
+		<English>Antarctica</English>
+		<Alpha2>AQ</Alpha2>
+		<Alpha3>ATA</Alpha3>
+		<ISO>010</ISO>
+		<Location>Антарктика</Location>
+		<LocationPrecise> </LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Антигуа и&#160;Барбуда</Name>
+		<Fullname> </Fullname>
+		<English>Antigua and Barbuda</English>
+		<Alpha2>AG</Alpha2>
+		<Alpha3>ATG</Alpha3>
+		<ISO>028</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Аргентина</Name>
+		<Fullname>Аргентинская Республика</Fullname>
+		<English>Argentina</English>
+		<Alpha2>AR</Alpha2>
+		<Alpha3>ARG</Alpha3>
+		<ISO>032</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Южная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Армения</Name>
+		<Fullname>Республика Армения</Fullname>
+		<English>Armenia</English>
+		<Alpha2>AM</Alpha2>
+		<Alpha3>ARM</Alpha3>
+		<ISO>051</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Аруба</Name>
+		<Fullname> </Fullname>
+		<English>Aruba</English>
+		<Alpha2>AW</Alpha2>
+		<Alpha3>ABW</Alpha3>
+		<ISO>533</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Афганистан</Name>
+		<Fullname>Переходное Исламское Государство Афганистан</Fullname>
+		<English>Afghanistan</English>
+		<Alpha2>AF</Alpha2>
+		<Alpha3>AFG</Alpha3>
+		<ISO>004</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Южная часть Центральной Азии</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Багамы</Name>
+		<Fullname>Содружество Багамы</Fullname>
+		<English>Bahamas</English>
+		<Alpha2>BS</Alpha2>
+		<Alpha3>BHS</Alpha3>
+		<ISO>044</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Бангладеш</Name>
+		<Fullname>Народная Республика Бангладеш</Fullname>
+		<English>Bangladesh</English>
+		<Alpha2>BD</Alpha2>
+		<Alpha3>BGD</Alpha3>
+		<ISO>050</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Южная часть Центральной Азии</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Барбадос</Name>
+		<Fullname> </Fullname>
+		<English>Barbados</English>
+		<Alpha2>BB</Alpha2>
+		<Alpha3>BRB</Alpha3>
+		<ISO>052</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Бахрейн</Name>
+		<Fullname>Королевство Бахрейн</Fullname>
+		<English>Bahrain</English>
+		<Alpha2>BH</Alpha2>
+		<Alpha3>BHR</Alpha3>
+		<ISO>048</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Беларусь</Name>
+		<Fullname>Республика Беларусь</Fullname>
+		<English>Belarus</English>
+		<Alpha2>BY</Alpha2>
+		<Alpha3>BLR</Alpha3>
+		<ISO>112</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Восточная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Белиз</Name>
+		<Fullname> </Fullname>
+		<English>Belize</English>
+		<Alpha2>BZ</Alpha2>
+		<Alpha3>BLZ</Alpha3>
+		<ISO>084</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Бельгия</Name>
+		<Fullname>Королевство Бельгии</Fullname>
+		<English>Belgium</English>
+		<Alpha2>BE</Alpha2>
+		<Alpha3>BEL</Alpha3>
+		<ISO>056</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Западная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Бенин</Name>
+		<Fullname>Республика Бенин</Fullname>
+		<English>Benin</English>
+		<Alpha2>BJ</Alpha2>
+		<Alpha3>BEN</Alpha3>
+		<ISO>204</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Бермуды</Name>
+		<Fullname> </Fullname>
+		<English>Bermuda</English>
+		<Alpha2>BM</Alpha2>
+		<Alpha3>BMU</Alpha3>
+		<ISO>060</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Северная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Болгария</Name>
+		<Fullname>Республика Болгария</Fullname>
+		<English>Bulgaria</English>
+		<Alpha2>BG</Alpha2>
+		<Alpha3>BGR</Alpha3>
+		<ISO>100</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Восточная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Боливия, Многонациональное Государство</Name>
+		<Fullname>Многонациональное Государство Боливия</Fullname>
+		<English>Bolivia, plurinational state&#160;of</English>
+		<Alpha2>BO</Alpha2>
+		<Alpha3>BOL</Alpha3>
+		<ISO>068</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Южная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Бонайре, Саба и&#160;Синт-Эстатиус</Name>
+		<Fullname> </Fullname>
+		<English>Bonaire, Sint Eustatius and Saba</English>
+		<Alpha2>BQ</Alpha2>
+		<Alpha3>BES</Alpha3>
+		<ISO>535</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Босния и&#160;Герцеговина</Name>
+		<Fullname> </Fullname>
+		<English>Bosnia and Herzegovina</English>
+		<Alpha2>BA</Alpha2>
+		<Alpha3>BIH</Alpha3>
+		<ISO>070</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Ботсвана</Name>
+		<Fullname>Республика Ботсвана</Fullname>
+		<English>Botswana</English>
+		<Alpha2>BW</Alpha2>
+		<Alpha3>BWA</Alpha3>
+		<ISO>072</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Южная часть Африки</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Бразилия</Name>
+		<Fullname>Федеративная Республика Бразилия</Fullname>
+		<English>Brazil</English>
+		<Alpha2>BR</Alpha2>
+		<Alpha3>BRA</Alpha3>
+		<ISO>076</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Южная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Британская территория в&#160;Индийском океане</Name>
+		<Fullname> </Fullname>
+		<English>British Indian Ocean Territory</English>
+		<Alpha2>IO</Alpha2>
+		<Alpha3>IOT</Alpha3>
+		<ISO>086</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Индийский океан</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Бруней-Даруссалам</Name>
+		<Fullname> </Fullname>
+		<English>Brunei Darussalam</English>
+		<Alpha2>BN</Alpha2>
+		<Alpha3>BRN</Alpha3>
+		<ISO>096</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Юго-Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Буркина-Фасо</Name>
+		<Fullname> </Fullname>
+		<English>Burkina Faso</English>
+		<Alpha2>BF</Alpha2>
+		<Alpha3>BFA</Alpha3>
+		<ISO>854</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Бурунди</Name>
+		<Fullname>Республика Бурунди</Fullname>
+		<English>Burundi</English>
+		<Alpha2>BI</Alpha2>
+		<Alpha3>BDI</Alpha3>
+		<ISO>108</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Бутан</Name>
+		<Fullname>Королевство Бутан</Fullname>
+		<English>Bhutan</English>
+		<Alpha2>BT</Alpha2>
+		<Alpha3>BTN</Alpha3>
+		<ISO>064</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Южная часть Центральной Азии</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Вануату</Name>
+		<Fullname>Республика Вануату</Fullname>
+		<English>Vanuatu</English>
+		<Alpha2>VU</Alpha2>
+		<Alpha3>VUT</Alpha3>
+		<ISO>548</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Меланезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Венгрия</Name>
+		<Fullname>Венгерская Республика</Fullname>
+		<English>Hungary</English>
+		<Alpha2>HU</Alpha2>
+		<Alpha3>HUN</Alpha3>
+		<ISO>348</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Восточная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Венесуэла Боливарианская Республика</Name>
+		<Fullname>Боливарийская Республика Венесуэла</Fullname>
+		<English>Venezuela</English>
+		<Alpha2>VE</Alpha2>
+		<Alpha3>VEN</Alpha3>
+		<ISO>862</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Южная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Виргинские острова, Британские</Name>
+		<Fullname>Британские Виргинские острова</Fullname>
+		<English>Virgin Islands, British</English>
+		<Alpha2>VG</Alpha2>
+		<Alpha3>VGB</Alpha3>
+		<ISO>092</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Виргинские острова, США</Name>
+		<Fullname>Виргинские острова Соединенных Штатов</Fullname>
+		<English>Virgin Islands, U.S.</English>
+		<Alpha2>VI</Alpha2>
+		<Alpha3>VIR</Alpha3>
+		<ISO>850</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Вьетнам</Name>
+		<Fullname>Социалистическая Республика Вьетнам</Fullname>
+		<English>Vietnam</English>
+		<Alpha2>VN</Alpha2>
+		<Alpha3>VNM</Alpha3>
+		<ISO>704</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Юго-Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Габон</Name>
+		<Fullname>Габонская Республика</Fullname>
+		<English>Gabon</English>
+		<Alpha2>GA</Alpha2>
+		<Alpha3>GAB</Alpha3>
+		<ISO>266</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Центральная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Гаити</Name>
+		<Fullname>Республика Гаити</Fullname>
+		<English>Haiti</English>
+		<Alpha2>HT</Alpha2>
+		<Alpha3>HTI</Alpha3>
+		<ISO>332</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Гайана</Name>
+		<Fullname>Республика Гайана</Fullname>
+		<English>Guyana</English>
+		<Alpha2>GY</Alpha2>
+		<Alpha3>GUY</Alpha3>
+		<ISO>328</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Южная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Гамбия</Name>
+		<Fullname>Республика Гамбия</Fullname>
+		<English>Gambia</English>
+		<Alpha2>GM</Alpha2>
+		<Alpha3>GMB</Alpha3>
+		<ISO>270</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Гана</Name>
+		<Fullname>Республика Гана</Fullname>
+		<English>Ghana</English>
+		<Alpha2>GH</Alpha2>
+		<Alpha3>GHA</Alpha3>
+		<ISO>288</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Гваделупа</Name>
+		<Fullname> </Fullname>
+		<English>Guadeloupe</English>
+		<Alpha2>GP</Alpha2>
+		<Alpha3>GLP</Alpha3>
+		<ISO>312</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Гватемала</Name>
+		<Fullname>Республика Гватемала</Fullname>
+		<English>Guatemala</English>
+		<Alpha2>GT</Alpha2>
+		<Alpha3>GTM</Alpha3>
+		<ISO>320</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Центральная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Гвинея</Name>
+		<Fullname>Гвинейская Республика</Fullname>
+		<English>Guinea</English>
+		<Alpha2>GN</Alpha2>
+		<Alpha3>GIN</Alpha3>
+		<ISO>324</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Гвинея-Бисау</Name>
+		<Fullname>Республика Гвинея-Бисау</Fullname>
+		<English>Guinea-Bissau</English>
+		<Alpha2>GW</Alpha2>
+		<Alpha3>GNB</Alpha3>
+		<ISO>624</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Германия</Name>
+		<Fullname>Федеративная Республика Германия</Fullname>
+		<English>Germany</English>
+		<Alpha2>DE</Alpha2>
+		<Alpha3>DEU</Alpha3>
+		<ISO>276</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Западная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Гернси</Name>
+		<Fullname> </Fullname>
+		<English>Guernsey</English>
+		<Alpha2>GG</Alpha2>
+		<Alpha3>GGY</Alpha3>
+		<ISO>831</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Гибралтар</Name>
+		<Fullname> </Fullname>
+		<English>Gibraltar</English>
+		<Alpha2>GI</Alpha2>
+		<Alpha3>GIB</Alpha3>
+		<ISO>292</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Гондурас</Name>
+		<Fullname>Республика Гондурас</Fullname>
+		<English>Honduras</English>
+		<Alpha2>HN</Alpha2>
+		<Alpha3>HND</Alpha3>
+		<ISO>340</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Центральная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Гонконг</Name>
+		<Fullname>Специальный  административный  регион Китая Гонконг</Fullname>
+		<English>Hong Kong</English>
+		<Alpha2>HK</Alpha2>
+		<Alpha3>HKG</Alpha3>
+		<ISO>344</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Гренада</Name>
+		<Fullname> </Fullname>
+		<English>Grenada</English>
+		<Alpha2>GD</Alpha2>
+		<Alpha3>GRD</Alpha3>
+		<ISO>308</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Гренландия</Name>
+		<Fullname> </Fullname>
+		<English>Greenland</English>
+		<Alpha2>GL</Alpha2>
+		<Alpha3>GRL</Alpha3>
+		<ISO>304</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Северная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Греция</Name>
+		<Fullname>Греческая Республика</Fullname>
+		<English>Greece</English>
+		<Alpha2>GR</Alpha2>
+		<Alpha3>GRC</Alpha3>
+		<ISO>300</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Грузия</Name>
+		<Fullname> </Fullname>
+		<English>Georgia</English>
+		<Alpha2>GE</Alpha2>
+		<Alpha3>GEO</Alpha3>
+		<ISO>268</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Гуам</Name>
+		<Fullname> </Fullname>
+		<English>Guam</English>
+		<Alpha2>GU</Alpha2>
+		<Alpha3>GUM</Alpha3>
+		<ISO>316</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Микронезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Дания</Name>
+		<Fullname>Королевство Дания</Fullname>
+		<English>Denmark</English>
+		<Alpha2>DK</Alpha2>
+		<Alpha3>DNK</Alpha3>
+		<ISO>208</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Джерси</Name>
+		<Fullname> </Fullname>
+		<English>Jersey</English>
+		<Alpha2>JE</Alpha2>
+		<Alpha3>JEY</Alpha3>
+		<ISO>832</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Джибути</Name>
+		<Fullname>Республика Джибути</Fullname>
+		<English>Djibouti</English>
+		<Alpha2>DJ</Alpha2>
+		<Alpha3>DJI</Alpha3>
+		<ISO>262</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Доминика</Name>
+		<Fullname>Содружество Доминики</Fullname>
+		<English>Dominica</English>
+		<Alpha2>DM</Alpha2>
+		<Alpha3>DMA</Alpha3>
+		<ISO>212</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Доминиканская Республика</Name>
+		<Fullname> </Fullname>
+		<English>Dominican Republic</English>
+		<Alpha2>DO</Alpha2>
+		<Alpha3>DOM</Alpha3>
+		<ISO>214</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Египет</Name>
+		<Fullname>Арабская Республика Египет</Fullname>
+		<English>Egypt</English>
+		<Alpha2>EG</Alpha2>
+		<Alpha3>EGY</Alpha3>
+		<ISO>818</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Северная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Замбия</Name>
+		<Fullname>Республика Замбия</Fullname>
+		<English>Zambia</English>
+		<Alpha2>ZM</Alpha2>
+		<Alpha3>ZMB</Alpha3>
+		<ISO>894</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Западная Сахара</Name>
+		<Fullname> </Fullname>
+		<English>Western Sahara</English>
+		<Alpha2>EH</Alpha2>
+		<Alpha3>ESH</Alpha3>
+		<ISO>732</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Северная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Зимбабве</Name>
+		<Fullname>Республика Зимбабве</Fullname>
+		<English>Zimbabwe</English>
+		<Alpha2>ZW</Alpha2>
+		<Alpha3>ZWE</Alpha3>
+		<ISO>716</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Израиль</Name>
+		<Fullname>Государство Израиль</Fullname>
+		<English>Israel</English>
+		<Alpha2>IL</Alpha2>
+		<Alpha3>ISR</Alpha3>
+		<ISO>376</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Индия</Name>
+		<Fullname>Республика Индия</Fullname>
+		<English>India</English>
+		<Alpha2>IN</Alpha2>
+		<Alpha3>IND</Alpha3>
+		<ISO>356</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Южная часть Центральной Азии</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Индонезия</Name>
+		<Fullname>Республика Индонезия</Fullname>
+		<English>Indonesia</English>
+		<Alpha2>ID</Alpha2>
+		<Alpha3>IDN</Alpha3>
+		<ISO>360</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Юго-Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Иордания</Name>
+		<Fullname>Иорданское Хашимитское Королевство</Fullname>
+		<English>Jordan</English>
+		<Alpha2>JO</Alpha2>
+		<Alpha3>JOR</Alpha3>
+		<ISO>400</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Ирак</Name>
+		<Fullname>Республика Ирак</Fullname>
+		<English>Iraq</English>
+		<Alpha2>IQ</Alpha2>
+		<Alpha3>IRQ</Alpha3>
+		<ISO>368</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Иран, Исламская Республика</Name>
+		<Fullname>Исламская Республика Иран</Fullname>
+		<English>Iran, Islamic Republic of</English>
+		<Alpha2>IR</Alpha2>
+		<Alpha3>IRN</Alpha3>
+		<ISO>364</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Южная часть Центральной Азии</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Ирландия</Name>
+		<Fullname> </Fullname>
+		<English>Ireland</English>
+		<Alpha2>IE</Alpha2>
+		<Alpha3>IRL</Alpha3>
+		<ISO>372</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Исландия</Name>
+		<Fullname>Республика Исландия</Fullname>
+		<English>Iceland</English>
+		<Alpha2>IS</Alpha2>
+		<Alpha3>ISL</Alpha3>
+		<ISO>352</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Испания</Name>
+		<Fullname>Королевство Испания</Fullname>
+		<English>Spain</English>
+		<Alpha2>ES</Alpha2>
+		<Alpha3>ESP</Alpha3>
+		<ISO>724</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Италия</Name>
+		<Fullname>Итальянская Республика</Fullname>
+		<English>Italy</English>
+		<Alpha2>IT</Alpha2>
+		<Alpha3>ITA</Alpha3>
+		<ISO>380</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Йемен</Name>
+		<Fullname>Йеменская Республика</Fullname>
+		<English>Yemen</English>
+		<Alpha2>YE</Alpha2>
+		<Alpha3>YEM</Alpha3>
+		<ISO>887</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Кабо-Верде</Name>
+		<Fullname>Республика Кабо-Верде</Fullname>
+		<English>Cape Verde</English>
+		<Alpha2>CV</Alpha2>
+		<Alpha3>CPV</Alpha3>
+		<ISO>132</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Казахстан</Name>
+		<Fullname>Республика Казахстан</Fullname>
+		<English>Kazakhstan</English>
+		<Alpha2>KZ</Alpha2>
+		<Alpha3>KAZ</Alpha3>
+		<ISO>398</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Южная часть Центральной Азии</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Камбоджа</Name>
+		<Fullname>Королевство Камбоджа</Fullname>
+		<English>Cambodia</English>
+		<Alpha2>KH</Alpha2>
+		<Alpha3>KHM</Alpha3>
+		<ISO>116</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Юго-Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Камерун</Name>
+		<Fullname>Республика Камерун</Fullname>
+		<English>Cameroon</English>
+		<Alpha2>CM</Alpha2>
+		<Alpha3>CMR</Alpha3>
+		<ISO>120</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Центральная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Канада</Name>
+		<Fullname> </Fullname>
+		<English>Canada</English>
+		<Alpha2>CA</Alpha2>
+		<Alpha3>CAN</Alpha3>
+		<ISO>124</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Северная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Катар</Name>
+		<Fullname>Государство Катар</Fullname>
+		<English>Qatar</English>
+		<Alpha2>QA</Alpha2>
+		<Alpha3>QAT</Alpha3>
+		<ISO>634</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Кения</Name>
+		<Fullname>Республика Кения</Fullname>
+		<English>Kenya</English>
+		<Alpha2>KE</Alpha2>
+		<Alpha3>KEN</Alpha3>
+		<ISO>404</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Кипр</Name>
+		<Fullname>Республика Кипр</Fullname>
+		<English>Cyprus</English>
+		<Alpha2>CY</Alpha2>
+		<Alpha3>CYP</Alpha3>
+		<ISO>196</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Киргизия</Name>
+		<Fullname>Киргизская Республика</Fullname>
+		<English>Kyrgyzstan</English>
+		<Alpha2>KG</Alpha2>
+		<Alpha3>KGZ</Alpha3>
+		<ISO>417</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Южная часть Центральной Азии</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Кирибати</Name>
+		<Fullname>Республика Кирибати</Fullname>
+		<English>Kiribati</English>
+		<Alpha2>KI</Alpha2>
+		<Alpha3>KIR</Alpha3>
+		<ISO>296</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Микронезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Китай</Name>
+		<Fullname>Китайская Народная Республика</Fullname>
+		<English>China</English>
+		<Alpha2>CN</Alpha2>
+		<Alpha3>CHN</Alpha3>
+		<ISO>156</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Кокосовые (Килинг) острова</Name>
+		<Fullname> </Fullname>
+		<English>Cocos (Keeling) Islands</English>
+		<Alpha2>CC</Alpha2>
+		<Alpha3>CCK</Alpha3>
+		<ISO>166</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Индийский океан</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Колумбия</Name>
+		<Fullname>Республика Колумбия</Fullname>
+		<English>Colombia</English>
+		<Alpha2>CO</Alpha2>
+		<Alpha3>COL</Alpha3>
+		<ISO>170</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Южная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Коморы</Name>
+		<Fullname>Союз Коморы</Fullname>
+		<English>Comoros</English>
+		<Alpha2>KM</Alpha2>
+		<Alpha3>COM</Alpha3>
+		<ISO>174</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Конго</Name>
+		<Fullname>Республика Конго</Fullname>
+		<English>Congo</English>
+		<Alpha2>CG</Alpha2>
+		<Alpha3>COG</Alpha3>
+		<ISO>178</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Центральная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Конго, Демократическая Республика</Name>
+		<Fullname>Демократическая Республика Конго</Fullname>
+		<English>Congo, Democratic Republic of&#160;the</English>
+		<Alpha2>CD</Alpha2>
+		<Alpha3>COD</Alpha3>
+		<ISO>180</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Центральная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Корея, Народно-Демократическая Республика</Name>
+		<Fullname>Корейская Народно-Демократическая Республика</Fullname>
+		<English>Korea, Democratic People's republic of</English>
+		<Alpha2>KP</Alpha2>
+		<Alpha3>PRK</Alpha3>
+		<ISO>408</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Корея, Республика</Name>
+		<Fullname>Республика Корея</Fullname>
+		<English>Korea, Republic&#160;of</English>
+		<Alpha2>KR</Alpha2>
+		<Alpha3>KOR</Alpha3>
+		<ISO>410</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Коста-Рика</Name>
+		<Fullname>Республика Коста-Рика</Fullname>
+		<English>Costa Rica</English>
+		<Alpha2>CR</Alpha2>
+		<Alpha3>CRI</Alpha3>
+		<ISO>188</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Центральная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Кот д'Ивуар</Name>
+		<Fullname>Республика Кот д'Ивуар</Fullname>
+		<English>Cote d'Ivoire</English>
+		<Alpha2>CI</Alpha2>
+		<Alpha3>CIV</Alpha3>
+		<ISO>384</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Куба</Name>
+		<Fullname>Республика Куба</Fullname>
+		<English>Cuba</English>
+		<Alpha2>CU</Alpha2>
+		<Alpha3>CUB</Alpha3>
+		<ISO>192</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Кувейт</Name>
+		<Fullname>Государство Кувейт</Fullname>
+		<English>Kuwait</English>
+		<Alpha2>KW</Alpha2>
+		<Alpha3>KWT</Alpha3>
+		<ISO>414</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Кюрасао</Name>
+		<Fullname> </Fullname>
+		<English>Curaçao</English>
+		<Alpha2>CW</Alpha2>
+		<Alpha3>CUW</Alpha3>
+		<ISO>531</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Лаос</Name>
+		<Fullname>Лаосская Народно-Демократическая Республика</Fullname>
+		<English>Lao People's Democratic Republic</English>
+		<Alpha2>LA</Alpha2>
+		<Alpha3>LAO</Alpha3>
+		<ISO>418</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Юго-Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Латвия</Name>
+		<Fullname>Латвийская Республика</Fullname>
+		<English>Latvia</English>
+		<Alpha2>LV</Alpha2>
+		<Alpha3>LVA</Alpha3>
+		<ISO>428</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Лесото</Name>
+		<Fullname>Королевство Лесото</Fullname>
+		<English>Lesotho</English>
+		<Alpha2>LS</Alpha2>
+		<Alpha3>LSO</Alpha3>
+		<ISO>426</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Южная часть Африки</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Ливан</Name>
+		<Fullname>Ливанская Республика</Fullname>
+		<English>Lebanon</English>
+		<Alpha2>LB</Alpha2>
+		<Alpha3>LBN</Alpha3>
+		<ISO>422</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Ливийская Арабская Джамахирия</Name>
+		<Fullname>Социалистическая Народная Ливийская Арабская Джамахирия</Fullname>
+		<English>Libyan Arab Jamahiriya</English>
+		<Alpha2>LY</Alpha2>
+		<Alpha3>LBY</Alpha3>
+		<ISO>434</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Северная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Либерия</Name>
+		<Fullname>Республика Либерия</Fullname>
+		<English>Liberia</English>
+		<Alpha2>LR</Alpha2>
+		<Alpha3>LBR</Alpha3>
+		<ISO>430</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Лихтенштейн</Name>
+		<Fullname>Княжество Лихтенштейн</Fullname>
+		<English>Liechtenstein</English>
+		<Alpha2>LI</Alpha2>
+		<Alpha3>LIE</Alpha3>
+		<ISO>438</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Западная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Литва</Name>
+		<Fullname>Литовская Республика</Fullname>
+		<English>Lithuania</English>
+		<Alpha2>LT</Alpha2>
+		<Alpha3>LTU</Alpha3>
+		<ISO>440</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Люксембург</Name>
+		<Fullname>Великое Герцогство Люксембург</Fullname>
+		<English>Luxembourg</English>
+		<Alpha2>LU</Alpha2>
+		<Alpha3>LUX</Alpha3>
+		<ISO>442</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Западная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Маврикий</Name>
+		<Fullname>Республика Маврикий</Fullname>
+		<English>Mauritius</English>
+		<Alpha2>MU</Alpha2>
+		<Alpha3>MUS</Alpha3>
+		<ISO>480</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Мавритания</Name>
+		<Fullname>Исламская Республика Мавритания</Fullname>
+		<English>Mauritania</English>
+		<Alpha2>MR</Alpha2>
+		<Alpha3>MRT</Alpha3>
+		<ISO>478</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Мадагаскар</Name>
+		<Fullname>Республика Мадагаскар</Fullname>
+		<English>Madagascar</English>
+		<Alpha2>MG</Alpha2>
+		<Alpha3>MDG</Alpha3>
+		<ISO>450</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Майотта</Name>
+		<Fullname> </Fullname>
+		<English>Mayotte</English>
+		<Alpha2>YT</Alpha2>
+		<Alpha3>MYT</Alpha3>
+		<ISO>175</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Южная часть Африки</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Макао</Name>
+		<Fullname>Специальный административный регион Китая Макао</Fullname>
+		<English>Macao</English>
+		<Alpha2>MO</Alpha2>
+		<Alpha3>MAC</Alpha3>
+		<ISO>446</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Малави</Name>
+		<Fullname>Республика Малави</Fullname>
+		<English>Malawi</English>
+		<Alpha2>MW</Alpha2>
+		<Alpha3>MWI</Alpha3>
+		<ISO>454</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Малайзия</Name>
+		<Fullname> </Fullname>
+		<English>Malaysia</English>
+		<Alpha2>MY</Alpha2>
+		<Alpha3>MYS</Alpha3>
+		<ISO>458</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Юго-Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Мали</Name>
+		<Fullname>Республика Мали</Fullname>
+		<English>Mali</English>
+		<Alpha2>ML</Alpha2>
+		<Alpha3>MLI</Alpha3>
+		<ISO>466</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Малые Тихоокеанские отдаленные острова Соединенных Штатов</Name>
+		<Fullname> </Fullname>
+		<English>United States Minor Outlying Islands</English>
+		<Alpha2>UM</Alpha2>
+		<Alpha3>UMI</Alpha3>
+		<ISO>581</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Индийский океан</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Мальдивы</Name>
+		<Fullname>Мальдивская Республика</Fullname>
+		<English>Maldives</English>
+		<Alpha2>MV</Alpha2>
+		<Alpha3>MDV</Alpha3>
+		<ISO>462</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Южная часть Центральной Азии</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Мальта</Name>
+		<Fullname>Республика Мальта</Fullname>
+		<English>Malta</English>
+		<Alpha2>MT</Alpha2>
+		<Alpha3>MLT</Alpha3>
+		<ISO>470</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Марокко</Name>
+		<Fullname>Королевство Марокко</Fullname>
+		<English>Morocco</English>
+		<Alpha2>MA</Alpha2>
+		<Alpha3>MAR</Alpha3>
+		<ISO>504</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Северная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Мартиника</Name>
+		<Fullname> </Fullname>
+		<English>Martinique</English>
+		<Alpha2>MQ</Alpha2>
+		<Alpha3>MTQ</Alpha3>
+		<ISO>474</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Маршалловы острова</Name>
+		<Fullname>Республика Маршалловы острова</Fullname>
+		<English>Marshall Islands</English>
+		<Alpha2>MH</Alpha2>
+		<Alpha3>MHL</Alpha3>
+		<ISO>584</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Микронезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Мексика</Name>
+		<Fullname>Мексиканские Соединенные Штаты</Fullname>
+		<English>Mexico</English>
+		<Alpha2>MX</Alpha2>
+		<Alpha3>MEX</Alpha3>
+		<ISO>484</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Центральная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Микронезия, Федеративные Штаты</Name>
+		<Fullname>Федеративные штаты Микронезии</Fullname>
+		<English>Micronesia, Federated States of</English>
+		<Alpha2>FM</Alpha2>
+		<Alpha3>FSM</Alpha3>
+		<ISO>583</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Микронезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Мозамбик</Name>
+		<Fullname>Республика Мозамбик</Fullname>
+		<English>Mozambique</English>
+		<Alpha2>MZ</Alpha2>
+		<Alpha3>MOZ</Alpha3>
+		<ISO>508</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Молдова, Республика</Name>
+		<Fullname>Республика Молдова</Fullname>
+		<English>Moldova</English>
+		<Alpha2>MD</Alpha2>
+		<Alpha3>MDA</Alpha3>
+		<ISO>498</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Восточная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Монако</Name>
+		<Fullname>Княжество Монако</Fullname>
+		<English>Monaco</English>
+		<Alpha2>MC</Alpha2>
+		<Alpha3>MCO</Alpha3>
+		<ISO>492</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Западная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Монголия</Name>
+		<Fullname> </Fullname>
+		<English>Mongolia</English>
+		<Alpha2>MN</Alpha2>
+		<Alpha3>MNG</Alpha3>
+		<ISO>496</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Монтсеррат</Name>
+		<Fullname> </Fullname>
+		<English>Montserrat</English>
+		<Alpha2>MS</Alpha2>
+		<Alpha3>MSR</Alpha3>
+		<ISO>500</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Мьянма</Name>
+		<Fullname>Союз Мьянма</Fullname>
+		<English>Myanmar</English>
+		<Alpha2>MM</Alpha2>
+		<Alpha3>MMR</Alpha3>
+		<ISO>104</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Юго-Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Намибия</Name>
+		<Fullname>Республика Намибия</Fullname>
+		<English>Namibia</English>
+		<Alpha2>NA</Alpha2>
+		<Alpha3>NAM</Alpha3>
+		<ISO>516</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Южная часть Африки</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Науру</Name>
+		<Fullname>Республика Науру</Fullname>
+		<English>Nauru</English>
+		<Alpha2>NR</Alpha2>
+		<Alpha3>NRU</Alpha3>
+		<ISO>520</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Микронезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Непал</Name>
+		<Fullname>Федеративная Демократическая Республика Непал</Fullname>
+		<English>Nepal</English>
+		<Alpha2>NP</Alpha2>
+		<Alpha3>NPL</Alpha3>
+		<ISO>524</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Южная часть Центральной Азии</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Нигер</Name>
+		<Fullname>Республика Нигер</Fullname>
+		<English>Niger</English>
+		<Alpha2>NE</Alpha2>
+		<Alpha3>NER</Alpha3>
+		<ISO>562</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Нигерия</Name>
+		<Fullname>Федеративная Республика Нигерия</Fullname>
+		<English>Nigeria</English>
+		<Alpha2>NG</Alpha2>
+		<Alpha3>NGA</Alpha3>
+		<ISO>566</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Нидерланды</Name>
+		<Fullname>Королевство Нидерландов</Fullname>
+		<English>Netherlands</English>
+		<Alpha2>NL</Alpha2>
+		<Alpha3>NLD</Alpha3>
+		<ISO>528</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Западная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Никарагуа</Name>
+		<Fullname>Республика Никарагуа</Fullname>
+		<English>Nicaragua</English>
+		<Alpha2>NI</Alpha2>
+		<Alpha3>NIC</Alpha3>
+		<ISO>558</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Центральная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Ниуэ</Name>
+		<Fullname>Республика Ниуэ</Fullname>
+		<English>Niue</English>
+		<Alpha2>NU</Alpha2>
+		<Alpha3>NIU</Alpha3>
+		<ISO>570</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Полинезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Новая Зеландия</Name>
+		<Fullname> </Fullname>
+		<English>New Zealand</English>
+		<Alpha2>NZ</Alpha2>
+		<Alpha3>NZL</Alpha3>
+		<ISO>554</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Австралия и&#160;Новая Зеландия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Новая Каледония</Name>
+		<Fullname> </Fullname>
+		<English>New Caledonia</English>
+		<Alpha2>NC</Alpha2>
+		<Alpha3>NCL</Alpha3>
+		<ISO>540</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Меланезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Норвегия</Name>
+		<Fullname>Королевство Норвегия</Fullname>
+		<English>Norway</English>
+		<Alpha2>NO</Alpha2>
+		<Alpha3>NOR</Alpha3>
+		<ISO>578</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Объединенные Арабские Эмираты</Name>
+		<Fullname> </Fullname>
+		<English>United Arab Emirates</English>
+		<Alpha2>AE</Alpha2>
+		<Alpha3>ARE</Alpha3>
+		<ISO>784</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Оман</Name>
+		<Fullname>Султанат Оман</Fullname>
+		<English>Oman</English>
+		<Alpha2>OM</Alpha2>
+		<Alpha3>OMN</Alpha3>
+		<ISO>512</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Остров Буве</Name>
+		<Fullname> </Fullname>
+		<English>Bouvet Island</English>
+		<Alpha2>BV</Alpha2>
+		<Alpha3>BVT</Alpha3>
+		<ISO>074</ISO>
+		<Location> </Location>
+		<LocationPrecise>Южный океан</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Остров Мэн</Name>
+		<Fullname> </Fullname>
+		<English>Isle of Man</English>
+		<Alpha2>IM</Alpha2>
+		<Alpha3>IMN</Alpha3>
+		<ISO>833</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Остров Норфолк</Name>
+		<Fullname> </Fullname>
+		<English>Norfolk Island</English>
+		<Alpha2>NF</Alpha2>
+		<Alpha3>NFK</Alpha3>
+		<ISO>574</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Австралия и&#160;Новая Зеландия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Остров Рождества</Name>
+		<Fullname> </Fullname>
+		<English>Christmas Island</English>
+		<Alpha2>CX</Alpha2>
+		<Alpha3>CXR</Alpha3>
+		<ISO>162</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Индийский океан</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Остров Херд и&#160;острова Макдональд</Name>
+		<Fullname> </Fullname>
+		<English>Heard Island and McDonald Islands</English>
+		<Alpha2>HM</Alpha2>
+		<Alpha3>HMD</Alpha3>
+		<ISO>334</ISO>
+		<Location> </Location>
+		<LocationPrecise>Индийский океан</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Острова Кайман</Name>
+		<Fullname> </Fullname>
+		<English>Cayman Islands</English>
+		<Alpha2>KY</Alpha2>
+		<Alpha3>CYM</Alpha3>
+		<ISO>136</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Острова Кука</Name>
+		<Fullname> </Fullname>
+		<English>Cook Islands</English>
+		<Alpha2>CK</Alpha2>
+		<Alpha3>COK</Alpha3>
+		<ISO>184</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Полинезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Острова Теркс и&#160;Кайкос</Name>
+		<Fullname> </Fullname>
+		<English>Turks and Caicos Islands</English>
+		<Alpha2>TC</Alpha2>
+		<Alpha3>TCA</Alpha3>
+		<ISO>796</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Пакистан</Name>
+		<Fullname>Исламская Республика Пакистан</Fullname>
+		<English>Pakistan</English>
+		<Alpha2>PK</Alpha2>
+		<Alpha3>PAK</Alpha3>
+		<ISO>586</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Южная часть Центральной Азии</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Палау</Name>
+		<Fullname>Республика Палау</Fullname>
+		<English>Palau</English>
+		<Alpha2>PW</Alpha2>
+		<Alpha3>PLW</Alpha3>
+		<ISO>585</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Микронезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Палестинская территория, оккупированная</Name>
+		<Fullname>Оккупированная Палестинская территория</Fullname>
+		<English>Palestinian Territory, Occupied</English>
+		<Alpha2>PS</Alpha2>
+		<Alpha3>PSE</Alpha3>
+		<ISO>275</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Панама</Name>
+		<Fullname>Республика Панама</Fullname>
+		<English>Panama</English>
+		<Alpha2>PA</Alpha2>
+		<Alpha3>PAN</Alpha3>
+		<ISO>591</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Центральная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Папский Престол (Государство&#160;&#8212; город Ватикан)</Name>
+		<Fullname> </Fullname>
+		<English>Holy See (Vatican City State)</English>
+		<Alpha2>VA</Alpha2>
+		<Alpha3>VAT</Alpha3>
+		<ISO>336</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Папуа-Новая Гвинея</Name>
+		<Fullname> </Fullname>
+		<English>Papua New Guinea</English>
+		<Alpha2>PG</Alpha2>
+		<Alpha3>PNG</Alpha3>
+		<ISO>598</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Меланезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Парагвай</Name>
+		<Fullname>Республика Парагвай</Fullname>
+		<English>Paraguay</English>
+		<Alpha2>PY</Alpha2>
+		<Alpha3>PRY</Alpha3>
+		<ISO>600</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Южная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Перу</Name>
+		<Fullname>Республика Перу</Fullname>
+		<English>Peru</English>
+		<Alpha2>PE</Alpha2>
+		<Alpha3>PER</Alpha3>
+		<ISO>604</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Южная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Питкерн</Name>
+		<Fullname> </Fullname>
+		<English>Pitcairn</English>
+		<Alpha2>PN</Alpha2>
+		<Alpha3>PCN</Alpha3>
+		<ISO>612</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Полинезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Польша</Name>
+		<Fullname>Республика Польша</Fullname>
+		<English>Poland</English>
+		<Alpha2>PL</Alpha2>
+		<Alpha3>POL</Alpha3>
+		<ISO>616</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Восточная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Португалия</Name>
+		<Fullname>Португальская Республика</Fullname>
+		<English>Portugal</English>
+		<Alpha2>PT</Alpha2>
+		<Alpha3>PRT</Alpha3>
+		<ISO>620</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Пуэрто-Рико</Name>
+		<Fullname> </Fullname>
+		<English>Puerto Rico</English>
+		<Alpha2>PR</Alpha2>
+		<Alpha3>PRI</Alpha3>
+		<ISO>630</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Республика Македония</Name>
+		<Fullname> </Fullname>
+		<English>Macedonia, The Former Yugoslav Republic Of</English>
+		<Alpha2>MK</Alpha2>
+		<Alpha3>MKD</Alpha3>
+		<ISO>807</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Реюньон</Name>
+		<Fullname> </Fullname>
+		<English>Reunion</English>
+		<Alpha2>RE</Alpha2>
+		<Alpha3>REU</Alpha3>
+		<ISO>638</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Россия</Name>
+		<Fullname>Российская Федерация</Fullname>
+		<English>Russian Federation</English>
+		<Alpha2>RU</Alpha2>
+		<Alpha3>RUS</Alpha3>
+		<ISO>643</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Восточная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Руанда</Name>
+		<Fullname>Руандийская Республика</Fullname>
+		<English>Rwanda</English>
+		<Alpha2>RW</Alpha2>
+		<Alpha3>RWA</Alpha3>
+		<ISO>646</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Румыния</Name>
+		<Fullname> </Fullname>
+		<English>Romania</English>
+		<Alpha2>RO</Alpha2>
+		<Alpha3>ROU</Alpha3>
+		<ISO>642</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Восточная Европа</LocationPrecise>
+	</Country>
+
+
+
+	<Country>
+		<Name>Самоа</Name>
+		<Fullname>Независимое Государство Самоа</Fullname>
+		<English>Samoa</English>
+		<Alpha2>WS</Alpha2>
+		<Alpha3>WSM</Alpha3>
+		<ISO>882</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Полинезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Сан-Марино</Name>
+		<Fullname>Республика Сан-Марино</Fullname>
+		<English>San Marino</English>
+		<Alpha2>SM</Alpha2>
+		<Alpha3>SMR</Alpha3>
+		<ISO>674</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Сан-Томе и&#160;Принсипи</Name>
+		<Fullname>Демократическая Республика Сан-Томе и&#160;Принсипи</Fullname>
+		<English>Sao Tome and Principe</English>
+		<Alpha2>ST</Alpha2>
+		<Alpha3>STP</Alpha3>
+		<ISO>678</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Центральная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Саудовская Аравия</Name>
+		<Fullname>Королевство Саудовская Аравия</Fullname>
+		<English>Saudi Arabia</English>
+		<Alpha2>SA</Alpha2>
+		<Alpha3>SAU</Alpha3>
+		<ISO>682</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Свазиленд</Name>
+		<Fullname>Королевство Свазиленд</Fullname>
+		<English>Swaziland</English>
+		<Alpha2>SZ</Alpha2>
+		<Alpha3>SWZ</Alpha3>
+		<ISO>748</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Южная часть Африки</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Святая Елена, Остров вознесения, Тристан-да-Кунья</Name>
+		<Fullname> </Fullname>
+		<English>Saint Helena, Ascension And Tristan Da&#160;Cunha</English>
+		<Alpha2>SH</Alpha2>
+		<Alpha3>SHN</Alpha3>
+		<ISO>654</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Северные Марианские острова</Name>
+		<Fullname>Содружество Северных Марианских островов</Fullname>
+		<English>Northern Mariana Islands</English>
+		<Alpha2>MP</Alpha2>
+		<Alpha3>MNP</Alpha3>
+		<ISO>580</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Микронезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Сен-Бартельми</Name>
+		<Fullname> </Fullname>
+		<English>Saint Barthélemy</English>
+		<Alpha2>BL</Alpha2>
+		<Alpha3>BLM</Alpha3>
+		<ISO>652</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Сен-Мартен</Name>
+		<Fullname> </Fullname>
+		<English>Saint Martin (French Part)</English>
+		<Alpha2>MF</Alpha2>
+		<Alpha3>MAF</Alpha3>
+		<ISO>663</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Сенегал</Name>
+		<Fullname>Республика Сенегал</Fullname>
+		<English>Senegal</English>
+		<Alpha2>SN</Alpha2>
+		<Alpha3>SEN</Alpha3>
+		<ISO>686</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Сент-Винсент и&#160;Гренадины</Name>
+		<Fullname> </Fullname>
+		<English>Saint Vincent and the Grenadines</English>
+		<Alpha2>VC</Alpha2>
+		<Alpha3>VCT</Alpha3>
+		<ISO>670</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Сент-Люсия</Name>
+		<Fullname> </Fullname>
+		<English>Saint Lucia</English>
+		<Alpha2>LC</Alpha2>
+		<Alpha3>LCA</Alpha3>
+		<ISO>662</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Сент-Китс и&#160;Невис</Name>
+		<Fullname> </Fullname>
+		<English>Saint Kitts and Nevis</English>
+		<Alpha2>KN</Alpha2>
+		<Alpha3>KNA</Alpha3>
+		<ISO>659</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Сент-Пьер и&#160;Микелон</Name>
+		<Fullname> </Fullname>
+		<English>Saint Pierre and Miquelon</English>
+		<Alpha2>PM</Alpha2>
+		<Alpha3>SPM</Alpha3>
+		<ISO>666</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Северная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Сербия</Name>
+		<Fullname>Республика Сербия</Fullname>
+		<English>Serbia</English>
+		<Alpha2>RS</Alpha2>
+		<Alpha3>SRB</Alpha3>
+		<ISO>688</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Сейшелы</Name>
+		<Fullname>Республика Сейшелы</Fullname>
+		<English>Seychelles</English>
+		<Alpha2>SC</Alpha2>
+		<Alpha3>SYC</Alpha3>
+		<ISO>690</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Сингапур</Name>
+		<Fullname>Республика Сингапур</Fullname>
+		<English>Singapore</English>
+		<Alpha2>SG</Alpha2>
+		<Alpha3>SGP</Alpha3>
+		<ISO>702</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Юго-Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Синт-Мартен</Name>
+		<Fullname> </Fullname>
+		<English>Sint Maarten</English>
+		<Alpha2>SX</Alpha2>
+		<Alpha3>SXM</Alpha3>
+		<ISO>534</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Сирийская Арабская Республика</Name>
+		<Fullname> </Fullname>
+		<English>Syrian Arab Republic</English>
+		<Alpha2>SY</Alpha2>
+		<Alpha3>SYR</Alpha3>
+		<ISO>760</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Словакия</Name>
+		<Fullname>Словацкая Республика</Fullname>
+		<English>Slovakia</English>
+		<Alpha2>SK</Alpha2>
+		<Alpha3>SVK</Alpha3>
+		<ISO>703</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Восточная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Словения</Name>
+		<Fullname>Республика Словения</Fullname>
+		<English>Slovenia</English>
+		<Alpha2>SI</Alpha2>
+		<Alpha3>SVN</Alpha3>
+		<ISO>705</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Соединенное Королевство</Name>
+		<Fullname>Соединенное Королевство Великобритании и&#160;Северной Ирландии</Fullname>
+		<English>United Kingdom</English>
+		<Alpha2>GB</Alpha2>
+		<Alpha3>GBR</Alpha3>
+		<ISO>826</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Соединенные Штаты</Name>
+		<Fullname>Соединенные Штаты Америки</Fullname>
+		<English>United States</English>
+		<Alpha2>US</Alpha2>
+		<Alpha3>USA</Alpha3>
+		<ISO>840</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Северная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Соломоновы острова</Name>
+		<Fullname> </Fullname>
+		<English>Solomon Islands</English>
+		<Alpha2>SB</Alpha2>
+		<Alpha3>SLB</Alpha3>
+		<ISO>090</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Меланезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Сомали</Name>
+		<Fullname>Сомалийская Республика</Fullname>
+		<English>Somalia</English>
+		<Alpha2>SO</Alpha2>
+		<Alpha3>SOM</Alpha3>
+		<ISO>706</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Судан</Name>
+		<Fullname>Республика Судан</Fullname>
+		<English>Sudan</English>
+		<Alpha2>SD</Alpha2>
+		<Alpha3>SDN</Alpha3>
+		<ISO>736</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Северная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Суринам</Name>
+		<Fullname>Республика Суринам</Fullname>
+		<English>SuriName</English>
+		<Alpha2>SR</Alpha2>
+		<Alpha3>SUR</Alpha3>
+		<ISO>740</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Южная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Сьерра-Леоне</Name>
+		<Fullname>Республика Сьерра-Леоне</Fullname>
+		<English>Sierra Leone</English>
+		<Alpha2>SL</Alpha2>
+		<Alpha3>SLE</Alpha3>
+		<ISO>694</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+
+
+
+
+
+
+
+
+	<Country>
+		<Name>Таджикистан</Name>
+		<Fullname>Республика Таджикистан</Fullname>
+		<English>Tajikistan</English>
+		<Alpha2>TJ</Alpha2>
+		<Alpha3>TJK</Alpha3>
+		<ISO>762</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Южная часть Центральной Азии</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Таиланд</Name>
+		<Fullname>Королевство Таиланд</Fullname>
+		<English>Thailand</English>
+		<Alpha2>TH</Alpha2>
+		<Alpha3>THA</Alpha3>
+		<ISO>764</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Юго-Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Тайвань (Китай)</Name>
+		<Fullname> </Fullname>
+		<English>Taiwan, Province of&#160;China</English>
+		<Alpha2>TW</Alpha2>
+		<Alpha3>TWN</Alpha3>
+		<ISO>158</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Танзания, Объединенная Республика</Name>
+		<Fullname>Объединенная Республика Танзания</Fullname>
+		<English>Tanzania, United Republic&#160;Of</English>
+		<Alpha2>TZ</Alpha2>
+		<Alpha3>TZA</Alpha3>
+		<ISO>834</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Тимор-Лесте</Name>
+		<Fullname>Демократическая Республика Тимор-Лесте</Fullname>
+		<English>Timor-Leste</English>
+		<Alpha2>TL</Alpha2>
+		<Alpha3>TLS</Alpha3>
+		<ISO>626</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Юго-Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Того</Name>
+		<Fullname>Тоголезская Республика</Fullname>
+		<English>Togo</English>
+		<Alpha2>TG</Alpha2>
+		<Alpha3>TGO</Alpha3>
+		<ISO>768</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Западная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Токелау</Name>
+		<Fullname> </Fullname>
+		<English>Tokelau</English>
+		<Alpha2>TK</Alpha2>
+		<Alpha3>TKL</Alpha3>
+		<ISO>772</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Полинезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Тонга</Name>
+		<Fullname>Королевство Тонга</Fullname>
+		<English>Tonga</English>
+		<Alpha2>TO</Alpha2>
+		<Alpha3>TON</Alpha3>
+		<ISO>776</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Полинезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Тринидад и&#160;Тобаго</Name>
+		<Fullname>Республика Тринидад и&#160;Тобаго</Fullname>
+		<English>Trinidad and Tobago</English>
+		<Alpha2>TT</Alpha2>
+		<Alpha3>TTO</Alpha3>
+		<ISO>780</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Тувалу</Name>
+		<Fullname> </Fullname>
+		<English>Tuvalu</English>
+		<Alpha2>TV</Alpha2>
+		<Alpha3>TUV</Alpha3>
+		<ISO>798</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Полинезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Тунис</Name>
+		<Fullname>Тунисская Республика</Fullname>
+		<English>Tunisia</English>
+		<Alpha2>TN</Alpha2>
+		<Alpha3>TUN</Alpha3>
+		<ISO>788</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Северная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Туркмения</Name>
+		<Fullname>Туркменистан</Fullname>
+		<English>Turkmenistan</English>
+		<Alpha2>TM</Alpha2>
+		<Alpha3>TKM</Alpha3>
+		<ISO>795</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Южная часть Центральной Азии</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Турция</Name>
+		<Fullname>Турецкая Республика</Fullname>
+		<English>Turkey</English>
+		<Alpha2>TR</Alpha2>
+		<Alpha3>TUR</Alpha3>
+		<ISO>792</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Западная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Уганда</Name>
+		<Fullname>Республика Уганда</Fullname>
+		<English>Uganda</English>
+		<Alpha2>UG</Alpha2>
+		<Alpha3>UGA</Alpha3>
+		<ISO>800</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Узбекистан</Name>
+		<Fullname>Республика Узбекистан</Fullname>
+		<English>Uzbekistan</English>
+		<Alpha2>UZ</Alpha2>
+		<Alpha3>UZB</Alpha3>
+		<ISO>860</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Южная часть Центральной Азии</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Украина</Name>
+		<Fullname> </Fullname>
+		<English>Ukraine</English>
+		<Alpha2>UA</Alpha2>
+		<Alpha3>UKR</Alpha3>
+		<ISO>804</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Восточная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Уоллис и&#160;Футуна</Name>
+		<Fullname> </Fullname>
+		<English>Wallis and Futuna</English>
+		<Alpha2>WF</Alpha2>
+		<Alpha3>WLF</Alpha3>
+		<ISO>876</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Полинезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Уругвай</Name>
+		<Fullname>Восточная Республика Уругвай</Fullname>
+		<English>Uruguay</English>
+		<Alpha2>UY</Alpha2>
+		<Alpha3>URY</Alpha3>
+		<ISO>858</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Южная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Фарерские острова</Name>
+		<Fullname> </Fullname>
+		<English>Faroe Islands</English>
+		<Alpha2>FO</Alpha2>
+		<Alpha3>FRO</Alpha3>
+		<ISO>234</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Фиджи</Name>
+		<Fullname>Республика островов Фиджи</Fullname>
+		<English>Fiji</English>
+		<Alpha2>FJ</Alpha2>
+		<Alpha3>FJI</Alpha3>
+		<ISO>242</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Меланезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Филиппины</Name>
+		<Fullname>Республика Филиппины</Fullname>
+		<English>Philippines</English>
+		<Alpha2>PH</Alpha2>
+		<Alpha3>PHL</Alpha3>
+		<ISO>608</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Юго-Восточная Азия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Финляндия</Name>
+		<Fullname>Финляндская Республика</Fullname>
+		<English>Finland</English>
+		<Alpha2>FI</Alpha2>
+		<Alpha3>FIN</Alpha3>
+		<ISO>246</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Фолклендские острова (Мальвинские)</Name>
+		<Fullname> </Fullname>
+		<English>Falkland Islands (Malvinas)</English>
+		<Alpha2>FK</Alpha2>
+		<Alpha3>FLK</Alpha3>
+		<ISO>238</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Южная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Франция</Name>
+		<Fullname>Французская Республика</Fullname>
+		<English>France</English>
+		<Alpha2>FR</Alpha2>
+		<Alpha3>FRA</Alpha3>
+		<ISO>250</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Западная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Французская Гвиана</Name>
+		<Fullname> </Fullname>
+		<English>French Guiana</English>
+		<Alpha2>GF</Alpha2>
+		<Alpha3>GUF</Alpha3>
+		<ISO>254</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Южная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Французская Полинезия</Name>
+		<Fullname> </Fullname>
+		<English>French Polynesia</English>
+		<Alpha2>PF</Alpha2>
+		<Alpha3>PYF</Alpha3>
+		<ISO>258</ISO>
+		<Location>Океания</Location>
+		<LocationPrecise>Полинезия</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Французские Южные территории</Name>
+		<Fullname> </Fullname>
+		<English>French Southern Territories</English>
+		<Alpha2>TF</Alpha2>
+		<Alpha3>ATF</Alpha3>
+		<ISO>260</ISO>
+		<Location> </Location>
+		<LocationPrecise>Индийский океан</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Хорватия</Name>
+		<Fullname>Республика Хорватия</Fullname>
+		<English>Croatia</English>
+		<Alpha2>HR</Alpha2>
+		<Alpha3>HRV</Alpha3>
+		<ISO>191</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Центрально-Африканская Республика</Name>
+		<Fullname> </Fullname>
+		<English>Central African Republic</English>
+		<Alpha2>CF</Alpha2>
+		<Alpha3>CAF</Alpha3>
+		<ISO>140</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Центральная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Чад</Name>
+		<Fullname>Республика Чад</Fullname>
+		<English>Chad</English>
+		<Alpha2>TD</Alpha2>
+		<Alpha3>TCD</Alpha3>
+		<ISO>148</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Центральная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Черногория</Name>
+		<Fullname>Республика Черногория</Fullname>
+		<English>Montenegro</English>
+		<Alpha2>ME</Alpha2>
+		<Alpha3>MNE</Alpha3>
+		<ISO>499</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Южная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Чешская Республика</Name>
+		<Fullname> </Fullname>
+		<English>Czech Republic</English>
+		<Alpha2>CZ</Alpha2>
+		<Alpha3>CZE</Alpha3>
+		<ISO>203</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Восточная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Чили</Name>
+		<Fullname>Республика Чили</Fullname>
+		<English>Chile</English>
+		<Alpha2>CL</Alpha2>
+		<Alpha3>CHL</Alpha3>
+		<ISO>152</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Южная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Швейцария</Name>
+		<Fullname>Швейцарская Конфедерация</Fullname>
+		<English>Switzerland</English>
+		<Alpha2>CH</Alpha2>
+		<Alpha3>CHE</Alpha3>
+		<ISO>756</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Западная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Швеция</Name>
+		<Fullname>Королевство Швеция</Fullname>
+		<English>Sweden</English>
+		<Alpha2>SE</Alpha2>
+		<Alpha3>SWE</Alpha3>
+		<ISO>752</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Шпицберген и&#160;Ян&#160;Майен</Name>
+		<Fullname> </Fullname>
+		<English>Svalbard and Jan Mayen</English>
+		<Alpha2>SJ</Alpha2>
+		<Alpha3>SJM</Alpha3>
+		<ISO>744</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Шри-Ланка</Name>
+		<Fullname>Демократическая Социалистическая Республика Шри-Ланка</Fullname>
+		<English>Sri Lanka</English>
+		<Alpha2>LK</Alpha2>
+		<Alpha3>LKA</Alpha3>
+		<ISO>144</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Южная часть Центральной Азии</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Эквадор</Name>
+		<Fullname>Республика Эквадор</Fullname>
+		<English>Ecuador</English>
+		<Alpha2>EC</Alpha2>
+		<Alpha3>ECU</Alpha3>
+		<ISO>218</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Южная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Экваториальная Гвинея</Name>
+		<Fullname>Республика Экваториальная Гвинея</Fullname>
+		<English>Equatorial Guinea</English>
+		<Alpha2>GQ</Alpha2>
+		<Alpha3>GNQ</Alpha3>
+		<ISO>226</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Центральная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Эландские острова</Name>
+		<Fullname> </Fullname>
+		<English>Åland Islands</English>
+		<Alpha2>AX</Alpha2>
+		<Alpha3>ALA</Alpha3>
+		<ISO>248</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Эль-Сальвадор</Name>
+		<Fullname>Республика Эль-Сальвадор</Fullname>
+		<English>El Salvador</English>
+		<Alpha2>SV</Alpha2>
+		<Alpha3>SLV</Alpha3>
+		<ISO>222</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Центральная Америка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Эритрея</Name>
+		<Fullname> </Fullname>
+		<English>Eritrea</English>
+		<Alpha2>ER</Alpha2>
+		<Alpha3>ERI</Alpha3>
+		<ISO>232</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Эстония</Name>
+		<Fullname>Эстонская Республика</Fullname>
+		<English>Estonia</English>
+		<Alpha2>EE</Alpha2>
+		<Alpha3>EST</Alpha3>
+		<ISO>233</ISO>
+		<Location>Европа</Location>
+		<LocationPrecise>Северная Европа</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Эфиопия</Name>
+		<Fullname>Федеративная Демократическая Республика Эфиопия</Fullname>
+		<English>Ethiopia</English>
+		<Alpha2>ET</Alpha2>
+		<Alpha3>ETH</Alpha3>
+		<ISO>231</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Восточная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Южная Африка</Name>
+		<Fullname>Южно-Африканская Республика</Fullname>
+		<English>South Africa</English>
+		<Alpha2>ZA</Alpha2>
+		<Alpha3>ZAF</Alpha3>
+		<ISO>710</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Южная часть Африки</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Южная Джорджия и&#160;Южные Сандвичевы острова</Name>
+		<Fullname> </Fullname>
+		<English>South Georgia and the South Sandwich Islands</English>
+		<Alpha2>GS</Alpha2>
+		<Alpha3>SGS</Alpha3>
+		<ISO>239</ISO>
+		<Location> </Location>
+		<LocationPrecise>Южный океан</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Южная Осетия</Name>
+		<Fullname>Республика Южная Осетия</Fullname>
+		<English>South Ossetia</English>
+		<Alpha2>OS</Alpha2>
+		<Alpha3>OST</Alpha3>
+		<ISO>896</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Закавказье</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Южный Судан</Name>
+		<Fullname> </Fullname>
+		<English>South Sudan</English>
+		<Alpha2>SS</Alpha2>
+		<Alpha3>SSD</Alpha3>
+		<ISO>728</ISO>
+		<Location>Африка</Location>
+		<LocationPrecise>Северная Африка</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Ямайка</Name>
+		<Fullname> </Fullname>
+		<English>Jamaica</English>
+		<Alpha2>JM</Alpha2>
+		<Alpha3>JAM</Alpha3>
+		<ISO>388</ISO>
+		<Location>Америка</Location>
+		<LocationPrecise>Карибский бассейн</LocationPrecise>
+	</Country>
+
+	<Country>
+		<Name>Япония</Name>
+		<Fullname> </Fullname>
+		<English>Japan</English>
+		<Alpha2>JP</Alpha2>
+		<Alpha3>JPN</Alpha3>
+		<ISO>392</ISO>
+		<Location>Азия</Location>
+		<LocationPrecise>Восточная Азия</LocationPrecise>
+	</Country>
+
+</ArrayOfCountry>

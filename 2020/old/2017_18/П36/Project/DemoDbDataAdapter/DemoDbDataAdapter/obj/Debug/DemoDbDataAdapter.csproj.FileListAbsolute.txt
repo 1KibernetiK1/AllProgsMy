@@ -1,0 +1,10 @@
+D:\Visual Studio 2010\2018\п36\DemoDbDataAdapter\DemoDbDataAdapter\bin\Debug\DemoDbDataAdapter.exe.config
+D:\Visual Studio 2010\2018\п36\DemoDbDataAdapter\DemoDbDataAdapter\bin\Debug\DemoDbDataAdapter.exe
+D:\Visual Studio 2010\2018\п36\DemoDbDataAdapter\DemoDbDataAdapter\bin\Debug\DemoDbDataAdapter.pdb
+D:\Visual Studio 2010\2018\п36\DemoDbDataAdapter\DemoDbDataAdapter\obj\Debug\DemoDbDataAdapter.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\п36\DemoDbDataAdapter\DemoDbDataAdapter\obj\Debug\DemoDbDataAdapter.Form1.resources
+D:\Visual Studio 2010\2018\п36\DemoDbDataAdapter\DemoDbDataAdapter\obj\Debug\DemoDbDataAdapter.Properties.Resources.resources
+D:\Visual Studio 2010\2018\п36\DemoDbDataAdapter\DemoDbDataAdapter\obj\Debug\DemoDbDataAdapter.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\2018\п36\DemoDbDataAdapter\DemoDbDataAdapter\obj\Debug\DemoDbDataAdapter.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\п36\DemoDbDataAdapter\DemoDbDataAdapter\obj\Debug\DemoDbDataAdapter.exe
+D:\Visual Studio 2010\2018\п36\DemoDbDataAdapter\DemoDbDataAdapter\obj\Debug\DemoDbDataAdapter.pdb

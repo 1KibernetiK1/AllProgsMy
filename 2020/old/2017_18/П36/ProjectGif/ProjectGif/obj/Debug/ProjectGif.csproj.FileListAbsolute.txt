@@ -1,0 +1,11 @@
+D:\Visual Studio 2010\2018\П-36\ProjectGif\ProjectGif\bin\Debug\ProjectGif.exe.config
+D:\Visual Studio 2010\2018\П-36\ProjectGif\ProjectGif\bin\Debug\ProjectGif.exe
+D:\Visual Studio 2010\2018\П-36\ProjectGif\ProjectGif\bin\Debug\ProjectGif.pdb
+D:\Visual Studio 2010\2018\П-36\ProjectGif\ProjectGif\obj\Debug\ProjectGif.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\П-36\ProjectGif\ProjectGif\obj\Debug\ProjectGif.Form1.resources
+D:\Visual Studio 2010\2018\П-36\ProjectGif\ProjectGif\obj\Debug\ProjectGif.Properties.Resources.resources
+D:\Visual Studio 2010\2018\П-36\ProjectGif\ProjectGif\obj\Debug\ProjectGif.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\2018\П-36\ProjectGif\ProjectGif\obj\Debug\ProjectGif.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\П-36\ProjectGif\ProjectGif\obj\Debug\ProjectGif.exe
+D:\Visual Studio 2010\2018\П-36\ProjectGif\ProjectGif\obj\Debug\ProjectGif.pdb
+D:\Visual Studio 2010\2018\П-36\ProjectGif\ProjectGif\obj\Debug\ProjectGif.FormPreviewAnimation.resources

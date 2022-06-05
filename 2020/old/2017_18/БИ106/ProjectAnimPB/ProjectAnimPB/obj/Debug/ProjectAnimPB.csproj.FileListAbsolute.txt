@@ -1,0 +1,9 @@
+D:\Visual Studio 2010\Bi106\ProjectAnimPB\ProjectAnimPB\bin\Debug\ProjectAnimPB.exe.config
+D:\Visual Studio 2010\Bi106\ProjectAnimPB\ProjectAnimPB\bin\Debug\ProjectAnimPB.exe
+D:\Visual Studio 2010\Bi106\ProjectAnimPB\ProjectAnimPB\bin\Debug\ProjectAnimPB.pdb
+D:\Visual Studio 2010\Bi106\ProjectAnimPB\ProjectAnimPB\obj\Debug\ProjectAnimPB.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Bi106\ProjectAnimPB\ProjectAnimPB\obj\Debug\ProjectAnimPB.Form1.resources
+D:\Visual Studio 2010\Bi106\ProjectAnimPB\ProjectAnimPB\obj\Debug\ProjectAnimPB.Properties.Resources.resources
+D:\Visual Studio 2010\Bi106\ProjectAnimPB\ProjectAnimPB\obj\Debug\ProjectAnimPB.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Bi106\ProjectAnimPB\ProjectAnimPB\obj\Debug\ProjectAnimPB.exe
+D:\Visual Studio 2010\Bi106\ProjectAnimPB\ProjectAnimPB\obj\Debug\ProjectAnimPB.pdb

@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\2018\P27\ProjectGame2D\ProjectGame2D\bin\Debug\ProjectGame2D.exe.config
+D:\Visual Studio 2010\2018\P27\ProjectGame2D\ProjectGame2D\bin\Debug\ProjectGame2D.exe
+D:\Visual Studio 2010\2018\P27\ProjectGame2D\ProjectGame2D\bin\Debug\ProjectGame2D.pdb
+D:\Visual Studio 2010\2018\P27\ProjectGame2D\ProjectGame2D\obj\Debug\ProjectGame2D.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\P27\ProjectGame2D\ProjectGame2D\obj\Debug\ProjectGame2D.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\P27\ProjectGame2D\ProjectGame2D\obj\Debug\ProjectGame2D.exe
+D:\Visual Studio 2010\2018\P27\ProjectGame2D\ProjectGame2D\obj\Debug\ProjectGame2D.pdb

@@ -1,0 +1,10 @@
+D:\Visual Studio 2010\2018\ProjectWebParsing\ProjectWebParsing\bin\Debug\ProjectWebParsing.exe.config
+D:\Visual Studio 2010\2018\ProjectWebParsing\ProjectWebParsing\bin\Debug\ProjectWebParsing.exe
+D:\Visual Studio 2010\2018\ProjectWebParsing\ProjectWebParsing\bin\Debug\ProjectWebParsing.pdb
+D:\Visual Studio 2010\2018\ProjectWebParsing\ProjectWebParsing\obj\Debug\ProjectWebParsing.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\ProjectWebParsing\ProjectWebParsing\obj\Debug\ProjectWebParsing.Form1.resources
+D:\Visual Studio 2010\2018\ProjectWebParsing\ProjectWebParsing\obj\Debug\ProjectWebParsing.Properties.Resources.resources
+D:\Visual Studio 2010\2018\ProjectWebParsing\ProjectWebParsing\obj\Debug\ProjectWebParsing.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\2018\ProjectWebParsing\ProjectWebParsing\obj\Debug\ProjectWebParsing.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\ProjectWebParsing\ProjectWebParsing\obj\Debug\ProjectWebParsing.exe
+D:\Visual Studio 2010\2018\ProjectWebParsing\ProjectWebParsing\obj\Debug\ProjectWebParsing.pdb

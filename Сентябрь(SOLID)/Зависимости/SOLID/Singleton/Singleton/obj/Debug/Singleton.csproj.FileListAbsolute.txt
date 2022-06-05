@@ -1,0 +1,7 @@
+G:\SergPAv\Программирование\Сентябрь\Зависимости\Singleton\Singleton\bin\Debug\Singleton.exe.config
+G:\SergPAv\Программирование\Сентябрь\Зависимости\Singleton\Singleton\bin\Debug\Singleton.exe
+G:\SergPAv\Программирование\Сентябрь\Зависимости\Singleton\Singleton\bin\Debug\Singleton.pdb
+G:\SergPAv\Программирование\Сентябрь\Зависимости\Singleton\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+G:\SergPAv\Программирование\Сентябрь\Зависимости\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+G:\SergPAv\Программирование\Сентябрь\Зависимости\Singleton\Singleton\obj\Debug\Singleton.exe
+G:\SergPAv\Программирование\Сентябрь\Зависимости\Singleton\Singleton\obj\Debug\Singleton.pdb

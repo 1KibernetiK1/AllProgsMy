@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectMutex\ProjectMutex\bin\Debug\ProjectMutex.exe.config
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectMutex\ProjectMutex\bin\Debug\ProjectMutex.exe
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectMutex\ProjectMutex\bin\Debug\ProjectMutex.pdb
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectMutex\ProjectMutex\obj\Debug\ProjectMutex.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectMutex\ProjectMutex\obj\Debug\ProjectMutex.exe
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectMutex\ProjectMutex\obj\Debug\ProjectMutex.pdb

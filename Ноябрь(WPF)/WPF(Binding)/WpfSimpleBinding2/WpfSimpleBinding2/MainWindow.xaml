@@ -1,0 +1,28 @@
+﻿<Window x:Class="WpfSimpleBinding2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfSimpleBinding2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <DockPanel>
+        <Border DockPanel.Dock="Top" Height="100" VerticalAlignment="Top" HorizontalAlignment="Stretch" Background="Bisque" CornerRadius="50,0,50,0" BorderThickness="3" BorderBrush="Brown">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" FontWeight="Bold" Text="Осмотрщик шрифтов"></TextBlock>
+        </Border>
+        <ListBox Name="ListboxFonts" DockPanel.Dock="Left" FontSize="16" ItemsSource="{Binding Source={x:Static Member=Fonts.SystemFontFamilies}}" Background="Aquamarine">
+            
+        </ListBox>
+
+       
+        
+        <StackPanel DockPanel.Dock="Right" Orientation="Vertical">
+            <Slider Name="slider1" Margin="10,10,10,200"></Slider>
+            
+            <TextBlock Margin="10" FontSize="{Binding ElementName=slider1, Path=Value}" FontFamily="{Binding ElementName=ListboxFonts, Path=SelectedItem}" Text="Пример текста"/>
+            <TextBlock Margin="10" FontSize="{Binding ElementName=slider1, Path=Value}" FontFamily="{Binding ElementName=ListboxFonts, Path=SelectedItem}" Text="sample text"/>
+
+        </StackPanel>
+        
+    </DockPanel>
+</Window>

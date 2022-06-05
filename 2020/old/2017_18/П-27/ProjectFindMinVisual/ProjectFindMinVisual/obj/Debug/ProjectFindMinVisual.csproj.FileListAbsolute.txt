@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\2018\П-27\ProjectFindMinVisual\ProjectFindMinVisual\bin\Debug\ProjectFindMinVisual.exe.config
+D:\Visual Studio 2010\2018\П-27\ProjectFindMinVisual\ProjectFindMinVisual\bin\Debug\ProjectFindMinVisual.exe
+D:\Visual Studio 2010\2018\П-27\ProjectFindMinVisual\ProjectFindMinVisual\bin\Debug\ProjectFindMinVisual.pdb
+D:\Visual Studio 2010\2018\П-27\ProjectFindMinVisual\ProjectFindMinVisual\obj\Debug\ProjectFindMinVisual.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\П-27\ProjectFindMinVisual\ProjectFindMinVisual\obj\Debug\ProjectFindMinVisual.exe
+D:\Visual Studio 2010\2018\П-27\ProjectFindMinVisual\ProjectFindMinVisual\obj\Debug\ProjectFindMinVisual.pdb

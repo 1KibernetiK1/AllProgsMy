@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Visual Studio 2010/2018/БИ-106/ProjectParticleEngine/ProjectParticleEngine/Content/particle.bmp</File>
+  </SourceFiles>
+</SourceFileCollection>

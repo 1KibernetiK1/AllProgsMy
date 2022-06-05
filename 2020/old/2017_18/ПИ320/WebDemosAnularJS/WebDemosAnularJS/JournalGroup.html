@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html ng-app="mainApp">
+<head>
+    <meta charset="utf-8" />
+    <script src="Libs/angular.js"></script>
+    <link href="Libs/bootstrap-theme.css" rel="stylesheet" />
+    <link href="Libs/bootstrap.css" rel="stylesheet" />
+    <title>Журнал группы ПИ-320</title>
+
+    <script>
+        // Модель и котроллер
+        var model =
+        {
+            groupTitle: "ПИ-320",
+            students:
+            [
+                { name: "Липунова Эвелина", present: true },
+                { name: "Левченко Антон", present: true }
+            ]
+        };
+        //--------------------------------------------------
+        var mainApp = angular.module("mainApp", []);
+        mainApp.controller("journalCtrl", function ($scope) {
+            $scope.data = model;
+            $scope.addStudent = function () {
+                $scope.data.students.push(
+                    {
+                        name: $scope.text,
+                        present: true
+                    }
+                );
+            }
+        });
+        //------------------------
+     </script>
+
+</head>
+<body ng-controller="journalCtrl">
+    <div class="container">
+        <div class="page-header">
+            <h1>Журнал группы</h1>
+            <h1>{{data.groupTitle}}, ({{data.students.length}}) чел </h1>
+        </div>
+    </div>
+    <div class="panel" style="margin-left:250px;margin-right:250px;">
+        <div class="input-group">
+            <input class="form-control" 
+                   ng-model="text"
+                   />
+            <span class="input-group-btn">
+                <button 
+                        ng-click="addStudent()"
+                        class="btn btn-primary">
+                Добавить
+                </button>
+            </span>
+        </div>
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th> Ф.И.О. </th>
+                    <th> Присутствие </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="s in data.students">
+                    <td> {{s.name}} </td>
+                    <td> {{s.present}} </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

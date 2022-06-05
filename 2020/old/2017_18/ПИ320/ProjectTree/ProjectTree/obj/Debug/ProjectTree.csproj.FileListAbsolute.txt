@@ -1,0 +1,13 @@
+D:\Visual Studio 2010\2018\ПИ-320\ProjectTree\ProjectTree\bin\Debug\ProjectTree.exe.config
+D:\Visual Studio 2010\2018\ПИ-320\ProjectTree\ProjectTree\bin\Debug\ProjectTree.exe
+D:\Visual Studio 2010\2018\ПИ-320\ProjectTree\ProjectTree\bin\Debug\ProjectTree.pdb
+D:\Visual Studio 2010\2018\ПИ-320\ProjectTree\ProjectTree\obj\Debug\ProjectTree.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\ПИ-320\ProjectTree\ProjectTree\obj\Debug\ProjectTree.Form1.resources
+D:\Visual Studio 2010\2018\ПИ-320\ProjectTree\ProjectTree\obj\Debug\ProjectTree.GUI.FormDetails.resources
+D:\Visual Studio 2010\2018\ПИ-320\ProjectTree\ProjectTree\obj\Debug\ProjectTree.GUI.FormListStudents.resources
+D:\Visual Studio 2010\2018\ПИ-320\ProjectTree\ProjectTree\obj\Debug\ProjectTree.Properties.Resources.resources
+D:\Visual Studio 2010\2018\ПИ-320\ProjectTree\ProjectTree\obj\Debug\ProjectTree.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\2018\ПИ-320\ProjectTree\ProjectTree\obj\Debug\ProjectTree.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\ПИ-320\ProjectTree\ProjectTree\obj\Debug\ProjectTree.exe
+D:\Visual Studio 2010\2018\ПИ-320\ProjectTree\ProjectTree\obj\Debug\ProjectTree.pdb
+D:\Visual Studio 2010\2018\ПИ-320\ProjectTree\ProjectTree\obj\Debug\ProjectTree.GUI.FormViewRecordsOrder.resources

@@ -1,0 +1,13 @@
+D:\Visual Studio 2010\2018\П-18(1)\ProjectConsoleMenu\ProjectConsoleMenu\bin\Debug\ProjectConsoleMenu.exe.config
+D:\Visual Studio 2010\2018\П-18(1)\ProjectConsoleMenu\ProjectConsoleMenu\bin\Debug\ProjectConsoleMenu.exe
+D:\Visual Studio 2010\2018\П-18(1)\ProjectConsoleMenu\ProjectConsoleMenu\bin\Debug\ProjectConsoleMenu.pdb
+D:\Visual Studio 2010\2018\П-18(1)\ProjectConsoleMenu\ProjectConsoleMenu\obj\Debug\ProjectConsoleMenu.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\П-18(1)\ProjectConsoleMenu\ProjectConsoleMenu\obj\Debug\ProjectConsoleMenu.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\П-18(1)\ProjectConsoleMenu\ProjectConsoleMenu\obj\Debug\ProjectConsoleMenu.exe
+D:\Visual Studio 2010\2018\П-18(1)\ProjectConsoleMenu\ProjectConsoleMenu\obj\Debug\ProjectConsoleMenu.pdb
+D:\Visual Studio 2010\2018\ProjectConsoleMenu\ProjectConsoleMenu\bin\Debug\ProjectConsoleMenu.exe.config
+D:\Visual Studio 2010\2018\ProjectConsoleMenu\ProjectConsoleMenu\bin\Debug\ProjectConsoleMenu.exe
+D:\Visual Studio 2010\2018\ProjectConsoleMenu\ProjectConsoleMenu\bin\Debug\ProjectConsoleMenu.pdb
+D:\Visual Studio 2010\2018\ProjectConsoleMenu\ProjectConsoleMenu\obj\Debug\ProjectConsoleMenu.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\ProjectConsoleMenu\ProjectConsoleMenu\obj\Debug\ProjectConsoleMenu.exe
+D:\Visual Studio 2010\2018\ProjectConsoleMenu\ProjectConsoleMenu\obj\Debug\ProjectConsoleMenu.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadPool\ProjectThreadPool\bin\Debug\ProjectThreadPool.exe.config
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadPool\ProjectThreadPool\bin\Debug\ProjectThreadPool.exe
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadPool\ProjectThreadPool\bin\Debug\ProjectThreadPool.pdb
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadPool\ProjectThreadPool\obj\Debug\ProjectThreadPool.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadPool\ProjectThreadPool\obj\Debug\ProjectThreadPool.exe
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadPool\ProjectThreadPool\obj\Debug\ProjectThreadPool.pdb

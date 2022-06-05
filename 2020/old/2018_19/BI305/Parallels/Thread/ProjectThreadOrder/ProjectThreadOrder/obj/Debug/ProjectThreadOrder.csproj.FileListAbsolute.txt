@@ -1,0 +1,5 @@
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadOrder\ProjectThreadOrder\bin\Debug\ProjectThreadOrder.exe.config
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadOrder\ProjectThreadOrder\bin\Debug\ProjectThreadOrder.exe
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadOrder\ProjectThreadOrder\bin\Debug\ProjectThreadOrder.pdb
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadOrder\ProjectThreadOrder\obj\Debug\ProjectThreadOrder.exe
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadOrder\ProjectThreadOrder\obj\Debug\ProjectThreadOrder.pdb

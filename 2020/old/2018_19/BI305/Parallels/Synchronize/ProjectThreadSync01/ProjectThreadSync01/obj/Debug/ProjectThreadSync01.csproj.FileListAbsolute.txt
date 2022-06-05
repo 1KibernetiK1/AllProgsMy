@@ -1,0 +1,5 @@
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectThreadSync01\ProjectThreadSync01\bin\Debug\ProjectThreadSync01.exe.config
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectThreadSync01\ProjectThreadSync01\bin\Debug\ProjectThreadSync01.exe
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectThreadSync01\ProjectThreadSync01\bin\Debug\ProjectThreadSync01.pdb
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectThreadSync01\ProjectThreadSync01\obj\Debug\ProjectThreadSync01.exe
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectThreadSync01\ProjectThreadSync01\obj\Debug\ProjectThreadSync01.pdb

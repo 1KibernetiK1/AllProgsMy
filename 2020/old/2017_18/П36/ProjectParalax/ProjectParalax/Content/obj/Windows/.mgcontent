@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/ProjectParalax/ProjectParalax/Content/Layer1.png</File>
+    <File>E:/ProjectParalax/ProjectParalax/Content/Layer2.png</File>
+    <File>E:/ProjectParalax/ProjectParalax/Content/Layer3.png</File>
+    <File>E:/ProjectParalax/ProjectParalax/Content/Layer4.png</File>
+    <File>E:/ProjectParalax/ProjectParalax/Content/Layer5.png</File>
+    <File>E:/ProjectParalax/ProjectParalax/Content/Layer6.png</File>
+    <File>E:/ProjectParalax/ProjectParalax/Content/Layer7.png</File>
+    <File>E:/ProjectParalax/ProjectParalax/Content/Layer8.png</File>
+    <File>E:/ProjectParalax/ProjectParalax/Content/Layer9.png</File>
+  </SourceFiles>
+</SourceFileCollection>

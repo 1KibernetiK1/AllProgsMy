@@ -1,0 +1,77 @@
+﻿@using AspAjaxMaterialDesign.Models
+@model string
+
+@{
+    ViewBag.Title = "Запрос версия II";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{ 
+    // с помощью ajax будет обновляться
+    // только малая часть страницы
+    // блок с Идишником "tableBody"
+    var ajaxOptions = new AjaxOptions()
+    {
+        UpdateTargetId = "tableBody"
+    };
+}
+
+<h2>@ViewBag.Title</h2>
+
+
+<div class="row">
+    <div class="input-field col s12">
+        <input placeholder="Placeholder"
+               id="text" type="text"
+               class="validate">
+        <label for="first_name">
+            Просто ввод данных
+        </label>
+    </div>
+</div>
+
+<table class="highlight">
+    <thead>
+        <tr>
+            <th>Фамилия</th>
+            <th>Имя</th>
+            <th>Группа</th>
+        </tr>
+    </thead>
+    <tbody id="tableBody">
+        @Html.Action("GetStudents", 
+       new { selectedGroup = Model })
+    </tbody>
+</table>
+
+@using (Ajax.BeginForm("GetStudents", ajaxOptions))
+{
+<div class="row">
+
+    <div class="col s12 m6">
+        <div class="input-field col s12">
+            @Html.DropDownList(
+            "selectedGroup", // параметр для метода
+            new SelectList(
+                new[] { "All" }
+                 .Concat(Enum.GetNames(typeof(AcGroup)))
+                ))
+        </div>
+    </div>
+
+    <div class="col s12 m6">
+        <input class="btn waves-effect waves-light"
+               type="submit" value="Обновить"/>
+    </div>
+</div>
+}
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            $('select').formSelect();         
+        });
+    </script>
+}
+

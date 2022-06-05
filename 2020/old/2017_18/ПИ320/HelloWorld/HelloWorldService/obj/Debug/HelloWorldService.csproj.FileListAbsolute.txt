@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\ПИ-320\WCF\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.dll
+D:\Visual Studio 2010\ПИ-320\WCF\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.pdb
+D:\Visual Studio 2010\ПИ-320\WCF\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\ПИ-320\WCF\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\ПИ-320\WCF\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.dll
+D:\Visual Studio 2010\ПИ-320\WCF\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.pdb

@@ -1,0 +1,7 @@
+D:\visual studio 2010\Никулин ПИ-225\Quantifications\Quantifications\bin\Debug\Quantifications.exe.config
+D:\visual studio 2010\Никулин ПИ-225\Quantifications\Quantifications\bin\Debug\Quantifications.exe
+D:\visual studio 2010\Никулин ПИ-225\Quantifications\Quantifications\bin\Debug\Quantifications.pdb
+D:\visual studio 2010\Никулин ПИ-225\Quantifications\Quantifications\obj\Debug\Quantifications.csprojAssemblyReference.cache
+D:\visual studio 2010\Никулин ПИ-225\Quantifications\Quantifications\obj\Debug\Quantifications.csproj.CoreCompileInputs.cache
+D:\visual studio 2010\Никулин ПИ-225\Quantifications\Quantifications\obj\Debug\Quantifications.exe
+D:\visual studio 2010\Никулин ПИ-225\Quantifications\Quantifications\obj\Debug\Quantifications.pdb

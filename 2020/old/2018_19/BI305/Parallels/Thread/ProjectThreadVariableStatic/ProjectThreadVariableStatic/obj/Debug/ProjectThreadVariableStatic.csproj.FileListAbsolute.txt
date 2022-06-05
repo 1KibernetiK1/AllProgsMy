@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadVariableStatic\ProjectThreadVariableStatic\bin\Debug\ProjectThreadVariableStatic.exe.config
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadVariableStatic\ProjectThreadVariableStatic\bin\Debug\ProjectThreadVariableStatic.exe
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadVariableStatic\ProjectThreadVariableStatic\bin\Debug\ProjectThreadVariableStatic.pdb
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadVariableStatic\ProjectThreadVariableStatic\obj\Debug\ProjectThreadVariableStatic.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadVariableStatic\ProjectThreadVariableStatic\obj\Debug\ProjectThreadVariableStatic.exe
+D:\Visual Studio 2010\2019\Parallels\ProjectThreadVariableStatic\ProjectThreadVariableStatic\obj\Debug\ProjectThreadVariableStatic.pdb

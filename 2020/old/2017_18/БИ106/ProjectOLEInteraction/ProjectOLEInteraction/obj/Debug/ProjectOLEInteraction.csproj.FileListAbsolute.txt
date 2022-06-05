@@ -1,0 +1,10 @@
+D:\Visual Studio 2010\Bi106\ProjectOLEInteraction\ProjectOLEInteraction\bin\Debug\ProjectOLEInteraction.exe.config
+D:\Visual Studio 2010\Bi106\ProjectOLEInteraction\ProjectOLEInteraction\bin\Debug\ProjectOLEInteraction.exe
+D:\Visual Studio 2010\Bi106\ProjectOLEInteraction\ProjectOLEInteraction\bin\Debug\ProjectOLEInteraction.pdb
+D:\Visual Studio 2010\Bi106\ProjectOLEInteraction\ProjectOLEInteraction\obj\Debug\ProjectOLEInteraction.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Bi106\ProjectOLEInteraction\ProjectOLEInteraction\obj\Debug\ProjectOLEInteraction.csproj.ResolveComReference.cache
+D:\Visual Studio 2010\Bi106\ProjectOLEInteraction\ProjectOLEInteraction\obj\Debug\ProjectOLEInteraction.Form1.resources
+D:\Visual Studio 2010\Bi106\ProjectOLEInteraction\ProjectOLEInteraction\obj\Debug\ProjectOLEInteraction.Properties.Resources.resources
+D:\Visual Studio 2010\Bi106\ProjectOLEInteraction\ProjectOLEInteraction\obj\Debug\ProjectOLEInteraction.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Bi106\ProjectOLEInteraction\ProjectOLEInteraction\obj\Debug\ProjectOLEInteraction.exe
+D:\Visual Studio 2010\Bi106\ProjectOLEInteraction\ProjectOLEInteraction\obj\Debug\ProjectOLEInteraction.pdb

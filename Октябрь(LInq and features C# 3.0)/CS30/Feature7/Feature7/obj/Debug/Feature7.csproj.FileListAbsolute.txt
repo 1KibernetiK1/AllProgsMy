@@ -1,0 +1,7 @@
+E:\SergPAv\Программирование\Октябрь\CS30\Feature7\Feature7\bin\Debug\Feature7.exe.config
+E:\SergPAv\Программирование\Октябрь\CS30\Feature7\Feature7\bin\Debug\Feature7.exe
+E:\SergPAv\Программирование\Октябрь\CS30\Feature7\Feature7\bin\Debug\Feature7.pdb
+E:\SergPAv\Программирование\Октябрь\CS30\Feature7\Feature7\obj\Debug\Feature7.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Октябрь\CS30\Feature7\Feature7\obj\Debug\Feature7.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Октябрь\CS30\Feature7\Feature7\obj\Debug\Feature7.exe
+E:\SergPAv\Программирование\Октябрь\CS30\Feature7\Feature7\obj\Debug\Feature7.pdb

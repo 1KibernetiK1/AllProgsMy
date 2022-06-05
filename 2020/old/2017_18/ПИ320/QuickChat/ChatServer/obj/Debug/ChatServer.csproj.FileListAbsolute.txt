@@ -1,0 +1,10 @@
+D:\Visual Studio 2010\2018\PI320\QuickChat\ChatServer\bin\Debug\ChatServer.exe.config
+D:\Visual Studio 2010\2018\PI320\QuickChat\ChatServer\bin\Debug\ChatServer.exe
+D:\Visual Studio 2010\2018\PI320\QuickChat\ChatServer\bin\Debug\ChatServer.pdb
+D:\Visual Studio 2010\2018\PI320\QuickChat\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\PI320\QuickChat\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\Visual Studio 2010\2018\PI320\QuickChat\ChatServer\obj\Debug\ChatServer.ServerForm.resources
+D:\Visual Studio 2010\2018\PI320\QuickChat\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\2018\PI320\QuickChat\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\PI320\QuickChat\ChatServer\obj\Debug\ChatServer.exe
+D:\Visual Studio 2010\2018\PI320\QuickChat\ChatServer\obj\Debug\ChatServer.pdb

@@ -1,0 +1,278 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4FD3F578-44E5-48D4-9C5E-0536E3EFC934}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebShopHardware</RootNamespace>
+    <AssemblyName>WebShopHardware</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Web.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.4\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.4\lib\net45\System.Web.Webpages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Deployment">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.4\lib\net45\System.Web.Webpages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.4\lib\net45\System.Web.Webpages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Helpers">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.4\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.4\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\ProductsDb.mdf" />
+    <Content Include="App_Data\ProductsDb_log.ldf" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Images\HDD\10 ТБ Жесткий диск Seagate 7200 BarraCuda Pro [ST10000DM0004].jpg" />
+    <Content Include="Content\Images\HDD\10 ТБ Жесткий диск Seagate IronWolf Pro [ST10000NE0004].jpg" />
+    <Content Include="Content\Images\HDD\10 ТБ Жесткий диск Seagate SkyHawk AI [ST10000VE0004].jpg" />
+    <Content Include="Content\Images\HDD\10 ТБ Жесткий диск WD Gold [WD101KRYZ].jpg" />
+    <Content Include="Content\Images\HDD\10 ТБ Жесткий диск WD Purple [WD100PURZ].jpg" />
+    <Content Include="Content\Images\HDD\10 ТБ Жесткий диск WD Red Pro [WD101KFBX].jpg" />
+    <Content Include="Content\Images\HDD\12 ТБ Жесткий диск Hitachi Ultrastar He12 [HUH721212AL5204].jpg" />
+    <Content Include="Content\Images\HDD\12 ТБ Жесткий диск Seagate Exos X12 [ST12000NM0007].jpg" />
+    <Content Include="Content\Images\HDD\12 ТБ Жесткий диск Seagate IronWolf [ST12000VN0007].jpg" />
+    <Content Include="Content\Images\HDD\8 ТБ Жесткий диск WD Red Pro [WD8001FFWX].jpg" />
+    <Content Include="Content\Images\Monitors\27 Монитор Dell UltraSharp UP2718Q [2718-6646].jpg" />
+    <Content Include="Content\Images\Monitors\29.8 Монитор Nec PA302W [60003488].jpg" />
+    <Content Include="Content\Images\Monitors\30 Монитор Dell UP3017 [3017-4879].jpg" />
+    <Content Include="Content\Images\Monitors\31.5 Монитор BenQ SW320.jpg" />
+    <Content Include="Content\Images\Monitors\31.5 Монитор Dell UltraSharp UP3216Q [216Q-1866].jpg" />
+    <Content Include="Content\Images\Monitors\32 Монитор ASUS ProArt PA328Q [90LM00X0-B01370].jpg" />
+    <Content Include="Content\Images\Monitors\32 Монитор NEC MultiSync PA322UHD2-SV2 [60004138].jpg" />
+    <Content Include="Content\Images\Monitors\32 Монитор NEC SpectraView Reference 322UHD-2 [60004137].jpg" />
+    <Content Include="Content\Images\Monitors\34 Монитор Acer XR342CKBMIJPHUZX [XR342CKBMIJPHUZX].jpg" />
+    <Content Include="Content\Images\Monitors\37.5 Монитор Dell UltraSharp U3818DW [3818-6837].jpg" />
+    <Content Include="Content\Images\Motherboards\ASUS MAXIMUS VIII EXTREME.jpg" />
+    <Content Include="Content\Images\Motherboards\ASUS MAXIMUS VIII EXTREMEASSEMBLY.jpg" />
+    <Content Include="Content\Images\Motherboards\ASUS ROG MAXIMUS IX CODE.jpg" />
+    <Content Include="Content\Images\Motherboards\ASUS ROG RAMPAGE VI EXTREME.jpg" />
+    <Content Include="Content\Images\Motherboards\ASUS X99-E-10G WS.jpg" />
+    <Content Include="Content\Images\Motherboards\ASUS Z270-WS.jpg" />
+    <Content Include="Content\Images\Motherboards\GIGABYTE AORUS GA-Z270X-Gaming 9.jpg" />
+    <Content Include="Content\Images\Motherboards\GIGABYTE GA-Z170X-Gaming G1.jpg" />
+    <Content Include="Content\Images\Motherboards\GIGABYTE GA-Z170X-Gaming GT.jpg" />
+    <Content Include="Content\Images\Motherboards\Материнская плата ASUS ROG CROSSHAIR VI EXTREME.jpg" />
+    <Content Include="Content\Images\Processors\AMD Ryzen Threadripper .jpg" />
+    <Content Include="Content\Images\Processors\AMD Ryzen Threadripper 1900X BOX.jpg" />
+    <Content Include="Content\Images\Processors\Intel Core i5-8600K BOX.jpg" />
+    <Content Include="Content\Images\Processors\Intel Core i5-8600K OEM.jpg" />
+    <Content Include="Content\Images\Processors\Intel Core i7-7800X OEM.jpg" />
+    <Content Include="Content\Images\Processors\Intel Core i7-7820X BOX.jpg" />
+    <Content Include="Content\Images\Processors\Intel Core i7-8086K BOX.jpg" />
+    <Content Include="Content\Images\Processors\Intel Core i7-8700K BOX.jpg" />
+    <Content Include="Content\Images\Processors\Intel Core i7-8700K OEM.jpg" />
+    <Content Include="Content\Images\Processors\Xeon E3-1270 v5 OEM.jpg" />
+    <Content Include="Content\Images\Videocards\EVGA GeForce GTX 1080 Ti FTW3 GAMING.jpg" />
+    <Content Include="Content\Images\Videocards\Gigabyte GeForce GTX 1080 Ti AORUS XTREME WB.jpg" />
+    <Content Include="Content\Images\Videocards\Gigabyte GeForce GTX 1080 Ti TURBO.jpg" />
+    <Content Include="Content\Images\Videocards\KFA2 GeForce GTX 1080 Ti EX OC .jpg" />
+    <Content Include="Content\Images\Videocards\Matrox C900.jpg" />
+    <Content Include="Content\Images\Videocards\MSI AMD Radeon RX VEGA 64 WAVE.jpg" />
+    <Content Include="Content\Images\Videocards\MSI GeForce GTX 1080 Ti GAMING X.jpg" />
+    <Content Include="Content\Images\Videocards\PNY NVS 810.jpg" />
+    <Content Include="Content\Images\Videocards\PNY Quadro P4000.jpg" />
+    <Content Include="Content\Images\Videocards\Zotac GeForce GTX 1080 Ti Mini.jpg" />
+    <Content Include="Content\Site.css" />
+    <Content Include="Domains\ModelHardware.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>ModelHardware.Context.cs</LastGenOutput>
+      <DependentUpon>ModelHardware.edmx</DependentUpon>
+    </Content>
+    <Content Include="Domains\ModelHardware.edmx.sql" />
+    <Content Include="Domains\ModelHardware.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>ModelHardware.cs</LastGenOutput>
+      <DependentUpon>ModelHardware.edmx</DependentUpon>
+    </Content>
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\MainController.cs" />
+    <Compile Include="Domains\Category.cs">
+      <DependentUpon>ModelHardware.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Domains\ModelHardware.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelHardware.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Domains\ModelHardware.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelHardware.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Domains\ModelHardware.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelHardware.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Domains\Product.cs">
+      <DependentUpon>ModelHardware.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\Paginator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\web.config" />
+    <EntityDeploy Include="Domains\ModelHardware.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ModelHardware.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Domains\ModelHardware.edmx.diagram">
+      <DependentUpon>ModelHardware.edmx</DependentUpon>
+    </Content>
+    <None Include="packages.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Main\Products.cshtml" />
+    <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51693</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:51693/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Данный проект ссылается на пакеты NuGet, отсутствующие на этом компьютере. Используйте восстановление пакетов NuGet, чтобы скачать их.  Дополнительную информацию см. по адресу: http://go.microsoft.com/fwlink/?LinkID=322105. Отсутствует следующий файл: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+
+<!-- Привязываем точку входа
+    angularJS к HTML -->
+<html ng-app="mainApp">
+<head>
+
+    <script src="../../Libs/angular.js"></script>
+    <link href="../../Libs/bootstrap-theme.css" rel="stylesheet" />
+    <link href="../../Libs/bootstrap.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    
+    <script src="app.js"></script>
+
+    <title>Demo Ng-include</title>
+
+</head>
+
+<!-- Привязка html и контроллера -->
+<body ng-controller="mainCtrl">
+    <p>
+        директива 
+    <strong> ng-include</strong>
+    скачивать файлы из
+    того же домена (index)
+    с помощью авто ajax.
+    2 зайца:
+    1) страница простая и структурирования
+    2) более быстрая загрузка для юзера
+</p><br>
+    <p>I. Html-элемент</p>
+    <ng-include src="url"></ng-include>
+    <br>
+    <p>II. Html-Атрибут</p>
+    <span ng-include="url"></span>
+    <br>
+    <p>III. CSS-класс</p>
+    <div class="ng-include: url;"> </div>
+
+</body>
+</html>

@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+
+<!-- Привязываем точку входа
+    angularJS к HTML -->
+<html ng-app="mainApp">
+<head>
+    <script src="Libs/angular.js"></script>
+    <meta charset="utf-8" />
+    <title>AngularJS Demo01</title>
+
+    <script>
+
+        // AngularJS => MVC
+
+        // 1) создадим модель данных
+        var model = "Hello world!";
+
+        // 2) создание точки входа - Main
+        // наличие параметров - указание что модуль создаётся
+        //  а не загружается
+        var mainApp = angular.module("mainApp", []);
+
+        // 3) Создание контроллера
+        mainApp.controller("mainCtrl", function ($scope) {
+            // специальная переменная для в/д
+            // м/у контроллером и вьюхой и моделью
+            $scope.data = model;
+            $scope.btnClick = function () {
+                $scope.data = "Привет, " + $scope.text;
+            }
+        });
+
+
+    </script>
+
+</head>
+
+<!-- Привязка html и контроллера -->
+<body ng-controller="mainCtrl">
+    <h2>AngularJS Demo01</h2>
+    <h4>{{data}}</h4>
+    <input ng-model="text" 
+           placeholder="Введите ваше имя"/>
+    <button ng-click="btnClick()"> Ок </button>
+</body>
+</html>

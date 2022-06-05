@@ -1,0 +1,10 @@
+D:\Visual Studio 2010\2018\П-36\WindowsFormsDataSet\WindowsFormsDataSet\bin\Debug\WindowsFormsDataSet.exe.config
+D:\Visual Studio 2010\2018\П-36\WindowsFormsDataSet\WindowsFormsDataSet\bin\Debug\WindowsFormsDataSet.exe
+D:\Visual Studio 2010\2018\П-36\WindowsFormsDataSet\WindowsFormsDataSet\bin\Debug\WindowsFormsDataSet.pdb
+D:\Visual Studio 2010\2018\П-36\WindowsFormsDataSet\WindowsFormsDataSet\obj\Debug\WindowsFormsDataSet.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\П-36\WindowsFormsDataSet\WindowsFormsDataSet\obj\Debug\WindowsFormsDataSet.Form1.resources
+D:\Visual Studio 2010\2018\П-36\WindowsFormsDataSet\WindowsFormsDataSet\obj\Debug\WindowsFormsDataSet.Properties.Resources.resources
+D:\Visual Studio 2010\2018\П-36\WindowsFormsDataSet\WindowsFormsDataSet\obj\Debug\WindowsFormsDataSet.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\2018\П-36\WindowsFormsDataSet\WindowsFormsDataSet\obj\Debug\WindowsFormsDataSet.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\П-36\WindowsFormsDataSet\WindowsFormsDataSet\obj\Debug\WindowsFormsDataSet.exe
+D:\Visual Studio 2010\2018\П-36\WindowsFormsDataSet\WindowsFormsDataSet\obj\Debug\WindowsFormsDataSet.pdb

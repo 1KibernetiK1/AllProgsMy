@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\P36\ProjectWaveAlg\ProjectWaveAlg\bin\Debug\ProjectWaveAlg.exe.config
+D:\Visual Studio 2010\P36\ProjectWaveAlg\ProjectWaveAlg\bin\Debug\ProjectWaveAlg.exe
+D:\Visual Studio 2010\P36\ProjectWaveAlg\ProjectWaveAlg\bin\Debug\ProjectWaveAlg.pdb
+D:\Visual Studio 2010\P36\ProjectWaveAlg\ProjectWaveAlg\obj\Debug\ProjectWaveAlg.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\P36\ProjectWaveAlg\ProjectWaveAlg\obj\Debug\ProjectWaveAlg.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\P36\ProjectWaveAlg\ProjectWaveAlg\obj\Debug\ProjectWaveAlg.exe
+D:\Visual Studio 2010\P36\ProjectWaveAlg\ProjectWaveAlg\obj\Debug\ProjectWaveAlg.pdb

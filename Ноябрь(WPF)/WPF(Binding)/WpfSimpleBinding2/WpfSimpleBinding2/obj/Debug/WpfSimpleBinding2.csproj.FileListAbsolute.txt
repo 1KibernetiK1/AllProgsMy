@@ -1,0 +1,15 @@
+E:\SergPAv\Программирование\Ноябрь(WPF)\WPF(Binding)\WpfSimpleBinding2\WpfSimpleBinding2\bin\Debug\WpfSimpleBinding2.exe.config
+E:\SergPAv\Программирование\Ноябрь(WPF)\WPF(Binding)\WpfSimpleBinding2\WpfSimpleBinding2\bin\Debug\WpfSimpleBinding2.exe
+E:\SergPAv\Программирование\Ноябрь(WPF)\WPF(Binding)\WpfSimpleBinding2\WpfSimpleBinding2\bin\Debug\WpfSimpleBinding2.pdb
+E:\SergPAv\Программирование\Ноябрь(WPF)\WPF(Binding)\WpfSimpleBinding2\WpfSimpleBinding2\obj\Debug\WpfSimpleBinding2.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Ноябрь(WPF)\WPF(Binding)\WpfSimpleBinding2\WpfSimpleBinding2\obj\Debug\MainWindow.g.cs
+E:\SergPAv\Программирование\Ноябрь(WPF)\WPF(Binding)\WpfSimpleBinding2\WpfSimpleBinding2\obj\Debug\App.g.cs
+E:\SergPAv\Программирование\Ноябрь(WPF)\WPF(Binding)\WpfSimpleBinding2\WpfSimpleBinding2\obj\Debug\WpfSimpleBinding2_MarkupCompile.cache
+E:\SergPAv\Программирование\Ноябрь(WPF)\WPF(Binding)\WpfSimpleBinding2\WpfSimpleBinding2\obj\Debug\WpfSimpleBinding2_MarkupCompile.lref
+E:\SergPAv\Программирование\Ноябрь(WPF)\WPF(Binding)\WpfSimpleBinding2\WpfSimpleBinding2\obj\Debug\MainWindow.baml
+E:\SergPAv\Программирование\Ноябрь(WPF)\WPF(Binding)\WpfSimpleBinding2\WpfSimpleBinding2\obj\Debug\WpfSimpleBinding2.g.resources
+E:\SergPAv\Программирование\Ноябрь(WPF)\WPF(Binding)\WpfSimpleBinding2\WpfSimpleBinding2\obj\Debug\WpfSimpleBinding2.Properties.Resources.resources
+E:\SergPAv\Программирование\Ноябрь(WPF)\WPF(Binding)\WpfSimpleBinding2\WpfSimpleBinding2\obj\Debug\WpfSimpleBinding2.csproj.GenerateResource.cache
+E:\SergPAv\Программирование\Ноябрь(WPF)\WPF(Binding)\WpfSimpleBinding2\WpfSimpleBinding2\obj\Debug\WpfSimpleBinding2.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Ноябрь(WPF)\WPF(Binding)\WpfSimpleBinding2\WpfSimpleBinding2\obj\Debug\WpfSimpleBinding2.exe
+E:\SergPAv\Программирование\Ноябрь(WPF)\WPF(Binding)\WpfSimpleBinding2\WpfSimpleBinding2\obj\Debug\WpfSimpleBinding2.pdb

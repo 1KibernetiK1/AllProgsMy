@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\2018\П-27(1)\Ferz8\Ferz8\bin\Debug\Ferz8.exe.config
+D:\Visual Studio 2010\2018\П-27(1)\Ferz8\Ferz8\bin\Debug\Ferz8.exe
+D:\Visual Studio 2010\2018\П-27(1)\Ferz8\Ferz8\bin\Debug\Ferz8.pdb
+D:\Visual Studio 2010\2018\П-27(1)\Ferz8\Ferz8\obj\Debug\Ferz8.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\2018\П-27(1)\Ferz8\Ferz8\obj\Debug\Ferz8.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\2018\П-27(1)\Ferz8\Ferz8\obj\Debug\Ferz8.exe
+D:\Visual Studio 2010\2018\П-27(1)\Ferz8\Ferz8\obj\Debug\Ferz8.pdb

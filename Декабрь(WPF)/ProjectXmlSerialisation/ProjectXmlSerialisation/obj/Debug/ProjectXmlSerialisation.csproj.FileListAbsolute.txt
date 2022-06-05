@@ -1,0 +1,7 @@
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectXmlSerialisation\ProjectXmlSerialisation\bin\Debug\ProjectXmlSerialisation.exe.config
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectXmlSerialisation\ProjectXmlSerialisation\bin\Debug\ProjectXmlSerialisation.exe
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectXmlSerialisation\ProjectXmlSerialisation\bin\Debug\ProjectXmlSerialisation.pdb
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectXmlSerialisation\ProjectXmlSerialisation\obj\Debug\ProjectXmlSerialisation.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectXmlSerialisation\ProjectXmlSerialisation\obj\Debug\ProjectXmlSerialisation.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectXmlSerialisation\ProjectXmlSerialisation\obj\Debug\ProjectXmlSerialisation.exe
+E:\SergPAv\Программирование\Декабрь(WPF)\ProjectXmlSerialisation\ProjectXmlSerialisation\obj\Debug\ProjectXmlSerialisation.pdb

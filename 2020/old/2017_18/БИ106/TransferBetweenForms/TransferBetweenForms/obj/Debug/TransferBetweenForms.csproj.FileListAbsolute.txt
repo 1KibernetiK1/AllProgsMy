@@ -1,0 +1,9 @@
+D:\Visual Studio 2010\Bi106\TransferBetweenForms\TransferBetweenForms\bin\Debug\TransferBetweenForms.exe.config
+D:\Visual Studio 2010\Bi106\TransferBetweenForms\TransferBetweenForms\bin\Debug\TransferBetweenForms.exe
+D:\Visual Studio 2010\Bi106\TransferBetweenForms\TransferBetweenForms\bin\Debug\TransferBetweenForms.pdb
+D:\Visual Studio 2010\Bi106\TransferBetweenForms\TransferBetweenForms\obj\Debug\TransferBetweenForms.Form1.resources
+D:\Visual Studio 2010\Bi106\TransferBetweenForms\TransferBetweenForms\obj\Debug\TransferBetweenForms.FormEditText.resources
+D:\Visual Studio 2010\Bi106\TransferBetweenForms\TransferBetweenForms\obj\Debug\TransferBetweenForms.Properties.Resources.resources
+D:\Visual Studio 2010\Bi106\TransferBetweenForms\TransferBetweenForms\obj\Debug\TransferBetweenForms.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Bi106\TransferBetweenForms\TransferBetweenForms\obj\Debug\TransferBetweenForms.exe
+D:\Visual Studio 2010\Bi106\TransferBetweenForms\TransferBetweenForms\obj\Debug\TransferBetweenForms.pdb

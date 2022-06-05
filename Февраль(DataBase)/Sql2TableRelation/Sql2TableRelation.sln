@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sql2TableRelation", "Sql2TableRelation\Sql2TableRelation.csproj", "{DD7C5982-7F62-47C6-9E61-122476B4E8A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7C5982-7F62-47C6-9E61-122476B4E8A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7C5982-7F62-47C6-9E61-122476B4E8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7C5982-7F62-47C6-9E61-122476B4E8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7C5982-7F62-47C6-9E61-122476B4E8A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {489C1FFD-9EEF-4A6C-B215-AB4DFE2D27E9}
+	EndGlobalSection
+EndGlobal

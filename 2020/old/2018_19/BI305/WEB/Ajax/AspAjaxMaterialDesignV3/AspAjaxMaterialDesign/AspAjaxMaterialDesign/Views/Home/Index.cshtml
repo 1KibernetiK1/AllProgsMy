@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "Главная страница";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col s12 m4">
+    @Html.RouteLink("Запрос без AJAX",
+        new
+        {
+            controller="Home",
+            action="ShowStudents_V1"
+        },
+        new
+        {
+            @class= "waves-effect waves-light btn"
+        }
+    )
+</div>
+
+<div class="col s12 m4">
+    @Html.RouteLink("Запрос с Ajax.ASP",
+        new
+        {
+            controller="Home",
+            action="ShowStudents_V2"
+        },
+        new
+        {
+            @class= "waves-effect waves-light btn"
+        }
+    )
+</div>
+
+<div class="col s12 m4">
+    @Html.RouteLink("Запрос с ajax + jquery",
+        new
+        {
+            controller = "Home",
+            action = "ShowStudents_V3"
+        },
+        new
+        {
+            @class = "waves-effect waves-light btn"
+        }
+    )
+</div>
+
+

@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\П-27\ProjectMyReadLine\ProjectMyReadLine\bin\Debug\ProjectMyReadLine.exe.config
+D:\Visual Studio 2010\П-27\ProjectMyReadLine\ProjectMyReadLine\bin\Debug\ProjectMyReadLine.exe
+D:\Visual Studio 2010\П-27\ProjectMyReadLine\ProjectMyReadLine\bin\Debug\ProjectMyReadLine.pdb
+D:\Visual Studio 2010\П-27\ProjectMyReadLine\ProjectMyReadLine\obj\Debug\ProjectMyReadLine.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\П-27\ProjectMyReadLine\ProjectMyReadLine\obj\Debug\ProjectMyReadLine.exe
+D:\Visual Studio 2010\П-27\ProjectMyReadLine\ProjectMyReadLine\obj\Debug\ProjectMyReadLine.pdb

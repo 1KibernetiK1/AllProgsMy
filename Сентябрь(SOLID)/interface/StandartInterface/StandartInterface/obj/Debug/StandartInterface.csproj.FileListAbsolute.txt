@@ -1,0 +1,7 @@
+G:\SergPAv\StandartInterface\StandartInterface\bin\Debug\StandartInterface.exe.config
+G:\SergPAv\StandartInterface\StandartInterface\bin\Debug\StandartInterface.exe
+G:\SergPAv\StandartInterface\StandartInterface\bin\Debug\StandartInterface.pdb
+G:\SergPAv\StandartInterface\StandartInterface\obj\Debug\StandartInterface.csprojAssemblyReference.cache
+G:\SergPAv\StandartInterface\StandartInterface\obj\Debug\StandartInterface.csproj.CoreCompileInputs.cache
+G:\SergPAv\StandartInterface\StandartInterface\obj\Debug\StandartInterface.exe
+G:\SergPAv\StandartInterface\StandartInterface\obj\Debug\StandartInterface.pdb

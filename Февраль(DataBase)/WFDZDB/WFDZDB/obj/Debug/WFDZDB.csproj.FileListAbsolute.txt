@@ -1,0 +1,10 @@
+E:\SergPAv\Программирование\Февраль\WFDZDB\WFDZDB\bin\Debug\WFDZDB.exe.config
+E:\SergPAv\Программирование\Февраль\WFDZDB\WFDZDB\bin\Debug\WFDZDB.exe
+E:\SergPAv\Программирование\Февраль\WFDZDB\WFDZDB\bin\Debug\WFDZDB.pdb
+E:\SergPAv\Программирование\Февраль\WFDZDB\WFDZDB\obj\Debug\WFDZDB.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Февраль\WFDZDB\WFDZDB\obj\Debug\WFDZDB.Form1.resources
+E:\SergPAv\Программирование\Февраль\WFDZDB\WFDZDB\obj\Debug\WFDZDB.Properties.Resources.resources
+E:\SergPAv\Программирование\Февраль\WFDZDB\WFDZDB\obj\Debug\WFDZDB.csproj.GenerateResource.cache
+E:\SergPAv\Программирование\Февраль\WFDZDB\WFDZDB\obj\Debug\WFDZDB.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Февраль\WFDZDB\WFDZDB\obj\Debug\WFDZDB.exe
+E:\SergPAv\Программирование\Февраль\WFDZDB\WFDZDB\obj\Debug\WFDZDB.pdb

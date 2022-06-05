@@ -1,0 +1,8 @@
+D:\Visual Studio 2010\0\ProjectMasterDetails\ProjectMasterDetails\bin\Debug\DataBase\customers.txt
+D:\Visual Studio 2010\0\ProjectMasterDetails\ProjectMasterDetails\bin\Debug\ProjectMasterDetails.exe.config
+D:\Visual Studio 2010\0\ProjectMasterDetails\ProjectMasterDetails\bin\Debug\ProjectMasterDetails.exe
+D:\Visual Studio 2010\0\ProjectMasterDetails\ProjectMasterDetails\bin\Debug\ProjectMasterDetails.pdb
+D:\Visual Studio 2010\0\ProjectMasterDetails\ProjectMasterDetails\obj\Debug\ProjectMasterDetails.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\0\ProjectMasterDetails\ProjectMasterDetails\obj\Debug\ProjectMasterDetails.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\0\ProjectMasterDetails\ProjectMasterDetails\obj\Debug\ProjectMasterDetails.exe
+D:\Visual Studio 2010\0\ProjectMasterDetails\ProjectMasterDetails\obj\Debug\ProjectMasterDetails.pdb

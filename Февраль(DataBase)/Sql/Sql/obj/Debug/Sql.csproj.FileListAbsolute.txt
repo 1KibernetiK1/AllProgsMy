@@ -1,0 +1,10 @@
+E:\SergPAv\Программирование\Февраль\Sql\Sql\bin\Debug\Sql.exe.config
+E:\SergPAv\Программирование\Февраль\Sql\Sql\bin\Debug\Sql.exe
+E:\SergPAv\Программирование\Февраль\Sql\Sql\bin\Debug\Sql.pdb
+E:\SergPAv\Программирование\Февраль\Sql\Sql\obj\Debug\Sql.csprojAssemblyReference.cache
+E:\SergPAv\Программирование\Февраль\Sql\Sql\obj\Debug\Sql.Form1.resources
+E:\SergPAv\Программирование\Февраль\Sql\Sql\obj\Debug\Sql.Properties.Resources.resources
+E:\SergPAv\Программирование\Февраль\Sql\Sql\obj\Debug\Sql.csproj.GenerateResource.cache
+E:\SergPAv\Программирование\Февраль\Sql\Sql\obj\Debug\Sql.csproj.CoreCompileInputs.cache
+E:\SergPAv\Программирование\Февраль\Sql\Sql\obj\Debug\Sql.exe
+E:\SergPAv\Программирование\Февраль\Sql\Sql\obj\Debug\Sql.pdb

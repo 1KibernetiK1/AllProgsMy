@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+
+<!-- Привязываем точку входа
+    angularJS к HTML -->
+<html ng-app="mainApp">
+<head>
+
+    <script src="../Libs/angular.js"></script>
+    <meta charset="utf-8" />
+    <title>ng-hide</title>
+
+    <script>
+        var mainApp = angular.module("mainApp", []);
+        mainApp.controller("mainCtrl", function ($scope) {
+            $scope.styleObj =
+                {
+                    color: false, 
+                    size: false,
+                    border: false
+                };
+            
+        });
+    </script>
+    <style>
+        .color { background-color: lightgreen; }
+        .size { width:100px; height:100px; }
+        .border { border: 1px solid red; }
+    </style>
+
+</head>
+
+<!-- Привязка html и контроллера -->
+<body ng-controller="mainCtrl">
+    <h2>ng-class demo</h2>
+    <div class="row well">
+        <input type="checkbox" ng-model="styleObj.color"/> 
+            Color <br/>
+        <input type="checkbox" ng-model="styleObj.size"/> 
+            Size <br />
+        <input type="checkbox" ng-model="styleObj.border"/> 
+            Border <br />
+    </div>
+
+    <div ng-class="styleObj">
+        Element 1
+        {{styleObj}}
+    </div>
+</body>
+</html>

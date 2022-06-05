@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+
+<!-- Привязываем точку входа
+    angularJS к HTML -->
+<html ng-app="mainApp">
+<head>
+
+    <script src="../Libs/angular.js"></script>
+    <meta charset="utf-8" />
+    <title>ng-hide</title>
+
+    <script>
+
+        var mainApp = angular.module("mainApp", []);
+        mainApp.controller("mainCtrl", function ($scope) {
+            $scope.hideElem1 = false;
+            $scope.hideElem2 = false;
+            $scope.hideElem3 = false;
+        });
+
+
+    </script>
+    <style>
+        div{
+            padding:30px;
+            margin:15px;
+            border: 1px solid gray;
+            display: inline-block;
+            border-radius:3px;
+        }
+        #d1{background-color:lightgreen;}
+        #d2 {
+            background-color: lightcoral;
+        }
+        #d3 {
+            background-color: lightblue;
+        }
+    </style>
+
+</head>
+
+<!-- Привязка html и контроллера -->
+<body ng-controller="mainCtrl">
+    <h2>ng-hide demo</h2>
+    <div>
+        <input type="checkbox" ng-model="hideElem1"/> 
+         Hide elem1 <br>
+        <input type="checkbox" ng-model="hideElem2"/>
+         Hide elem2 <br>
+        <input type="checkbox" ng-model="hideElem3"/>
+         Hide elem3 <br>
+    </div>
+    
+    <div id="d1" ng-hide="hideElem1">
+        Element 1
+    </div>
+    <div id="d2" ng-hide="hideElem2">
+        Element 2
+    </div>
+    <div id="d3" ng-hide="hideElem3">
+        Element 3
+    </div>
+</body>
+</html>

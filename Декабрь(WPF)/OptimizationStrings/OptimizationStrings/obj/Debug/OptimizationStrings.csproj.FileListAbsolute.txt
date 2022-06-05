@@ -1,0 +1,7 @@
+D:\visual studio 2010\Никулин ПИ-225\OptimizationStrings\OptimizationStrings\bin\Debug\OptimizationStrings.exe.config
+D:\visual studio 2010\Никулин ПИ-225\OptimizationStrings\OptimizationStrings\bin\Debug\OptimizationStrings.exe
+D:\visual studio 2010\Никулин ПИ-225\OptimizationStrings\OptimizationStrings\bin\Debug\OptimizationStrings.pdb
+D:\visual studio 2010\Никулин ПИ-225\OptimizationStrings\OptimizationStrings\obj\Debug\OptimizationStrings.csprojAssemblyReference.cache
+D:\visual studio 2010\Никулин ПИ-225\OptimizationStrings\OptimizationStrings\obj\Debug\OptimizationStrings.csproj.CoreCompileInputs.cache
+D:\visual studio 2010\Никулин ПИ-225\OptimizationStrings\OptimizationStrings\obj\Debug\OptimizationStrings.exe
+D:\visual studio 2010\Никулин ПИ-225\OptimizationStrings\OptimizationStrings\obj\Debug\OptimizationStrings.pdb

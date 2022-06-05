@@ -1,0 +1,15 @@
+G:\SergPAv\Программирование\Ноябрь\WpfAppAdaptive\WpfAppAdaptive\bin\Debug\WpfAppAdaptive.exe.config
+G:\SergPAv\Программирование\Ноябрь\WpfAppAdaptive\WpfAppAdaptive\bin\Debug\WpfAppAdaptive.exe
+G:\SergPAv\Программирование\Ноябрь\WpfAppAdaptive\WpfAppAdaptive\bin\Debug\WpfAppAdaptive.pdb
+G:\SergPAv\Программирование\Ноябрь\WpfAppAdaptive\WpfAppAdaptive\obj\Debug\WpfAppAdaptive.csprojAssemblyReference.cache
+G:\SergPAv\Программирование\Ноябрь\WpfAppAdaptive\WpfAppAdaptive\obj\Debug\MainWindow.g.cs
+G:\SergPAv\Программирование\Ноябрь\WpfAppAdaptive\WpfAppAdaptive\obj\Debug\App.g.cs
+G:\SergPAv\Программирование\Ноябрь\WpfAppAdaptive\WpfAppAdaptive\obj\Debug\WpfAppAdaptive_MarkupCompile.cache
+G:\SergPAv\Программирование\Ноябрь\WpfAppAdaptive\WpfAppAdaptive\obj\Debug\WpfAppAdaptive_MarkupCompile.lref
+G:\SergPAv\Программирование\Ноябрь\WpfAppAdaptive\WpfAppAdaptive\obj\Debug\MainWindow.baml
+G:\SergPAv\Программирование\Ноябрь\WpfAppAdaptive\WpfAppAdaptive\obj\Debug\WpfAppAdaptive.g.resources
+G:\SergPAv\Программирование\Ноябрь\WpfAppAdaptive\WpfAppAdaptive\obj\Debug\WpfAppAdaptive.Properties.Resources.resources
+G:\SergPAv\Программирование\Ноябрь\WpfAppAdaptive\WpfAppAdaptive\obj\Debug\WpfAppAdaptive.csproj.GenerateResource.cache
+G:\SergPAv\Программирование\Ноябрь\WpfAppAdaptive\WpfAppAdaptive\obj\Debug\WpfAppAdaptive.csproj.CoreCompileInputs.cache
+G:\SergPAv\Программирование\Ноябрь\WpfAppAdaptive\WpfAppAdaptive\obj\Debug\WpfAppAdaptive.exe
+G:\SergPAv\Программирование\Ноябрь\WpfAppAdaptive\WpfAppAdaptive\obj\Debug\WpfAppAdaptive.pdb

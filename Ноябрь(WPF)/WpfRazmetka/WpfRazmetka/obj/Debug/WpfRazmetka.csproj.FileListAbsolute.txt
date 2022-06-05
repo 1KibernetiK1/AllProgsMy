@@ -1,0 +1,15 @@
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfRazmetka\WpfRazmetka\bin\Debug\WpfRazmetka.exe.config
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfRazmetka\WpfRazmetka\bin\Debug\WpfRazmetka.exe
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfRazmetka\WpfRazmetka\bin\Debug\WpfRazmetka.pdb
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfRazmetka\WpfRazmetka\obj\Debug\WpfRazmetka.csprojAssemblyReference.cache
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfRazmetka\WpfRazmetka\obj\Debug\MainWindow.g.cs
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfRazmetka\WpfRazmetka\obj\Debug\App.g.cs
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfRazmetka\WpfRazmetka\obj\Debug\WpfRazmetka_MarkupCompile.cache
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfRazmetka\WpfRazmetka\obj\Debug\WpfRazmetka_MarkupCompile.lref
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfRazmetka\WpfRazmetka\obj\Debug\MainWindow.baml
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfRazmetka\WpfRazmetka\obj\Debug\WpfRazmetka.g.resources
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfRazmetka\WpfRazmetka\obj\Debug\WpfRazmetka.Properties.Resources.resources
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfRazmetka\WpfRazmetka\obj\Debug\WpfRazmetka.csproj.GenerateResource.cache
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfRazmetka\WpfRazmetka\obj\Debug\WpfRazmetka.csproj.CoreCompileInputs.cache
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfRazmetka\WpfRazmetka\obj\Debug\WpfRazmetka.exe
+G:\SergPAv\Программирование\Ноябрь(WPF)\WpfRazmetka\WpfRazmetka\obj\Debug\WpfRazmetka.pdb

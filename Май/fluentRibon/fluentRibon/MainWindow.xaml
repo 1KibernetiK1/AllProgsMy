@@ -1,0 +1,46 @@
+﻿<!--x:Class="fluentRibon.MainWindow"
+     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:fluentRibon"
+        mc:Ignorable="d"-->
+
+<Fluent:RibbonWindow x:Class="fluentRibon.MainWindow"
+                     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                     xmlns:local="clr-namespace:fluentRibon"
+                     xmlns:Fluent="urn:fluent-ribbon"
+                     Title="My first RibbonWindow" 
+                     Width="800" 
+                     Height="600">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Fluent:Ribbon Grid.Row="0">
+            <!--Backstage-->
+            <Fluent:Ribbon.Menu>
+                <Fluent:Backstage>
+                </Fluent:Backstage>
+            </Fluent:Ribbon.Menu>
+
+            <!--Tabs-->
+            <Fluent:RibbonTabItem Header="Home">
+                <Fluent:RibbonGroupBox Header="Group">
+                    <Fluent:Button Header="Книги"
+                                Icon="Resource-Path to your small icon for this button"
+                                LargeIcon="/img/books.png" />
+                    <Fluent:Button Header="Читатели" 
+                                Icon="Resource-Path to your small icon for this button"
+                                LargeIcon="/img/reader.png" />
+                </Fluent:RibbonGroupBox>
+            </Fluent:RibbonTabItem>
+        </Fluent:Ribbon>
+
+        <Grid Grid.Row="1">
+            <TextBlock>My first window containing a Ribbon and something else.</TextBlock>
+        </Grid>
+    </Grid>
+</Fluent:RibbonWindow>

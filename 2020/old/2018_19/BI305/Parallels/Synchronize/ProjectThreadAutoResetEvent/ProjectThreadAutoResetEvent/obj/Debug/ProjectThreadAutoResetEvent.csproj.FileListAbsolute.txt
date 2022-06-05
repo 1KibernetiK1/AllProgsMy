@@ -1,0 +1,5 @@
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectThreadAutoResetEvent\ProjectThreadAutoResetEvent\bin\Debug\ProjectThreadAutoResetEvent.exe.config
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectThreadAutoResetEvent\ProjectThreadAutoResetEvent\bin\Debug\ProjectThreadAutoResetEvent.exe
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectThreadAutoResetEvent\ProjectThreadAutoResetEvent\bin\Debug\ProjectThreadAutoResetEvent.pdb
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectThreadAutoResetEvent\ProjectThreadAutoResetEvent\obj\Debug\ProjectThreadAutoResetEvent.exe
+D:\Visual Studio 2010\2019\Parallels\Synchronize\ProjectThreadAutoResetEvent\ProjectThreadAutoResetEvent\obj\Debug\ProjectThreadAutoResetEvent.pdb

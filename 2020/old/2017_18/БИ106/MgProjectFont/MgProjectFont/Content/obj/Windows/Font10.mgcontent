@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Visual Studio 2010/0/MgProjectFont/MgProjectFont/Content/Font10.spritefont</SourceFile>
+  <SourceTime>2015-04-03T09:15:44+05:00</SourceTime>
+  <DestFile>D:/Visual Studio 2010/0/MgProjectFont/MgProjectFont/Content/bin/Windows/Font10.xnb</DestFile>
+  <DestTime>2018-05-29T12:34:42.1300778+05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T20:05:36+05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T20:05:36+05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
